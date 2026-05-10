@@ -61,7 +61,7 @@
       "Issuer": "Goldman Sachs Group Inc.",
       "Class": "COM",
       "Cusip": "38141GDG6",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 214786,
       "Value": 19423000,
       "SoleVoting": 214786,
@@ -175,5 +175,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:42:22.050141"
+  "updated_at": "2026-05-10T15:49:41.380556"
 }

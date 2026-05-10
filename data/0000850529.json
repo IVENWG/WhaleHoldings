@@ -2336,7 +2336,7 @@
       "Issuer": "PIPER SANDLER COMPANIES COM NE",
       "Class": "COM",
       "Cusip": "724078209",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 1077988,
       "Value": 82519980,
       "SoleVoting": 523728,
@@ -13178,7 +13178,7 @@
       "Issuer": "CREATIVE MEDIA  CMNTY TR",
       "Class": "COM",
       "Cusip": "12564W227",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 10937,
       "Value": 6719,
       "SoleVoting": 10937,
@@ -13204,7 +13204,7 @@
       "Issuer": "LIBERTY MEDIA CORP DEL",
       "Class": "COM",
       "Cusip": "530715AG6",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 30000,
       "Value": 0,
       "SoleVoting": 30000,
@@ -13214,5 +13214,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:42:45.728039"
+  "updated_at": "2026-05-10T15:49:51.591923"
 }

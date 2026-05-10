@@ -282,7 +282,7 @@
       "Issuer": "LIONS GATE ENTMNT CORP",
       "Class": "NOTE 2.938%10/1",
       "Cusip": "535919AF1",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 923200,
       "Value": 918000,
       "SoleVoting": 923200,
@@ -295,7 +295,7 @@
       "Issuer": "LIONS GATE ENTMNT CORP",
       "Class": "FRNT 3.625% 3/1",
       "Cusip": "535919AG9",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 343200,
       "Value": 341000,
       "SoleVoting": 343200,
@@ -318,5 +318,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:42:40.036699"
+  "updated_at": "2026-05-10T15:49:49.646914"
 }

@@ -100,7 +100,7 @@
       "Issuer": "TXNM ENERGY INC",
       "Class": "NOTE 5.750% 6/0",
       "Cusip": "69349HAF4",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 95022000,
       "Value": 127549456,
       "SoleVoting": 95022000,
@@ -1553,5 +1553,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:43:00.764345"
+  "updated_at": "2026-05-10T15:49:57.101412"
 }

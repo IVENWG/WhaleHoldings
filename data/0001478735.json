@@ -29763,19 +29763,6 @@
       "PutCall": ""
     },
     {
-      "Issuer": "CURIOSITYSTREAM INC",
-      "Class": "COM CL A",
-      "Cusip": "23130Q107",
-      "Ticker": "CURI",
-      "SharesPrnAmount": 11000,
-      "Value": 41800,
-      "SoleVoting": 10900,
-      "SharedVoting": 0,
-      "NonVoting": 100,
-      "Type": "Shares",
-      "PutCall": ""
-    },
-    {
       "Issuer": "BUTTERFLY NETWORK INC",
       "Class": "COM CL A",
       "Cusip": "124155102",
@@ -29785,6 +29772,19 @@
       "SoleVoting": 11000,
       "SharedVoting": 0,
       "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "CURIOSITYSTREAM INC",
+      "Class": "COM CL A",
+      "Cusip": "23130Q107",
+      "Ticker": "CURI",
+      "SharesPrnAmount": 11000,
+      "Value": 41800,
+      "SoleVoting": 10900,
+      "SharedVoting": 0,
+      "NonVoting": 100,
       "Type": "Shares",
       "PutCall": ""
     },
@@ -30283,5 +30283,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:42:31.075728"
+  "updated_at": "2026-05-10T15:49:45.945145"
 }

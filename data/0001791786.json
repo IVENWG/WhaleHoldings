@@ -360,7 +360,7 @@
       "Issuer": "WAYFAIR INC",
       "Class": "NOTE 3.500%11/1",
       "Cusip": "94419LAR2",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 15000000,
       "Value": 34327350,
       "SoleVoting": 0,
@@ -386,7 +386,7 @@
       "Issuer": "STRATEGY INC",
       "Class": "NOTE 0.625% 3/1",
       "Cusip": "594972AJ0",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 16000000,
       "Value": 22709280,
       "SoleVoting": 0,
@@ -422,5 +422,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:42:42.927642"
+  "updated_at": "2026-05-10T15:49:50.659159"
 }

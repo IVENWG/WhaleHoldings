@@ -139,7 +139,7 @@
       "Issuer": "BRIDGEBIO PHARMA INC",
       "Class": "NOTE 2.500% 3/1",
       "Cusip": "10806XAB8",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 21750000,
       "Value": 41068568,
       "SoleVoting": 21750000,
@@ -724,7 +724,7 @@
       "Issuer": "STRATEGY INC",
       "Class": "NOTE 12/0",
       "Cusip": "594972AS0",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 10000000,
       "Value": 8207400,
       "SoleVoting": 10000000,
@@ -906,7 +906,7 @@
       "Issuer": "CARDLYTICS INC",
       "Class": "NOTE 4.250% 4/0",
       "Cusip": "14161WAD7",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 15000000,
       "Value": 5775000,
       "SoleVoting": 15000000,
@@ -1010,7 +1010,7 @@
       "Issuer": "STRATEGY INC",
       "Class": "NOTE 0.875% 3/1",
       "Cusip": "594972AL5",
-      "Ticker": NaN,
+      "Ticker": null,
       "SharesPrnAmount": 5000000,
       "Value": 5129600,
       "SoleVoting": 5000000,
@@ -2931,5 +2931,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T23:43:00.250154"
+  "updated_at": "2026-05-10T15:49:56.918255"
 }
