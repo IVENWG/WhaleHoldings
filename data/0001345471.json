@@ -1,0 +1,101 @@
+{
+  "investor_name": "Trian Fund Management (Nelson Peltz)",
+  "cik": "0001345471",
+  "report_period": "2025-12-31",
+  "filing_date": "2026-02-17",
+  "total_value": 3984029993.0,
+  "holdings": [
+    {
+      "Issuer": "Janus Henderson Group plc",
+      "Class": "ORD SHS",
+      "Cusip": "G4474Y214",
+      "Ticker": "JHG",
+      "SharesPrnAmount": 31867800,
+      "Value": 1515951246,
+      "SoleVoting": 0,
+      "SharedVoting": 31867800,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "GE Aerospace",
+      "Class": "COM NEW",
+      "Cusip": "369604301",
+      "Ticker": "GE",
+      "SharesPrnAmount": 4030765,
+      "Value": 1241596543,
+      "SoleVoting": 0,
+      "SharedVoting": 4030765,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Solventum Corporation",
+      "Class": "COM SHS",
+      "Cusip": "83444M101",
+      "Ticker": "SOLV",
+      "SharesPrnAmount": 8236753,
+      "Value": 652680308,
+      "SoleVoting": 0,
+      "SharedVoting": 8236753,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Wendys Co.",
+      "Class": "COM",
+      "Cusip": "95058W100",
+      "Ticker": "WEN",
+      "SharesPrnAmount": 30440318,
+      "Value": 253567849,
+      "SoleVoting": 0,
+      "SharedVoting": 30440318,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Ferguson Plc New",
+      "Class": "SHS",
+      "Cusip": "G3421J106",
+      "Ticker": "FERGXXXX",
+      "SharesPrnAmount": 1086357,
+      "Value": 241855659,
+      "SoleVoting": 0,
+      "SharedVoting": 1086357,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Invesco Ltd.",
+      "Class": "SHS",
+      "Cusip": "G491BT108",
+      "Ticker": "IVZ",
+      "SharesPrnAmount": 2970944,
+      "Value": 78046699,
+      "SoleVoting": 0,
+      "SharedVoting": 2970944,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "GE HealthCare Technologies Inc.",
+      "Class": "COM",
+      "Cusip": "36266G107",
+      "Ticker": "GEHC",
+      "SharesPrnAmount": 4044,
+      "Value": 331689,
+      "SoleVoting": 0,
+      "SharedVoting": 4044,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    }
+  ],
+  "updated_at": "2026-05-10T23:42:41.101732"
+}

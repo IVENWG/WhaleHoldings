@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Berkshire Hathaway (Warren Buffett)",
+    "cik": "0001067983",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 274160086701.0,
+    "last_update": "2026-05-10T23:42:19.882829"
+  },
+  {
+    "name": "Baupost Group (Seth Klarman)",
+    "cik": "0001061768",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 5278590.0,
+    "last_update": "2026-05-10T23:42:20.467064"
+  },
+  {
+    "name": "Himalaya Capital (Li Lu)",
+    "cik": "0001709323",
+    "filing_date": "2026-02-19",
+    "report_period": "2025-12-31",
+    "total_value": 3568876223.0,
+    "last_update": "2026-05-10T23:42:21.394724"
+  },
+  {
+    "name": "Pabrai Investment Funds (Mohnish Pabrai)",
+    "cik": "0001173334",
+    "filing_date": "2012-02-14",
+    "report_period": "2011-12-31",
+    "total_value": 235524000.0,
+    "last_update": "2026-05-10T23:42:22.051074"
+  },
+  {
+    "name": "H&H International Investment (Duan Yongping)",
+    "cik": "0001759760",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 17488569921.0,
+    "last_update": "2026-05-10T23:42:22.654146"
+  },
+  {
+    "name": "Bill & Melinda Gates Foundation",
+    "cik": "0001166559",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 35360093535.0,
+    "last_update": "2026-05-10T23:42:23.226714"
+  },
+  {
+    "name": "Greenlight Capital (David Einhorn)",
+    "cik": "0001079114",
+    "filing_date": "2024-02-14",
+    "report_period": "2023-12-31",
+    "total_value": 2047998727.0,
+    "last_update": "2026-05-10T23:42:23.921525"
+  },
+  {
+    "name": "Bridgewater Associates (Ray Dalio)",
+    "cik": "0001350694",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 27421613830.0,
+    "last_update": "2026-05-10T23:42:24.625555"
+  },
+  {
+    "name": "Renaissance Technologies (Jim Simons)",
+    "cik": "0001037389",
+    "filing_date": "2026-02-12",
+    "report_period": "2025-12-31",
+    "total_value": 64461244358.0,
+    "last_update": "2026-05-10T23:42:26.193019"
+  },
+  {
+    "name": "Citadel Advisors (Ken Griffin)",
+    "cik": "0001423053",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 665872168045.0,
+    "last_update": "2026-05-10T23:42:28.255114"
+  },
+  {
+    "name": "Millennium Management (Israel Englander)",
+    "cik": "0001273087",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 237791015622.0,
+    "last_update": "2026-05-10T23:42:29.358161"
+  },
+  {
+    "name": "D.E. Shaw & Co. (David Shaw)",
+    "cik": "0001009207",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 182424024893.0,
+    "last_update": "2026-05-10T23:42:30.298914"
+  },
+  {
+    "name": "Two Sigma Advisers (Overdeck / Siegel)",
+    "cik": "0001478735",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 51433080635.0,
+    "last_update": "2026-05-10T23:42:31.086779"
+  },
+  {
+    "name": "Soros Fund Management (George Soros)",
+    "cik": "0001029160",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 8630929364.0,
+    "last_update": "2026-05-10T23:42:31.876228"
+  },
+  {
+    "name": "Duquesne Family Office (Stanley Druckenmiller)",
+    "cik": "0001536411",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 4494450.0,
+    "last_update": "2026-05-10T23:42:32.409910"
+  },
+  {
+    "name": "Point72 Asset Management (Steve Cohen)",
+    "cik": "0001603466",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 89421368731.0,
+    "last_update": "2026-05-10T23:42:33.515700"
+  },
+  {
+    "name": "Appaloosa Management (David Tepper)",
+    "cik": "0001006438",
+    "filing_date": "2016-02-12",
+    "report_period": "2015-12-31",
+    "total_value": 5014293000.0,
+    "last_update": "2026-05-10T23:42:33.977009"
+  },
+  {
+    "name": "ARK Invest (Cathie Wood)",
+    "cik": "0001697748",
+    "filing_date": "2026-02-11",
+    "report_period": "2025-12-31",
+    "total_value": 15067426139.0,
+    "last_update": "2026-05-10T23:42:34.595590"
+  },
+  {
+    "name": "Tiger Global Management (Chase Coleman)",
+    "cik": "0001167483",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 29714313270.0,
+    "last_update": "2026-05-10T23:42:35.181320"
+  },
+  {
+    "name": "Coatue Management (Philippe Laffont)",
+    "cik": "0001135730",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 39962643007.0,
+    "last_update": "2026-05-10T23:42:35.872880"
+  },
+  {
+    "name": "Viking Global Investors (Andreas Halvorsen)",
+    "cik": "0001103804",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 37677848898.0,
+    "last_update": "2026-05-10T23:42:36.438079"
+  },
+  {
+    "name": "Lone Pine Capital (Stephen Mandel)",
+    "cik": "0001061165",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 13611137640.0,
+    "last_update": "2026-05-10T23:42:37.092307"
+  },
+  {
+    "name": "Altimeter Capital Management (Brad Gerstner)",
+    "cik": "0001541617",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 6661973445.0,
+    "last_update": "2026-05-10T23:42:37.636141"
+  },
+  {
+    "name": "Whale Rock Capital Management",
+    "cik": "0001387322",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 7820249818.0,
+    "last_update": "2026-05-10T23:42:38.118952"
+  },
+  {
+    "name": "SoftBank Group (Masayoshi Son)",
+    "cik": "0001065521",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 15467989200.0,
+    "last_update": "2026-05-10T23:42:38.681076"
+  },
+  {
+    "name": "Pershing Square (Bill Ackman)",
+    "cik": "0001336528",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 15526737802.0,
+    "last_update": "2026-05-10T23:42:39.385756"
+  },
+  {
+    "name": "Icahn Capital (Carl Icahn)",
+    "cik": "0001412093",
+    "filing_date": "2011-05-16",
+    "report_period": "2011-03-31",
+    "total_value": 6018415000.0,
+    "last_update": "2026-05-10T23:42:40.037804"
+  },
+  {
+    "name": "Trian Fund Management (Nelson Peltz)",
+    "cik": "0001345471",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 3984029993.0,
+    "last_update": "2026-05-10T23:42:41.102614"
+  },
+  {
+    "name": "Third Point (Dan Loeb)",
+    "cik": "0001040273",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 7274621868.0,
+    "last_update": "2026-05-10T23:42:41.713492"
+  },
+  {
+    "name": "ValueAct Capital (Mason Morfit)",
+    "cik": "0001418814",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 7025028860.0,
+    "last_update": "2026-05-10T23:42:42.421639"
+  },
+  {
+    "name": "Elliott Investment Mgmt (Paul Singer)",
+    "cik": "0001791786",
+    "filing_date": "2026-02-18",
+    "report_period": "2025-12-31",
+    "total_value": 22594232626.0,
+    "last_update": "2026-05-10T23:42:42.928569"
+  },
+  {
+    "name": "Scion Asset Management (Michael Burry)",
+    "cik": "0001649339",
+    "filing_date": "2025-11-03",
+    "report_period": "2025-09-30",
+    "total_value": 1381198076.0,
+    "last_update": "2026-05-10T23:42:43.804138"
+  },
+  {
+    "name": "Maverick Capital (Lee Ainslie)",
+    "cik": "0000934639",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 9316015748.0,
+    "last_update": "2026-05-10T23:42:44.383536"
+  },
+  {
+    "name": "Farallon Capital (Andrew Spokes)",
+    "cik": "0000909661",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 20722385989.0,
+    "last_update": "2026-05-10T23:42:45.007696"
+  },
+  {
+    "name": "Fisher Asset Management (Ken Fisher)",
+    "cik": "0000850529",
+    "filing_date": "2026-05-05",
+    "report_period": "2026-03-31",
+    "total_value": 294892645875.0,
+    "last_update": "2026-05-10T23:42:45.733966"
+  },
+  {
+    "name": "GQG Partners (Rajiv Jain)",
+    "cik": "0001697233",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 60716698512.0,
+    "last_update": "2026-05-10T23:42:46.323114"
+  },
+  {
+    "name": "Leon Cooperman (Omega Advisors)",
+    "cik": "0000898382",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 3014011771.0,
+    "last_update": "2026-05-10T23:42:47.007055"
+  },
+  {
+    "name": "Paulson & Co. (John Paulson)",
+    "cik": "0001035674",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 3261997206.0,
+    "last_update": "2026-05-10T23:42:47.639999"
+  },
+  {
+    "name": "Temasek Holdings (Singapore)",
+    "cik": "0001021944",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 31574813200.0,
+    "last_update": "2026-05-10T23:42:48.376632"
+  },
+  {
+    "name": "Wellington Management Group",
+    "cik": "0000902219",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 570656014882.0,
+    "last_update": "2026-05-10T23:42:54.313781"
+  },
+  {
+    "name": "Sands Capital Management",
+    "cik": "0001020066",
+    "filing_date": "2026-05-08",
+    "report_period": "2026-03-31",
+    "total_value": 25486826915.0,
+    "last_update": "2026-05-10T23:42:54.977713"
+  },
+  {
+    "name": "Silver Lake Group",
+    "cik": "0001418226",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 5029779985.0,
+    "last_update": "2026-05-10T23:42:55.806377"
+  },
+  {
+    "name": "Glenview Capital (Larry Robbins)",
+    "cik": "0001138995",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 4914360530.0,
+    "last_update": "2026-05-10T23:42:56.372607"
+  },
+  {
+    "name": "TCI Fund Management (Chris Hohn)",
+    "cik": "0001647251",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 53648816254.0,
+    "last_update": "2026-05-10T23:42:56.867835"
+  },
+  {
+    "name": "Marshall Wace LLP",
+    "cik": "0001318757",
+    "filing_date": "2026-02-13",
+    "report_period": "2025-12-31",
+    "total_value": 109852427961.0,
+    "last_update": "2026-05-10T23:42:57.787220"
+  },
+  {
+    "name": "Egerton Capital (UK) LLP",
+    "cik": "0001581811",
+    "filing_date": "2026-02-11",
+    "report_period": "2025-12-31",
+    "total_value": 9200432020.0,
+    "last_update": "2026-05-10T23:42:58.293426"
+  },
+  {
+    "name": "Eminence Capital",
+    "cik": "0001083340",
+    "filing_date": "2023-02-08",
+    "report_period": "2022-12-31",
+    "total_value": 1325949770.0,
+    "last_update": "2026-05-10T23:42:59.455431"
+  },
+  {
+    "name": "683 Capital Management",
+    "cik": "0001404574",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 2298532455.0,
+    "last_update": "2026-05-10T23:43:00.252502"
+  },
+  {
+    "name": "Zimmer Partners",
+    "cik": "0001565854",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 3795139753.0,
+    "last_update": "2026-05-10T23:43:00.766600"
+  },
+  {
+    "name": "Woodline Partners",
+    "cik": "0001784547",
+    "filing_date": "2026-02-17",
+    "report_period": "2025-12-31",
+    "total_value": 25809366483.0,
+    "last_update": "2026-05-10T23:43:01.387237"
+  }
+]
