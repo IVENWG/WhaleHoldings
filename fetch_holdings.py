@@ -67,7 +67,7 @@ INVESTORS = {
     "0001647251": "TCI Fund Management (Chris Hohn)",
     "0001318757": "Marshall Wace LLP",
     "0001581811": "Egerton Capital (UK) LLP",
-    "0001083340": "Eminence Capital",
+    "0001107310": "Eminence Capital",
     "0001404574": "683 Capital Management",
     "0001565854": "Zimmer Partners",
     "0001784547": "Woodline Partners",
@@ -93,6 +93,11 @@ def fetch_investor_holdings(cik, name):
         if holdings_df is None or holdings_df.empty:
              print(f"{name} 的报告中没有持仓明细")
              return None
+        
+        # 修复 JSON 兼容性：将 NaN 替换为 None (JSON 中的 null) 或空字符串
+        # 这样可以防止前端 JSON.parse() 报错
+        holdings_df = holdings_df.replace({pd.NA: None})
+        holdings_df = holdings_df.where(pd.notnull(holdings_df), None)
         
         # 数据清洗和转换
         data = {

@@ -341,7 +341,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "Crh Plc",
@@ -367,7 +367,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "Option Care Health Inc",
@@ -786,5 +786,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T15:49:46.289596"
+  "updated_at": "2026-05-11T00:49:00.390082"
 }

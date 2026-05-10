@@ -68,7 +68,7 @@
       "SharedVoting": 20000000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INVESCO QQQ TR",
@@ -81,7 +81,7 @@
       "SharedVoting": 2500000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VANECK ETF TRUST",
@@ -94,7 +94,7 @@
       "SharedVoting": 14000000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SELECT SECTOR SPDR TR",
@@ -107,7 +107,7 @@
       "SharedVoting": 7500000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PINTEREST INC",
@@ -133,7 +133,7 @@
       "SharedVoting": 16000000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ISHARES TR",
@@ -146,7 +146,7 @@
       "SharedVoting": 2800000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NVIDIA CORPORATION",
@@ -159,7 +159,7 @@
       "SharedVoting": 3000000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HEWLETT PACKARD ENTERPRISE C",
@@ -211,7 +211,7 @@
       "SharedVoting": 2398400,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ETSY INC",
@@ -276,7 +276,7 @@
       "SharedVoting": 1000000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ISHARES TR",
@@ -289,7 +289,7 @@
       "SharedVoting": 1300000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EQUINIX INC",
@@ -354,7 +354,7 @@
       "SharedVoting": 900000,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WAYFAIR INC",
@@ -422,5 +422,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-10T15:49:50.659159"
+  "updated_at": "2026-05-11T00:49:11.150828"
 }
