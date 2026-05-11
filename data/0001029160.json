@@ -29,7 +29,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "SPOTIFY USA INC",
@@ -120,7 +120,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "CONFLUENT INC",
@@ -224,7 +224,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "APPLE INC",
@@ -289,7 +289,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "DAYFORCE INC",
@@ -653,7 +653,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "CHART INDS INC",
@@ -1069,7 +1069,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "EXELON CORP",
@@ -1641,7 +1641,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "OKTA INC",
@@ -1706,7 +1706,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "SNAP INC",
@@ -2499,7 +2499,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "JACOBS SOLUTIONS INC",
@@ -3087,5 +3087,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T00:48:59.711091"
+  "updated_at": "2026-05-11T02:00:07.496582"
 }

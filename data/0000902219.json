@@ -17046,7 +17046,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "CANADIAN PACIFIC KANSAS CITY",
@@ -22883,7 +22883,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "ARK ETF TR",
@@ -22896,7 +22896,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "KARAT PACKAGING INC",
@@ -23455,7 +23455,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "RAPID7 INC",
@@ -24420,5 +24420,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T00:49:21.791716"
+  "updated_at": "2026-05-11T02:00:16.296048"
 }

@@ -42,7 +42,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "MASTERCARD INCORPORATED",
@@ -68,7 +68,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "AMAZON COM INC",
@@ -81,7 +81,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "MICROSOFT CORP",
@@ -224,7 +224,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "SEA LTD",
@@ -445,7 +445,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "SALESFORCE INC",
@@ -549,7 +549,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "BIONTECH SE",
@@ -653,7 +653,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "H WORLD GROUP LTD",
@@ -679,7 +679,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "DENALI THERAPEUTICS INC",
@@ -744,7 +744,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "SERVICENOW INC",
@@ -887,7 +887,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "UNITEDHEALTH GROUP INC",
@@ -939,7 +939,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": null
+      "PutCall": NaN
     },
     {
       "Issuer": "DANAHER CORPORATION",
@@ -1683,5 +1683,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T00:49:16.689443"
+  "updated_at": "2026-05-11T02:00:14.219511"
 }
