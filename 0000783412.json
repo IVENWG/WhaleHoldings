@@ -1,0 +1,62 @@
+{
+  "investor_name": "Daily Journal Corp (Charlie Munger Legacy)",
+  "cik": "0000783412",
+  "report_period": "2026-03-31",
+  "filing_date": "2026-04-15",
+  "total_value": 240668825.0,
+  "holdings": [
+    {
+      "Issuer": "Wells Fargo & Co",
+      "Class": "Common Stock",
+      "Cusip": "949746101",
+      "Ticker": "WFC",
+      "SharesPrnAmount": 1413000,
+      "Value": 112488930,
+      "SoleVoting": 1413000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Bank of America Corp",
+      "Class": "Common Stock",
+      "Cusip": "060505104",
+      "Ticker": "BAC",
+      "SharesPrnAmount": 2000000,
+      "Value": 97500000,
+      "SoleVoting": 2000000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Alibaba Group Holding Ltd",
+      "Class": "Sponsored ADS",
+      "Cusip": "01609W102",
+      "Ticker": "BABA",
+      "SharesPrnAmount": 195000,
+      "Value": 24464700,
+      "SoleVoting": 195000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "US Bancorp",
+      "Class": "Common Stock",
+      "Cusip": "902973304",
+      "Ticker": "USB",
+      "SharesPrnAmount": 119500,
+      "Value": 6215195,
+      "SoleVoting": 119500,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    }
+  ],
+  "updated_at": "2026-05-10T23:36:55.960043"
+}
