@@ -1,6 +1,8 @@
 {
   "investor_name": "Farallon Capital (Andrew Spokes)",
   "cik": "0000909661",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 20722385989.0,
@@ -16,7 +18,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "REVOLUTION MEDICINES INC",
@@ -107,7 +109,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXELIXIS INC",
@@ -146,7 +148,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PROTAGONIST THERAPEUTICS INC",
@@ -237,7 +239,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "THERMO FISHER SCIENTIFIC INC",
@@ -744,7 +746,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JOYY INC",
@@ -1956,5 +1958,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:12.720793"
+  "updated_at": "2026-05-11T10:26:37.502062"
 }

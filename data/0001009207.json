@@ -1,6 +1,8 @@
 {
   "investor_name": "D.E. Shaw & Co. (David Shaw)",
   "cik": "0001009207",
+  "description": "大卫·肖（David Shaw）创立的 D.E. Shaw 是量化金融的先驱。它将计算机科学的严谨性与金融投资完美结合，利用超算和精密算法在全球范围内捕捉套利机会。公司更像一个顶尖的科学实验室（贝佐斯曾在此工作）。它在保持量化优势的同时，也拥有深厚的基本面研究能力，是“科学投资”的代名词。",
+  "style": "量化套利 / 混合投资 / 技术驱动",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 182424024893.0,
@@ -29,7 +31,7 @@
       "SharedVoting": 0,
       "NonVoting": 238680,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR S&P 500 ETF TR",
@@ -55,7 +57,7 @@
       "SharedVoting": 0,
       "NonVoting": 145200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TESLA INC",
@@ -81,7 +83,7 @@
       "SharedVoting": 0,
       "NonVoting": 28900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLE INC",
@@ -94,7 +96,7 @@
       "SharedVoting": 0,
       "NonVoting": 471500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMAZON COM INC",
@@ -133,7 +135,7 @@
       "SharedVoting": 0,
       "NonVoting": 92200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BOOKING HOLDINGS INC",
@@ -159,7 +161,7 @@
       "SharedVoting": 0,
       "NonVoting": 76949,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NETFLIX INC",
@@ -172,7 +174,7 @@
       "SharedVoting": 0,
       "NonVoting": 191970,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
@@ -185,7 +187,7 @@
       "SharedVoting": 0,
       "NonVoting": 2350,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TEXAS INSTRS INC",
@@ -198,7 +200,7 @@
       "SharedVoting": 0,
       "NonVoting": 73000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BROADCOM INC",
@@ -211,7 +213,7 @@
       "SharedVoting": 0,
       "NonVoting": 133000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SOFI TECHNOLOGIES INC",
@@ -250,7 +252,7 @@
       "SharedVoting": 0,
       "NonVoting": 6015,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WESTERN DIGITAL CORP",
@@ -263,7 +265,7 @@
       "SharedVoting": 0,
       "NonVoting": 15000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GENERAL MTRS CO",
@@ -276,7 +278,7 @@
       "SharedVoting": 0,
       "NonVoting": 171900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COSTCO WHSL CORP NEW",
@@ -289,7 +291,7 @@
       "SharedVoting": 0,
       "NonVoting": 28000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BOSTON SCIENTIFIC CORP",
@@ -328,7 +330,7 @@
       "SharedVoting": 0,
       "NonVoting": 64946,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ADOBE INC",
@@ -367,7 +369,7 @@
       "SharedVoting": 0,
       "NonVoting": 114600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MONGODB INC",
@@ -432,7 +434,7 @@
       "SharedVoting": 0,
       "NonVoting": 787900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LOCKHEED MARTIN CORP",
@@ -445,7 +447,7 @@
       "SharedVoting": 0,
       "NonVoting": 17035,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPOTIFY TECHNOLOGY S A",
@@ -484,7 +486,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INTUITIVE SURGICAL INC",
@@ -562,7 +564,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DISNEY WALT CO",
@@ -601,7 +603,7 @@
       "SharedVoting": 0,
       "NonVoting": 200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WESTERN DIGITAL CORP",
@@ -640,7 +642,7 @@
       "SharedVoting": 0,
       "NonVoting": 3697,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FREEPORT-MCMORAN INC",
@@ -666,7 +668,7 @@
       "SharedVoting": 0,
       "NonVoting": 74100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NORFOLK SOUTHN CORP",
@@ -692,7 +694,7 @@
       "SharedVoting": 0,
       "NonVoting": 5600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TORONTO DOMINION BK ONT",
@@ -705,7 +707,7 @@
       "SharedVoting": 0,
       "NonVoting": 2800,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ORACLE CORP",
@@ -718,7 +720,7 @@
       "SharedVoting": 0,
       "NonVoting": 77120,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CLOUDFLARE INC",
@@ -809,7 +811,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SALESFORCE INC",
@@ -835,7 +837,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ROCKET LAB CORP",
@@ -861,7 +863,7 @@
       "SharedVoting": 0,
       "NonVoting": 2600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JPMORGAN CHASE & CO.",
@@ -874,7 +876,7 @@
       "SharedVoting": 0,
       "NonVoting": 48654,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SANDISK CORP",
@@ -900,7 +902,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLOVIN CORP",
@@ -965,7 +967,7 @@
       "SharedVoting": 0,
       "NonVoting": 83,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "T-MOBILE US INC",
@@ -1004,7 +1006,7 @@
       "SharedVoting": 0,
       "NonVoting": 4800,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MOTOROLA SOLUTIONS INC",
@@ -1017,7 +1019,7 @@
       "SharedVoting": 0,
       "NonVoting": 17520,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BARRICK MNG CORP",
@@ -1056,7 +1058,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LUMENTUM HLDGS INC",
@@ -1069,7 +1071,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CARVANA CO",
@@ -1082,7 +1084,7 @@
       "SharedVoting": 0,
       "NonVoting": 9200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BANK MONTREAL QUE",
@@ -1095,7 +1097,7 @@
       "SharedVoting": 0,
       "NonVoting": 43200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GOLDMAN SACHS GROUP INC",
@@ -1108,7 +1110,7 @@
       "SharedVoting": 0,
       "NonVoting": 920,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MARSH & MCLENNAN COS INC",
@@ -1160,7 +1162,7 @@
       "SharedVoting": 0,
       "NonVoting": 16100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMERICAN AIRLS GROUP INC",
@@ -1173,7 +1175,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SHERWIN WILLIAMS CO",
@@ -1199,7 +1201,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MARVELL TECHNOLOGY INC",
@@ -1225,7 +1227,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KIMBERLY-CLARK CORP",
@@ -1238,7 +1240,7 @@
       "SharedVoting": 0,
       "NonVoting": 1790,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALIBABA GROUP HLDG LTD",
@@ -1277,7 +1279,7 @@
       "SharedVoting": 0,
       "NonVoting": 22480,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CENTENE CORP DEL",
@@ -1290,7 +1292,7 @@
       "SharedVoting": 0,
       "NonVoting": 222300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BANK NOVA SCOTIA HALIFAX",
@@ -1316,7 +1318,7 @@
       "SharedVoting": 0,
       "NonVoting": 3200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FIVE BELOW INC",
@@ -1381,7 +1383,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHENIERE ENERGY INC",
@@ -1420,7 +1422,7 @@
       "SharedVoting": 0,
       "NonVoting": 92600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WELLS FARGO CO NEW",
@@ -1433,7 +1435,7 @@
       "SharedVoting": 0,
       "NonVoting": 148700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AST SPACEMOBILE INC",
@@ -1446,7 +1448,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HEWLETT PACKARD ENTERPRISE C",
@@ -1459,7 +1461,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ZSCALER INC",
@@ -1472,7 +1474,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TARGET CORP",
@@ -1498,7 +1500,7 @@
       "SharedVoting": 0,
       "NonVoting": 98200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STRATEGY INC",
@@ -1537,7 +1539,7 @@
       "SharedVoting": 0,
       "NonVoting": 17788,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALNYLAM PHARMACEUTICALS INC",
@@ -1563,7 +1565,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CANADIAN IMPERIAL BANK OF CO",
@@ -1576,7 +1578,7 @@
       "SharedVoting": 0,
       "NonVoting": 34100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MODERNA INC",
@@ -1589,7 +1591,7 @@
       "SharedVoting": 0,
       "NonVoting": 97300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LAS VEGAS SANDS CORP",
@@ -1602,7 +1604,7 @@
       "SharedVoting": 0,
       "NonVoting": 101700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SUPER MICRO COMPUTER INC",
@@ -1615,7 +1617,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PALO ALTO NETWORKS INC",
@@ -1654,7 +1656,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SHOPIFY INC",
@@ -1667,7 +1669,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NEWMONT CORP",
@@ -1771,7 +1773,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EQT CORP",
@@ -1849,7 +1851,7 @@
       "SharedVoting": 0,
       "NonVoting": 5000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STARBUCKS CORP",
@@ -1888,7 +1890,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WALMART INC",
@@ -1901,7 +1903,7 @@
       "SharedVoting": 0,
       "NonVoting": 231100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DEXCOM INC",
@@ -1914,7 +1916,7 @@
       "SharedVoting": 0,
       "NonVoting": 46200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NIO INC",
@@ -1940,7 +1942,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "C H ROBINSON WORLDWIDE INC",
@@ -1953,7 +1955,7 @@
       "SharedVoting": 0,
       "NonVoting": 2200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GODADDY INC",
@@ -1992,7 +1994,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OTIS WORLDWIDE CORP",
@@ -2018,7 +2020,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MORGAN STANLEY",
@@ -2031,7 +2033,7 @@
       "SharedVoting": 0,
       "NonVoting": 80000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ABBVIE INC",
@@ -2044,7 +2046,7 @@
       "SharedVoting": 0,
       "NonVoting": 69600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PHILIP MORRIS INTL INC",
@@ -2070,7 +2072,7 @@
       "SharedVoting": 0,
       "NonVoting": 2400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNITY SOFTWARE INC",
@@ -2135,7 +2137,7 @@
       "SharedVoting": 0,
       "NonVoting": 11300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WILLIAMS SONOMA INC",
@@ -2148,7 +2150,7 @@
       "SharedVoting": 0,
       "NonVoting": 26700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "QUALCOMM INC",
@@ -2161,7 +2163,7 @@
       "SharedVoting": 0,
       "NonVoting": 6100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CENTRUS ENERGY CORP",
@@ -2187,7 +2189,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CNX RES CORP",
@@ -2213,7 +2215,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TERAWULF INC",
@@ -2265,7 +2267,7 @@
       "SharedVoting": 0,
       "NonVoting": 39700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ISHARES BITCOIN TRUST ETF",
@@ -2304,7 +2306,7 @@
       "SharedVoting": 0,
       "NonVoting": 36300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TJX COS INC NEW",
@@ -2317,7 +2319,7 @@
       "SharedVoting": 0,
       "NonVoting": 76123,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PAYPAL HLDGS INC",
@@ -2408,7 +2410,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NORTHROP GRUMMAN CORP",
@@ -2421,7 +2423,7 @@
       "SharedVoting": 0,
       "NonVoting": 10040,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NIKE INC",
@@ -2434,7 +2436,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AERCAP HOLDINGS NV",
@@ -2486,7 +2488,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GENERAC HLDGS INC",
@@ -2499,7 +2501,7 @@
       "SharedVoting": 0,
       "NonVoting": 2300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ROGERS COMMUNICATIONS INC",
@@ -2538,7 +2540,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALBEMARLE CORP",
@@ -2564,7 +2566,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COCA COLA CO",
@@ -2590,7 +2592,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TE CONNECTIVITY PLC",
@@ -2616,7 +2618,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PLANET LABS PBC",
@@ -2681,7 +2683,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WEC ENERGY GROUP INC",
@@ -2707,7 +2709,7 @@
       "SharedVoting": 0,
       "NonVoting": 48600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GE AEROSPACE",
@@ -2720,7 +2722,7 @@
       "SharedVoting": 0,
       "NonVoting": 53080,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNITED PARCEL SERVICE INC",
@@ -2746,7 +2748,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JOBY AVIATION INC",
@@ -2798,7 +2800,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JABIL INC",
@@ -2811,7 +2813,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MASTERCARD INCORPORATED",
@@ -2837,7 +2839,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CARNIVAL CORP",
@@ -2889,7 +2891,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SEAGATE HDD CAYMAN",
@@ -2941,7 +2943,7 @@
       "SharedVoting": 0,
       "NonVoting": 1,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FORTINET INC",
@@ -2993,7 +2995,7 @@
       "SharedVoting": 0,
       "NonVoting": 457,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BRIDGEBIO PHARMA INC",
@@ -3045,7 +3047,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VAXCYTE INC",
@@ -3097,7 +3099,7 @@
       "SharedVoting": 0,
       "NonVoting": 970,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ANALOG DEVICES INC",
@@ -3175,7 +3177,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ENPHASE ENERGY INC",
@@ -3201,7 +3203,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MICROCHIP TECHNOLOGY INC.",
@@ -3214,7 +3216,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DELTA AIR LINES INC DEL",
@@ -3227,7 +3229,7 @@
       "SharedVoting": 0,
       "NonVoting": 16300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FLUOR CORP NEW",
@@ -3240,7 +3242,7 @@
       "SharedVoting": 0,
       "NonVoting": 93326,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ELASTIC N V",
@@ -3253,7 +3255,7 @@
       "SharedVoting": 0,
       "NonVoting": 32490,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ULTA BEAUTY INC",
@@ -3266,7 +3268,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLIED MATLS INC",
@@ -3279,7 +3281,7 @@
       "SharedVoting": 0,
       "NonVoting": 6216,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ZOETIS INC",
@@ -3305,7 +3307,7 @@
       "SharedVoting": 0,
       "NonVoting": 70300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ANNALY CAPITAL MANAGEMENT IN",
@@ -3461,7 +3463,7 @@
       "SharedVoting": 0,
       "NonVoting": 106100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COINBASE GLOBAL INC",
@@ -3500,7 +3502,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PROGRESSIVE CORP",
@@ -3526,7 +3528,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VICI PPTYS INC",
@@ -3552,7 +3554,7 @@
       "SharedVoting": 0,
       "NonVoting": 600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TEMPUS AI INC",
@@ -3565,7 +3567,7 @@
       "SharedVoting": 0,
       "NonVoting": 200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EDISON INTL",
@@ -3604,7 +3606,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ON SEMICONDUCTOR CORP",
@@ -3617,7 +3619,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AFFIRM HLDGS INC",
@@ -3630,7 +3632,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MP MATERIALS CORP",
@@ -3773,7 +3775,7 @@
       "SharedVoting": 0,
       "NonVoting": 9300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COREWEAVE INC",
@@ -3786,7 +3788,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FLUENCE ENERGY INC",
@@ -3799,7 +3801,7 @@
       "SharedVoting": 0,
       "NonVoting": 38818,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BATH & BODY WORKS INC",
@@ -3825,7 +3827,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NATERA INC",
@@ -3851,7 +3853,7 @@
       "SharedVoting": 0,
       "NonVoting": 6732,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MCKESSON CORP",
@@ -3877,7 +3879,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ROYAL CARIBBEAN GROUP",
@@ -3890,7 +3892,7 @@
       "SharedVoting": 0,
       "NonVoting": 29020,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BCE INC",
@@ -3903,7 +3905,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LIVE NATION ENTERTAINMENT IN",
@@ -3981,7 +3983,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ICON PLC",
@@ -4098,7 +4100,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COMFORT SYS USA INC",
@@ -4111,7 +4113,7 @@
       "SharedVoting": 0,
       "NonVoting": 6480,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TOTALENERGIES SE",
@@ -4124,7 +4126,7 @@
       "SharedVoting": 0,
       "NonVoting": 14501,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONFLUENT INC",
@@ -4202,7 +4204,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MADRIGAL PHARMACEUTICALS INC",
@@ -4215,7 +4217,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CELSIUS HLDGS INC",
@@ -4228,7 +4230,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INSPIRE MED SYS INC",
@@ -4306,7 +4308,7 @@
       "SharedVoting": 0,
       "NonVoting": 80600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ETSY INC",
@@ -4332,7 +4334,7 @@
       "SharedVoting": 0,
       "NonVoting": 2200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PERFORMANCE FOOD GROUP CO",
@@ -4449,7 +4451,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KINDER MORGAN INC DEL",
@@ -4475,7 +4477,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HUNT J B TRANS SVCS INC",
@@ -4527,7 +4529,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AXSOME THERAPEUTICS INC",
@@ -4618,7 +4620,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OSCAR HEALTH INC",
@@ -4657,7 +4659,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHARTER COMMUNICATIONS INC N",
@@ -4748,7 +4750,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OPENDOOR TECHNOLOGIES INC",
@@ -4761,7 +4763,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IONQ INC",
@@ -4774,7 +4776,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STRATEGY INC",
@@ -4891,7 +4893,7 @@
       "SharedVoting": 0,
       "NonVoting": 1300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR SERIES TRUST",
@@ -4930,7 +4932,7 @@
       "SharedVoting": 0,
       "NonVoting": 77700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BRISTOL-MYERS SQUIBB CO",
@@ -4943,7 +4945,7 @@
       "SharedVoting": 0,
       "NonVoting": 35700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SEA LTD",
@@ -5047,7 +5049,7 @@
       "SharedVoting": 0,
       "NonVoting": 22900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FMC CORP",
@@ -5060,7 +5062,7 @@
       "SharedVoting": 0,
       "NonVoting": 128400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MOODYS CORP",
@@ -5112,7 +5114,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PINNACLE WEST CAP CORP",
@@ -5203,7 +5205,7 @@
       "SharedVoting": 0,
       "NonVoting": 687,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LYFT INC",
@@ -5359,7 +5361,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COGENT BIOSCIENCES INC",
@@ -5411,7 +5413,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MOLINA HEALTHCARE INC",
@@ -5437,7 +5439,7 @@
       "SharedVoting": 0,
       "NonVoting": 48129,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ENVIRI CORP",
@@ -5463,7 +5465,7 @@
       "SharedVoting": 0,
       "NonVoting": 9879,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LIBERTY LIVE HOLDINGS INC",
@@ -5515,7 +5517,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EQUITABLE HLDGS INC",
@@ -5554,7 +5556,7 @@
       "SharedVoting": 0,
       "NonVoting": 62200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SAIA INC",
@@ -5580,7 +5582,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KLA CORP",
@@ -5593,7 +5595,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VIATRIS INC",
@@ -5619,7 +5621,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ATMUS FILTRATION TECHNOLOGIE",
@@ -5684,7 +5686,7 @@
       "SharedVoting": 0,
       "NonVoting": 28700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLIED OPTOELECTRONICS INC",
@@ -5723,7 +5725,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PRIMORIS SVCS CORP",
@@ -5762,7 +5764,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COLGATE PALMOLIVE CO",
@@ -5892,7 +5894,7 @@
       "SharedVoting": 0,
       "NonVoting": 2551,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NIO INC",
@@ -5931,7 +5933,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GARMIN LTD",
@@ -6061,7 +6063,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CELANESE CORP DEL",
@@ -6074,7 +6076,7 @@
       "SharedVoting": 0,
       "NonVoting": 5000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OKTA INC",
@@ -6113,7 +6115,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TAKEDA PHARMACEUTICAL CO LTD",
@@ -6178,7 +6180,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ADIENT PLC",
@@ -6230,7 +6232,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VIKING THERAPEUTICS INC",
@@ -6386,7 +6388,7 @@
       "SharedVoting": 0,
       "NonVoting": 63500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UBS GROUP AG",
@@ -6399,7 +6401,7 @@
       "SharedVoting": 0,
       "NonVoting": 20600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NEOGENOMICS INC",
@@ -6451,7 +6453,7 @@
       "SharedVoting": 0,
       "NonVoting": 2951,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INGREDION INC",
@@ -6477,7 +6479,7 @@
       "SharedVoting": 0,
       "NonVoting": 4800,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ARK ETF TR",
@@ -6555,7 +6557,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNITED NAT FOODS INC",
@@ -6646,7 +6648,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "XERIS BIOPHARMA HOLDINGS INC",
@@ -6685,7 +6687,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JAMF HLDG CORP",
@@ -6711,7 +6713,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FOX CORP",
@@ -6789,7 +6791,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ETSY INC",
@@ -6828,7 +6830,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "QUEST DIAGNOSTICS INC",
@@ -6919,7 +6921,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STRATEGY INC",
@@ -6945,7 +6947,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COCA COLA CONS INC",
@@ -6997,7 +6999,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FRONTIER COMMUNICATIONS PARE",
@@ -7023,7 +7025,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CENOVUS ENERGY INC",
@@ -7049,7 +7051,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TRAVERE THERAPEUTICS INC",
@@ -7075,7 +7077,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JUMIA TECHNOLOGIES AG",
@@ -7101,7 +7103,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMGEN INC",
@@ -7153,7 +7155,7 @@
       "SharedVoting": 0,
       "NonVoting": 11900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONSOLIDATED EDISON INC",
@@ -7218,7 +7220,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MASTEC INC",
@@ -7257,7 +7259,7 @@
       "SharedVoting": 0,
       "NonVoting": 9683,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GENWORTH FINL INC",
@@ -7296,7 +7298,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MUELLER INDS INC",
@@ -7348,7 +7350,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "REGAL REXNORD CORPORATION",
@@ -7504,7 +7506,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LOGITECH INTL S A",
@@ -7517,7 +7519,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHECK POINT SOFTWARE TECH LT",
@@ -7569,7 +7571,7 @@
       "SharedVoting": 0,
       "NonVoting": 300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INTELLIA THERAPEUTICS INC",
@@ -7582,7 +7584,7 @@
       "SharedVoting": 0,
       "NonVoting": 900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BAUSCH PLUS LOMB CORP",
@@ -7634,7 +7636,7 @@
       "SharedVoting": 0,
       "NonVoting": 1600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VERALTO CORP",
@@ -7777,7 +7779,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DTE ENERGY CO",
@@ -7829,7 +7831,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CANADIAN NAT RES LTD",
@@ -7842,7 +7844,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GRANITE CONSTR INC",
@@ -7881,7 +7883,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GUESS INC",
@@ -7907,7 +7909,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GALLAGHER ARTHUR J & CO",
@@ -7985,7 +7987,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NEW YORK TIMES CO",
@@ -8024,7 +8026,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ARVINAS INC",
@@ -8050,7 +8052,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VIRTU FINL INC",
@@ -8076,7 +8078,7 @@
       "SharedVoting": 0,
       "NonVoting": 2500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PACCAR INC",
@@ -8141,7 +8143,7 @@
       "SharedVoting": 0,
       "NonVoting": 4977,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APOLLO GLOBAL MGMT INC",
@@ -8193,7 +8195,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SSR MINING IN",
@@ -8284,7 +8286,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BAYTEX ENERGY CORP",
@@ -8388,7 +8390,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "XOMETRY INC",
@@ -8414,7 +8416,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ON HLDG AG",
@@ -8466,7 +8468,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IAMGOLD CORP",
@@ -8674,7 +8676,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AGILENT TECHNOLOGIES INC",
@@ -8700,7 +8702,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHEGG INC",
@@ -8726,7 +8728,7 @@
       "SharedVoting": 0,
       "NonVoting": 10400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IBOTTA INC",
@@ -8843,7 +8845,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MEDLINE INC",
@@ -8869,7 +8871,7 @@
       "SharedVoting": 0,
       "NonVoting": 41289,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "YUM CHINA HLDGS INC",
@@ -8895,7 +8897,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALLY FINL INC",
@@ -8908,7 +8910,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GILEAD SCIENCES INC",
@@ -8934,7 +8936,7 @@
       "SharedVoting": 0,
       "NonVoting": 2100,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ARRAY TECHNOLOGIES INC",
@@ -8986,7 +8988,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPHERE ENTERTAINMENT CO",
@@ -8999,7 +9001,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "8X8 INC NEW",
@@ -9051,7 +9053,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ENCOMPASS HEALTH CORP",
@@ -9285,7 +9287,7 @@
       "SharedVoting": 0,
       "NonVoting": 17585,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHEMOURS CO",
@@ -9363,7 +9365,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MONOLITHIC PWR SYS INC",
@@ -9376,7 +9378,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SOUTHERN CO",
@@ -9623,7 +9625,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PVH CORPORATION",
@@ -9753,7 +9755,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SIMPLY GOOD FOODS CO",
@@ -9857,7 +9859,7 @@
       "SharedVoting": 0,
       "NonVoting": 9700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "THERMO FISHER SCIENTIFIC INC",
@@ -9922,7 +9924,7 @@
       "SharedVoting": 0,
       "NonVoting": 3500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXPEDITORS INTL WASH INC",
@@ -10143,7 +10145,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KYNDRYL HLDGS INC",
@@ -10208,7 +10210,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SYSCO CORP",
@@ -10221,7 +10223,7 @@
       "SharedVoting": 0,
       "NonVoting": 35107,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DIGITAL RLTY TR INC",
@@ -10416,7 +10418,7 @@
       "SharedVoting": 0,
       "NonVoting": 4300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CENTURY ALUM CO",
@@ -10455,7 +10457,7 @@
       "SharedVoting": 0,
       "NonVoting": 500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AUTOMATIC DATA PROCESSING IN",
@@ -10481,7 +10483,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "T1 ENERGY INC",
@@ -10507,7 +10509,7 @@
       "SharedVoting": 0,
       "NonVoting": 3111,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MYRIAD GENETICS INC",
@@ -10650,7 +10652,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STANTEC INC",
@@ -10754,7 +10756,7 @@
       "SharedVoting": 0,
       "NonVoting": 18200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLIED OPTOELECTRONICS INC",
@@ -10780,7 +10782,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "USA TODAY CO INC",
@@ -10871,7 +10873,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ICHOR HOLDINGS",
@@ -10975,7 +10977,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNION PAC CORP",
@@ -11144,7 +11146,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ELBIT SYS LTD",
@@ -11196,7 +11198,7 @@
       "SharedVoting": 0,
       "NonVoting": 9400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "REPLIMUNE GROUP INC",
@@ -11417,7 +11419,7 @@
       "SharedVoting": 0,
       "NonVoting": 81700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GREENBRIER COS INC",
@@ -11508,7 +11510,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APTARGROUP INC",
@@ -11625,7 +11627,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INNOSPEC INC",
@@ -11716,7 +11718,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GARRETT MOTION INC",
@@ -11781,7 +11783,7 @@
       "SharedVoting": 0,
       "NonVoting": 2400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "QUANTA SVCS INC",
@@ -11794,7 +11796,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TURNING PT BRANDS INC",
@@ -11833,7 +11835,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TG THERAPEUTICS INC",
@@ -11846,7 +11848,7 @@
       "SharedVoting": 0,
       "NonVoting": 37600,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JONES LANG LASALLE INC",
@@ -11859,7 +11861,7 @@
       "SharedVoting": 0,
       "NonVoting": 180,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MITSUBISHI UFJ FINL GROUP IN",
@@ -11911,7 +11913,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RESTAURANT BRANDS INTL INC",
@@ -11924,7 +11926,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CLEAR SECURE INC",
@@ -12002,7 +12004,7 @@
       "SharedVoting": 0,
       "NonVoting": 19700,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXACT SCIENCES CORP",
@@ -12028,7 +12030,7 @@
       "SharedVoting": 0,
       "NonVoting": 14300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COGENT BIOSCIENCES INC",
@@ -12080,7 +12082,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VALERO ENERGY CORP",
@@ -12093,7 +12095,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MARKEL GROUP INC",
@@ -12106,7 +12108,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TAYSHA GENE THERAPIES INC",
@@ -12171,7 +12173,7 @@
       "SharedVoting": 0,
       "NonVoting": 9939,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PINTEREST INC",
@@ -12184,7 +12186,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RLX TECHNOLOGY INC",
@@ -12366,7 +12368,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CRANE COMPANY",
@@ -12574,7 +12576,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMERICAN HEALTHCARE REIT INC",
@@ -12600,7 +12602,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TANDEM DIABETES CARE INC",
@@ -12626,7 +12628,7 @@
       "SharedVoting": 0,
       "NonVoting": 7800,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "REX AMERICAN RES CORP",
@@ -12743,7 +12745,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FERGUSON ENTERPRISES INC",
@@ -12782,7 +12784,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LEGGETT & PLATT INC",
@@ -12912,7 +12914,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PAYONEER GLOBAL INC",
@@ -12938,7 +12940,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SENSIENT TECHNOLOGIES CORP",
@@ -12977,7 +12979,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EPR PPTYS",
@@ -13042,7 +13044,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CANTOR EQUITY PARTNERS IV IN",
@@ -13120,7 +13122,7 @@
       "SharedVoting": 0,
       "NonVoting": 400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "QUINSTREET INC",
@@ -13198,7 +13200,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FULGENT GENETICS INC",
@@ -13224,7 +13226,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CANADIAN PACIFIC KANSAS CITY",
@@ -13237,7 +13239,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OPENLANE INC",
@@ -13354,7 +13356,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GAP INC",
@@ -13367,7 +13369,7 @@
       "SharedVoting": 0,
       "NonVoting": 57500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CRONOS GROUP INC",
@@ -13393,7 +13395,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OIL STS INTL INC",
@@ -13497,7 +13499,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VAIL RESORTS INC",
@@ -13666,7 +13668,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PRUDENTIAL FINL INC",
@@ -13679,7 +13681,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RADIAN GROUP INC",
@@ -13731,7 +13733,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "REDFIN CORP",
@@ -13796,7 +13798,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CIRCLE INTERNET GROUP INC",
@@ -13835,7 +13837,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MAIN STR CAP CORP",
@@ -13874,7 +13876,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EAGLE MATLS INC",
@@ -14355,7 +14357,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ONDAS HLDGS INC",
@@ -14368,7 +14370,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KEROS THERAPEUTICS INC",
@@ -14498,7 +14500,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VAIL RESORTS INC",
@@ -14524,7 +14526,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MATADOR RES CO",
@@ -14550,7 +14552,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VENTYX BIOSCIENCES INC",
@@ -14576,7 +14578,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AON PLC",
@@ -14641,7 +14643,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GOLD ROYALTY CORP",
@@ -14667,7 +14669,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FIGS INC",
@@ -14706,7 +14708,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WEC ENERGY GROUP INC",
@@ -14784,7 +14786,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VIAVI SOLUTIONS INC",
@@ -14888,7 +14890,7 @@
       "SharedVoting": 0,
       "NonVoting": 1900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FIDELITY WISE ORIGIN BITCOIN",
@@ -14940,7 +14942,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NORTHERN OIL & GAS INC",
@@ -14953,7 +14955,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OCULAR THERAPEUTIX INC",
@@ -15031,7 +15033,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VISHAY INTERTECHNOLOGY INC",
@@ -15070,7 +15072,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "D. BORAL ARC ACQ I CORP.",
@@ -15148,7 +15150,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NOKIA CORP",
@@ -15161,7 +15163,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMERICAN EXCEPTIONALISM ACQU",
@@ -15200,7 +15202,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FRANKLIN ELEC INC",
@@ -15317,7 +15319,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EVEREST GROUP LTD",
@@ -15369,7 +15371,7 @@
       "SharedVoting": 0,
       "NonVoting": 278,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ANDERSONS INC",
@@ -15460,7 +15462,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHURCHILL CAPITAL CORP IX",
@@ -15590,7 +15592,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IQIYI INC",
@@ -15603,7 +15605,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CALIFORNIA RES CORP",
@@ -15707,7 +15709,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PROSPERITY BANCSHARES INC",
@@ -15941,7 +15943,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ATMOS ENERGY CORP",
@@ -16149,7 +16151,7 @@
       "SharedVoting": 0,
       "NonVoting": 331,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "XPONENTIAL FITNESS INC",
@@ -16305,7 +16307,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EVERQUOTE INC",
@@ -16344,7 +16346,7 @@
       "SharedVoting": 0,
       "NonVoting": 1920,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NEXGEN ENERGY LTD",
@@ -16422,7 +16424,7 @@
       "SharedVoting": 0,
       "NonVoting": 629,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BAUSCH HEALTH COS INC",
@@ -16643,7 +16645,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ROMAN DBDR ACQUISITION CORP",
@@ -16669,7 +16671,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FOX FACTORY HLDG CORP",
@@ -16760,7 +16762,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GRAPHIC PACKAGING HLDG CO",
@@ -16812,7 +16814,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR SERIES TRUST",
@@ -16994,7 +16996,7 @@
       "SharedVoting": 0,
       "NonVoting": 2377,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AGREE RLTY CORP",
@@ -17020,7 +17022,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EZCORP INC",
@@ -17137,7 +17139,7 @@
       "SharedVoting": 0,
       "NonVoting": 500,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LIGHTWAVE ACQUISITION CORP",
@@ -17176,7 +17178,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TUTOR PERINI CORP",
@@ -17657,7 +17659,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LITHIUM AMERS CORP NEW",
@@ -17943,7 +17945,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "U HAUL HOLDING COMPANY",
@@ -17969,7 +17971,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HENNESSY CAP INVT CORP VII",
@@ -18047,7 +18049,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WAYFAIR INC",
@@ -18190,7 +18192,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALLEGION PLC",
@@ -18216,7 +18218,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HARMONY GOLD MINING CO LTD",
@@ -18541,7 +18543,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TANGO THERAPEUTICS INC",
@@ -18606,7 +18608,7 @@
       "SharedVoting": 0,
       "NonVoting": 3300,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GALAPAGOS NV",
@@ -18749,7 +18751,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "METROPOLITAN BK HLDG CORP",
@@ -18801,7 +18803,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXPEDIA GROUP INC",
@@ -18853,7 +18855,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ACADEMY SPORTS & OUTDOORS IN",
@@ -18866,7 +18868,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MASIMO CORP",
@@ -18931,7 +18933,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SMITH & NEPHEW PLC",
@@ -19009,7 +19011,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MARRIOTT INTL INC NEW",
@@ -19048,7 +19050,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ROGERS CORP",
@@ -19178,7 +19180,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "XPEL INC",
@@ -19204,7 +19206,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PPL CAP FDG INC",
@@ -19269,7 +19271,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MGIC INVT CORP WIS",
@@ -19295,7 +19297,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CVR ENERGY INC",
@@ -19516,7 +19518,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OLIN CORP",
@@ -19529,7 +19531,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IVANHOE ELECTRIC INC",
@@ -19971,7 +19973,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BRIGHTVIEW HLDGS INC",
@@ -20114,7 +20116,7 @@
       "SharedVoting": 0,
       "NonVoting": 32844,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TAILWIND 2.0 ACQUISITION COR",
@@ -20166,7 +20168,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SUN CTRY AIRLS HLDGS INC",
@@ -20374,7 +20376,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "COGENT COMMUNICATIONS HLDGS",
@@ -20387,7 +20389,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IPG PHOTONICS CORP",
@@ -20426,7 +20428,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KB FINL GROUP INC",
@@ -20478,7 +20480,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VIPSHOP HLDGS LTD",
@@ -20803,7 +20805,7 @@
       "SharedVoting": 0,
       "NonVoting": 19000,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ISHARES TR",
@@ -20881,7 +20883,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MARKETAXESS HLDGS INC",
@@ -21011,7 +21013,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TRAVELERS COMPANIES INC",
@@ -21271,7 +21273,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CASTLE BIOSCIENCES INC",
@@ -21388,7 +21390,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EVERGY INC",
@@ -21453,7 +21455,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DUNE ACQUISITION CORP II",
@@ -21492,7 +21494,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MAGNOLIA OIL & GAS CORP",
@@ -21531,7 +21533,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CENTRAL GARDEN & PET CO",
@@ -21674,7 +21676,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GERDAU SA",
@@ -21791,7 +21793,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LIBERTY MEDIA CORP DEL",
@@ -21882,7 +21884,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONAGRA BRANDS INC",
@@ -21921,7 +21923,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SOHO HOUSE & CO INC",
@@ -21947,7 +21949,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ZETA GLOBAL HOLDINGS CORP",
@@ -21999,7 +22001,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ESSENT GROUP LTD",
@@ -22025,7 +22027,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALPHATEC HLDGS INC",
@@ -22064,7 +22066,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KONINKLIJKE PHILIPS N V",
@@ -22103,7 +22105,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EMMIS ACQUISITION CORP.",
@@ -22142,7 +22144,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NMP ACQUISITION CORP",
@@ -22168,7 +22170,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JACK IN THE BOX INC",
@@ -22181,7 +22183,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALLIANCE LAUNDRY HLDGS INC",
@@ -22259,7 +22261,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WOLVERINE WORLD WIDE INC",
@@ -22389,7 +22391,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CNO FINL GROUP INC",
@@ -22480,7 +22482,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TTM TECHNOLOGIES INC",
@@ -22506,7 +22508,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AEBI SCHMIDT HLDG AG",
@@ -22636,7 +22638,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ANNEXON INC",
@@ -22753,7 +22755,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DOCUSIGN INC",
@@ -22766,7 +22768,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APELLIS PHARMACEUTICALS INC",
@@ -22831,7 +22833,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ZIMMER BIOMET HOLDINGS INC",
@@ -22844,7 +22846,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PERIMETER ACQUISITION CORP I",
@@ -23130,7 +23132,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BABCOCK & WILCOX ENTERPRISES",
@@ -23169,7 +23171,7 @@
       "SharedVoting": 0,
       "NonVoting": 900,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KYVERNA THERAPEUTICS INC",
@@ -23208,7 +23210,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "XP INC",
@@ -23273,7 +23275,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BRISTOW GROUP INC",
@@ -23507,7 +23509,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BROWN & BROWN INC",
@@ -23546,7 +23548,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DOLE PLC",
@@ -23598,7 +23600,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HALLADOR ENERGY COMPANY",
@@ -23637,7 +23639,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NOV INC",
@@ -23663,7 +23665,7 @@
       "SharedVoting": 0,
       "NonVoting": 2200,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CARS COM INC",
@@ -23754,7 +23756,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CERENCE INC",
@@ -23819,7 +23821,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TELADOC HEALTH INC",
@@ -23832,7 +23834,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "READY CAPITAL CORP",
@@ -23858,7 +23860,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "N-ABLE INC",
@@ -23884,7 +23886,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMPLIFY ETF TR",
@@ -24066,7 +24068,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NATIONAL BEVERAGE CORP",
@@ -24118,7 +24120,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RE MAX HLDGS INC",
@@ -24144,7 +24146,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HARMONY BIOSCIENCES HLDGS IN",
@@ -24456,7 +24458,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "QUANTUMSPHERE ACQUISITION CO",
@@ -24495,7 +24497,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NOMURA HLDGS INC",
@@ -24651,7 +24653,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HUDSON TECHNOLOGIES INC",
@@ -24807,7 +24809,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HILLENBRAND INC",
@@ -25093,7 +25095,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SIGNET JEWELERS LIMITED",
@@ -25314,7 +25316,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "POLARIS INC",
@@ -25548,7 +25550,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMERANT BANCORP INC",
@@ -25626,7 +25628,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNIQURE NV",
@@ -25639,7 +25641,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SILICON LABORATORIES INC",
@@ -25873,7 +25875,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SKYWEST INC",
@@ -25951,7 +25953,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BETA TECHNOLOGIES INC",
@@ -26042,7 +26044,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IHS HOLDING LIMITED",
@@ -26120,7 +26122,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SCANSOURCE INC",
@@ -26328,7 +26330,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MEIRAGTX HLDGS PLC",
@@ -26393,7 +26395,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ADAPTHEALTH CORP",
@@ -26432,7 +26434,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SKYWORKS SOLUTIONS INC",
@@ -26445,7 +26447,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GENERAL PURP ACQUISITION COR",
@@ -26510,7 +26512,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WERNER ENTERPRISES INC",
@@ -26640,7 +26642,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BANK OF NT BUTTERFIELD&SON L",
@@ -26692,7 +26694,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MILLER INDS INC TENN",
@@ -26718,7 +26720,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CO2 ENERGY TRANSITION CORP",
@@ -26874,7 +26876,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RIBBON COMMUNICATIONS INC",
@@ -27043,7 +27045,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DOVER CORP",
@@ -27199,7 +27201,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MIMEDX GROUP INC",
@@ -27342,7 +27344,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FIRST INDL RLTY TR INC",
@@ -27563,7 +27565,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PARSONS CORP DEL",
@@ -27745,7 +27747,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PARK NATL CORP",
@@ -28018,7 +28020,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GALAXY DIGITAL INC.",
@@ -28200,7 +28202,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PEAPACK-GLADSTONE FINL CORP",
@@ -28343,7 +28345,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BEAZER HOMES USA INC",
@@ -28408,7 +28410,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CS DISCO INC",
@@ -28525,7 +28527,7 @@
       "SharedVoting": 0,
       "NonVoting": 2400,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ISHARES INC",
@@ -28772,7 +28774,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GINKGO BIOWORKS HOLDINGS INC",
@@ -28811,7 +28813,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "LAKESHORE ACQUISITION III CO",
@@ -28941,7 +28943,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CLARIVATE PLC",
@@ -29292,7 +29294,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SOUTHERN MO BANCORP INC",
@@ -29370,7 +29372,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GRANITE PT MTG TR INC",
@@ -29526,7 +29528,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR SERIES TRUST",
@@ -29643,7 +29645,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OCEANEERING INTL INC",
@@ -29708,7 +29710,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SIGHT SCIENCES INC",
@@ -29747,7 +29749,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TENNANT CO",
@@ -29916,7 +29918,7 @@
       "SharedVoting": 0,
       "NonVoting": 800,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR SERIES TRUST",
@@ -30189,7 +30191,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KNOWLES CORP",
@@ -30254,7 +30256,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SIDDHI ACQUISITION CORP",
@@ -30293,7 +30295,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "WASTE MGMT INC DEL",
@@ -30306,7 +30308,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ARCELLX INC",
@@ -30514,7 +30516,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CANADIAN NATL RY CO",
@@ -30605,7 +30607,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SHOE CARNIVAL INC",
@@ -30735,7 +30737,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UGI CORP NEW",
@@ -30748,7 +30750,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SAFE BULKERS INC",
@@ -30852,7 +30854,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PREFERRED BK LOS ANGELES CA",
@@ -30956,7 +30958,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "METALLA RTY & STREAMING LTD",
@@ -31021,7 +31023,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SENSATA TECHNOLOGIES HLDG PL",
@@ -31034,7 +31036,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ALBERTSONS COS INC",
@@ -31255,7 +31257,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DOMO INC",
@@ -31294,7 +31296,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VICOR CORP",
@@ -31307,7 +31309,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "STANDARD MTR PRODS INC",
@@ -31580,7 +31582,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SYNAPTICS INC",
@@ -31684,7 +31686,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MGE ENERGY INC",
@@ -31983,7 +31985,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "RADIANT LOGISTICS INC",
@@ -32022,7 +32024,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MATCH GROUP INC NEW",
@@ -32035,7 +32037,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "TEEKAY CORPORATION LTD",
@@ -32620,7 +32622,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GRACO INC",
@@ -32776,7 +32778,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "YORKVILLE ACQUISITION CORP.",
@@ -33088,7 +33090,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VTEX",
@@ -33296,7 +33298,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BITWISE FUNDS TRUST",
@@ -33413,7 +33415,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMYLYX PHARMACEUTICALS INC",
@@ -33465,7 +33467,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONNECTONE BANCORP INC",
@@ -33764,7 +33766,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CREDIT ACCEP CORP MICH",
@@ -33816,7 +33818,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BITFARMS LTD",
@@ -33920,7 +33922,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "VISHAY PRECISION GROUP INC",
@@ -34089,7 +34091,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "KEARNY FINL CORP MD",
@@ -34700,7 +34702,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "ENTRADA THERAPEUTICS INC",
@@ -34804,7 +34806,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MAMAS CREATIONS INC",
@@ -35246,7 +35248,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BARRETT BUSINESS SVCS INC",
@@ -35363,7 +35365,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DATADOG INC",
@@ -35389,7 +35391,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "GROWGENERATION CORP",
@@ -35493,7 +35495,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HAFNIA LTD",
@@ -35545,7 +35547,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OIL DRI CORP AMER",
@@ -35610,7 +35612,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BAR HBR BANKSHARES",
@@ -35909,7 +35911,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "THERMON GROUP HLDGS INC",
@@ -36611,7 +36613,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "FARMERS NATIONAL BANC CORP",
@@ -36780,7 +36782,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNITED BANKSHARES INC WEST V",
@@ -36975,7 +36977,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "IRONWOOD PHARMACEUTICALS INC",
@@ -37066,7 +37068,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AGORA INC",
@@ -37599,7 +37601,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SIERRA BANCORP",
@@ -38093,7 +38095,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONTANGO ORE INC",
@@ -38444,7 +38446,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "U S PHYSICAL THERAPY",
@@ -38704,7 +38706,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHENGHE ACQUISITION II CO",
@@ -38847,7 +38849,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXCHANGE TRADED CONCEPTS TRU",
@@ -38899,7 +38901,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPDR SERIES TRUST",
@@ -39328,7 +39330,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MSCI INC",
@@ -39627,7 +39629,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INVESCO EXCHANGE TRADED FD T",
@@ -39900,7 +39902,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "INFLECTION POINT ACQU CORP V",
@@ -39965,7 +39967,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SKILLZ INC",
@@ -42386,5 +42388,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:06.860399"
+  "updated_at": "2026-05-11T10:26:23.369149"
 }

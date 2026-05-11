@@ -1,6 +1,8 @@
 {
   "investor_name": "Sands Capital Management",
   "cik": "0001020066",
+  "description": "",
+  "style": "",
   "report_period": "2026-03-31",
   "filing_date": "2026-05-08",
   "total_value": 25486826915.0,
@@ -877,5 +879,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:16.473066"
+  "updated_at": "2026-05-11T10:26:46.611084"
 }

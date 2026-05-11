@@ -1,6 +1,8 @@
 {
   "investor_name": "Duquesne Family Office (Stanley Druckenmiller)",
   "cik": "0001536411",
+  "description": "斯坦利·德鲁肯米勒（Stanley Druckenmiller）是索罗斯最得意的门生，曾在 30 年间创造了从未亏损年度的奇迹。他的投资风格是自上而下的宏观视角，结合了极高的持仓集中度和果断的止损。他信奉“在顺风顺水时做一只猪”，勇于在确信时押下重注。近期他极其看好 AI 技术对生产力的颠覆性影响。",
+  "style": "全球宏观 / 高度集中 / 纪律严明",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 4494450.0,
@@ -341,7 +343,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "Crh Plc",
@@ -367,7 +369,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "Option Care Health Inc",
@@ -786,5 +788,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:07.714512"
+  "updated_at": "2026-05-11T10:26:25.119386"
 }

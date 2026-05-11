@@ -1,6 +1,8 @@
 {
   "investor_name": "Soros Fund Management (George Soros)",
   "cik": "0001029160",
+  "description": "乔治·索罗斯（George Soros）以其“反身性理论”深刻挑战了有效市场假说。他认为参与者的偏见会改变基本面，从而引发自我强化的趋势或泡沫。索罗斯擅长识别市场主流偏见与现实的脱节，并在转折点进行大规模下注。他是宏观对冲的宗师，因“击溃英格兰银行”而确立了在全球金融界的地位。",
+  "style": "反身性理论 / 全球宏观 / 趋势捕捉",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-13",
   "total_value": 8630929364.0,
@@ -29,7 +31,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SPOTIFY USA INC",
@@ -120,7 +122,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CONFLUENT INC",
@@ -224,7 +226,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "APPLE INC",
@@ -289,7 +291,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DAYFORCE INC",
@@ -653,7 +655,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "CHART INDS INC",
@@ -1069,7 +1071,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "EXELON CORP",
@@ -1641,7 +1643,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "OKTA INC",
@@ -1706,7 +1708,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SNAP INC",
@@ -2499,7 +2501,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "JACOBS SOLUTIONS INC",
@@ -3087,5 +3089,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:07.496582"
+  "updated_at": "2026-05-11T10:26:24.655032"
 }

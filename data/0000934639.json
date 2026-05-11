@@ -1,6 +1,8 @@
 {
   "investor_name": "Maverick Capital (Lee Ainslie)",
   "cik": "0000934639",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-13",
   "total_value": 9316015748.0,
@@ -2320,5 +2322,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:12.564086"
+  "updated_at": "2026-05-11T10:26:36.857835"
 }

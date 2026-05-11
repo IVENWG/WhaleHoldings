@@ -1,6 +1,8 @@
 {
   "investor_name": "H&H International Investment (Duan Yongping)",
   "cik": "0001759760",
+  "description": "段永平（Duan Yongping）是中国商业界和投资界的传奇，步步高的创始人，也是 OPPO、vivo 和拼多多的幕后导师。作为“中国巴菲特”，他深受巴芒影响，强调“买股票就是买公司”和“本分”哲学。段永平的持仓极其集中，长期持有苹果和伯克希尔，近期则展现出对 AI 基础设施（如英伟达）的积极布局。",
+  "style": "价值投资 / 商业模式导向 / 极度集中",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 17488569921.0,
@@ -188,5 +190,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:02.768871"
+  "updated_at": "2026-05-11T10:26:16.668426"
 }

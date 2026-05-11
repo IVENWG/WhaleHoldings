@@ -1,6 +1,8 @@
 {
   "investor_name": "Tiger Global Management (Chase Coleman)",
   "cik": "0001167483",
+  "description": "查斯·科尔曼（Chase Coleman）作为“老虎幼崽”中的佼佼者，将风险投资（VC）的进取心带入了二级市场。老虎环球以其在互联网和 SaaS 赛道的“快、准、狠”著称，偏好跨界投资，伴随企业从初创走向上市。其风格是极致的增长导向，重仓押注能够改变人类生活方式的科技平台。",
+  "style": "科技增长 / 跨界投资 / 极致速度",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 29714313270.0,
@@ -708,5 +710,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:08.875954"
+  "updated_at": "2026-05-11T10:26:27.725839"
 }

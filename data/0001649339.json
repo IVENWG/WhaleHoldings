@@ -1,6 +1,8 @@
 {
   "investor_name": "Scion Asset Management (Michael Burry)",
   "cik": "0001649339",
+  "description": "迈克尔·伯里（Michael Burry）是电影《大空头》的原型，因在 2008 年金融危机前重仓做空次贷而名震全球。他是一名极端的逆向投资者，擅长在被市场彻底抛弃的“路边死尸”中寻找价值。伯里的风格是基于深度数据分析的“孤独猎手”，不惧怕对抗主流情绪，持仓变动频繁且极具预见性。",
+  "style": "深度价值 / 逆向投资 / 宏观对冲",
   "report_period": "2025-09-30",
   "filing_date": "2025-11-03",
   "total_value": 1381198076.0,
@@ -16,7 +18,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "NVIDIA CORPORATION",
@@ -29,7 +31,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "PFIZER INC",
@@ -42,7 +44,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "HALLIBURTON CO",
@@ -55,7 +57,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MOLINA HEALTHCARE INC",
@@ -110,5 +112,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:12.351943"
+  "updated_at": "2026-05-11T10:26:36.321834"
 }

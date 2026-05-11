@@ -1,6 +1,8 @@
 {
   "investor_name": "Greenlight Capital (David Einhorn)",
   "cik": "0001079114",
+  "description": "",
+  "style": "",
   "report_period": "2023-12-31",
   "filing_date": "2024-02-14",
   "total_value": 2047998727.0,
@@ -526,5 +528,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:03.457191"
+  "updated_at": "2026-05-11T10:21:12.677607"
 }

@@ -1,6 +1,8 @@
 {
   "investor_name": "Temasek Holdings (Singapore)",
   "cik": "0001021944",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 31574813200.0,
@@ -42,7 +44,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MASTERCARD INCORPORATED",
@@ -68,7 +70,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "AMAZON COM INC",
@@ -81,7 +83,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "MICROSOFT CORP",
@@ -224,7 +226,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SEA LTD",
@@ -445,7 +447,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SALESFORCE INC",
@@ -549,7 +551,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "BIONTECH SE",
@@ -653,7 +655,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "H WORLD GROUP LTD",
@@ -679,7 +681,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DENALI THERAPEUTICS INC",
@@ -744,7 +746,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "SERVICENOW INC",
@@ -887,7 +889,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "UNITEDHEALTH GROUP INC",
@@ -939,7 +941,7 @@
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares",
-      "PutCall": NaN
+      "PutCall": null
     },
     {
       "Issuer": "DANAHER CORPORATION",
@@ -1683,5 +1685,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:14.219511"
+  "updated_at": "2026-05-11T10:26:40.646177"
 }

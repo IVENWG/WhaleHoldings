@@ -1,6 +1,8 @@
 {
   "investor_name": "Lone Pine Capital (Stephen Mandel)",
   "cik": "0001061165",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 13611137640.0,
@@ -422,5 +424,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:09.692089"
+  "updated_at": "2026-05-11T10:26:29.356629"
 }

@@ -1,6 +1,8 @@
 {
   "investor_name": "Silver Lake Group",
   "cik": "0001418226",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-13",
   "total_value": 5029779985.0,
@@ -149,5 +151,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:16.619935"
+  "updated_at": "2026-05-11T10:26:47.164376"
 }

@@ -1,6 +1,8 @@
 {
   "investor_name": "Bridgewater Associates (Ray Dalio)",
   "cik": "0001350694",
+  "description": "瑞·达利欧（Ray Dalio）创立的桥水基金是全球最大的对冲基金。桥水以其“全球宏观”策略和“系统化”思维闻名，核心理念包括“全天候策略”（All Weather）和“纯粹阿尔法”（Pure Alpha）。达利欧强调通过分散不相关的收益流来降低风险，并倡导“极度求真”和“极度透明”的公司文化。",
+  "style": "全球宏观 / 风险平价 / 系统化量化",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-13",
   "total_value": 27421613830.0,
@@ -13526,5 +13528,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:03.682323"
+  "updated_at": "2026-05-11T10:26:18.357080"
 }

@@ -1,0 +1,64 @@
+{
+  "investor_name": "Pabrai Investment Funds (Mohnish Pabrai)",
+  "cik": "0001549575",
+  "description": "",
+  "style": "",
+  "report_period": "2025-12-31",
+  "filing_date": "2026-02-13",
+  "total_value": 402040227.0,
+  "holdings": [
+    {
+      "Issuer": "WARRIOR MET COAL INC",
+      "Class": "COM",
+      "Cusip": "93627C101",
+      "Ticker": "HCC",
+      "SharesPrnAmount": 1799831,
+      "Value": 158691099,
+      "SoleVoting": 1799831,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "TRANSOCEAN LTD",
+      "Class": "REGISTERED SHS",
+      "Cusip": "H8817H100",
+      "Ticker": "RIG",
+      "SharesPrnAmount": 27040133,
+      "Value": 111675749,
+      "SoleVoting": 27040133,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "ALPHA METALLURGICAL RESOUR I",
+      "Class": "COM",
+      "Cusip": "020764106",
+      "Ticker": "AMR",
+      "SharesPrnAmount": 543000,
+      "Value": 108534840,
+      "SoleVoting": 543000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "VALARIS LTD",
+      "Class": "CL A",
+      "Cusip": "G9460G101",
+      "Ticker": "VAL",
+      "SharesPrnAmount": 459098,
+      "Value": 23138539,
+      "SoleVoting": 459098,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    }
+  ],
+  "updated_at": "2026-05-11T10:26:16.180187"
+}

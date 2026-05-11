@@ -1,6 +1,8 @@
 {
   "investor_name": "Two Sigma Advisers (Overdeck / Siegel)",
   "cik": "0001478735",
+  "description": "",
+  "style": "",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 51433080635.0,
@@ -29763,19 +29765,6 @@
       "PutCall": ""
     },
     {
-      "Issuer": "BUTTERFLY NETWORK INC",
-      "Class": "COM CL A",
-      "Cusip": "124155102",
-      "Ticker": "BFLY",
-      "SharesPrnAmount": 11000,
-      "Value": 41800,
-      "SoleVoting": 11000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
-    },
-    {
       "Issuer": "CURIOSITYSTREAM INC",
       "Class": "COM CL A",
       "Cusip": "23130Q107",
@@ -29785,6 +29774,19 @@
       "SoleVoting": 10900,
       "SharedVoting": 0,
       "NonVoting": 100,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "BUTTERFLY NETWORK INC",
+      "Class": "COM CL A",
+      "Cusip": "124155102",
+      "Ticker": "BFLY",
+      "SharesPrnAmount": 11000,
+      "Value": 41800,
+      "SoleVoting": 11000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
       "Type": "Shares",
       "PutCall": ""
     },
@@ -30283,5 +30285,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T02:00:07.241906"
+  "updated_at": "2026-05-11T10:26:24.051531"
 }

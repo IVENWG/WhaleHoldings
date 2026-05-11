@@ -15,10 +15,10 @@ INVESTORS = {
     "0001067983": "Berkshire Hathaway (Warren Buffett)",
     "0001061768": "Baupost Group (Seth Klarman)",
     "0001709323": "Himalaya Capital (Li Lu)",
-    "0001173334": "Pabrai Investment Funds (Mohnish Pabrai)",
+    "0001549575": "Pabrai Investment Funds (Mohnish Pabrai)",
     "0001759760": "H&H International Investment (Duan Yongping)",
     "0001166559": "Bill & Melinda Gates Foundation",
-    "0001079114": "Greenlight Capital (David Einhorn)",
+    "0001489933": "Greenlight Capital (David Einhorn)",
 
     # --- 宏观、量化与多策略巨头 ---
     "0001350694": "Bridgewater Associates (Ray Dalio)",
@@ -30,7 +30,7 @@ INVESTORS = {
     "0001029160": "Soros Fund Management (George Soros)",
     "0001536411": "Duquesne Family Office (Stanley Druckenmiller)",
     "0001603466": "Point72 Asset Management (Steve Cohen)",
-    "0001006438": "Appaloosa Management (David Tepper)",
+    "0001656456": "Appaloosa Management (David Tepper)",
 
     # --- 成长与科技先锋 ---
     "0001697748": "ARK Invest (Cathie Wood)",
@@ -41,11 +41,10 @@ INVESTORS = {
     "0001541617": "Altimeter Capital Management (Brad Gerstner)",
     "0001387322": "Whale Rock Capital Management",
     "0001065521": "SoftBank Group (Masayoshi Son)",
-    "0001759760": "H&H International Investment (Duan Yongping)",
 
     # --- 激进投资者 (Activist) ---
     "0001336528": "Pershing Square (Bill Ackman)",
-    "0001412093": "Icahn Capital (Carl Icahn)",
+    "0000921669": "Icahn Capital (Carl Icahn)",
     "0001345471": "Trian Fund Management (Nelson Peltz)",
     "0001040273": "Third Point (Dan Loeb)",
     "0001418814": "ValueAct Capital (Mason Morfit)",
@@ -74,8 +73,15 @@ INVESTORS = {
 }
 
 DATA_DIR = "data"
+METADATA_FILE = os.path.join(DATA_DIR, "investor_metadata.json")
 
-def fetch_investor_holdings(cik, name):
+def load_metadata():
+    if os.path.exists(METADATA_FILE):
+        with open(METADATA_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def fetch_investor_holdings(cik, name, metadata):
     print(f"正在抓取 {name} (CIK: {cik}) 的持仓数据...")
     try:
         company = Company(cik)
@@ -95,14 +101,20 @@ def fetch_investor_holdings(cik, name):
              return None
         
         # 修复 JSON 兼容性：将 NaN 替换为 None (JSON 中的 null) 或空字符串
-        # 这样可以防止前端 JSON.parse() 报错
         holdings_df = holdings_df.replace({pd.NA: None})
         holdings_df = holdings_df.where(pd.notnull(holdings_df), None)
+        
+        # 获取背景介绍
+        investor_info = metadata.get(cik, {})
+        description = investor_info.get("description", "")
+        style = investor_info.get("style", "")
         
         # 数据清洗和转换
         data = {
             "investor_name": name,
             "cik": cik,
+            "description": description,
+            "style": style,
             "report_period": str(thirteenf.report_period),
             "filing_date": str(latest_filing.filing_date),
             "total_value": float(thirteenf.total_value),
@@ -118,6 +130,8 @@ def fetch_investor_holdings(cik, name):
         return {
             "name": name,
             "cik": cik,
+            "description": description,
+            "style": style,
             "filing_date": str(latest_filing.filing_date),
             "report_period": str(thirteenf.report_period),
             "total_value": float(thirteenf.total_value),
@@ -132,9 +146,10 @@ def main():
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
         
+    metadata = load_metadata()
     summary = []
     for cik, name in INVESTORS.items():
-        result = fetch_investor_holdings(cik, name)
+        result = fetch_investor_holdings(cik, name, metadata)
         if result:
             summary.append(result)
             
@@ -143,6 +158,7 @@ def main():
         json.dump(summary, f, ensure_ascii=False, indent=2)
         
     print(f"所有抓取任务已完成，共成功抓取 {len(summary)} 家机构。")
+
 
 if __name__ == "__main__":
     main()
