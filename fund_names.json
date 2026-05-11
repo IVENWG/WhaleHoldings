@@ -1,0 +1,4482 @@
+{
+  "0001421669": {
+    "cik": "0001421669",
+    "fund": "3G",
+    "fundZh": "3G",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jorge Paulo Lehman",
+    "denomination": "3G Capital Partners LP"
+  },
+  "0001540358": {
+    "cik": "0001540358",
+    "fund": "a16z",
+    "fundZh": "a16z",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ben Horowitz",
+    "denomination": "a16z Capital Management, L.L.C."
+  },
+  "0002029917": {
+    "cik": "0002029917",
+    "fund": "ADAPT",
+    "fundZh": "ADAPT",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Clément Mary-Dauphin",
+    "denomination": "ADAPT Investment Managers SA"
+  },
+  "0001512073": {
+    "cik": "0001512073",
+    "fund": "Aft Forsyth",
+    "fundZh": "Aft Forsyth",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Larry Aft",
+    "denomination": "Aft, Forsyth & Company, Inc."
+  },
+  "0002047606": {
+    "cik": "0002047606",
+    "fund": "AG2R",
+    "fundZh": "AG2R",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Fabrice Heyriès",
+    "denomination": "AG2R La Mondiale Gestion d'actifs"
+  },
+  "0001933952": {
+    "cik": "0001933952",
+    "fund": "AI-Squared",
+    "fundZh": "AI-Squared",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Darren Kimura",
+    "denomination": "AI-Squared Management Ltd"
+  },
+  "0001230239": {
+    "cik": "0001230239",
+    "fund": "Alkeon",
+    "fundZh": "Alkeon",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Panayotis Sparaggis",
+    "denomination": "Alkeon Capital Management LLC"
+  },
+  "0002076121": {
+    "cik": "0002076121",
+    "fund": "Amanah",
+    "fundZh": "Amanah",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Karim Al-Mansour",
+    "denomination": "Amanah Holdings Trust"
+  },
+  "0001807559": {
+    "cik": "0001807559",
+    "fund": "Amitell",
+    "fundZh": "Amitell",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Irene Tedja",
+    "denomination": "Amitell Capital Pte Ltd"
+  },
+  "0001822480": {
+    "cik": "0001822480",
+    "fund": "Anabranch",
+    "fundZh": "Anabranch",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alexander Shapiro & Daniel Wolf",
+    "denomination": "Anabranch Capital Management, LP"
+  },
+  "0001753384": {
+    "cik": "0001753384",
+    "fund": "Analog",
+    "fundZh": "Analog",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Val Zlatev",
+    "denomination": "Analog Century Management LP"
+  },
+  "0002007642": {
+    "cik": "0002007642",
+    "fund": "Anchorage",
+    "fundZh": "Anchorage",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Yale Baron & Thibault Gournay",
+    "denomination": "Anchorage Capital Advisors, L.P."
+  },
+  "0001426749": {
+    "cik": "0001426749",
+    "fund": "Ancient Art",
+    "fundZh": "Ancient Art",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Quincy Lee",
+    "denomination": "Ancient Art, L.P."
+  },
+  "0001805591": {
+    "cik": "0001805591",
+    "fund": "Andar",
+    "fundZh": "Andar",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Wen Han Li",
+    "denomination": "Andar Capital Management HK Ltd"
+  },
+  "0001835730": {
+    "cik": "0001835730",
+    "fund": "Ardmore Road",
+    "fundZh": "Ardmore Road",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chris Connor",
+    "denomination": "Ardmore Road Asset Management"
+  },
+  "0001833078": {
+    "cik": "0001833078",
+    "fund": "Arena",
+    "fundZh": "Arena",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeremy Sagi",
+    "denomination": "Arena Capital Advisors, LLC- CA"
+  },
+  "0001916757": {
+    "cik": "0001916757",
+    "fund": "ASR",
+    "fundZh": "ASR",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Patrick Klijnsmit",
+    "denomination": "ASR Vermogensbeheer N.V."
+  },
+  "0001832439": {
+    "cik": "0001832439",
+    "fund": "Atmos",
+    "fundZh": "Atmos",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bruno Levacov",
+    "denomination": "Atmos Capital Gestao De Recursos Ltda"
+  },
+  "0001777813": {
+    "cik": "0001777813",
+    "fund": "Atreides",
+    "fundZh": "Atreides",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gavin Baker",
+    "denomination": "Atreides Management, LP"
+  },
+  "0000778963": {
+    "cik": "0000778963",
+    "fund": "Augustine",
+    "fundZh": "Augustine",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeffrey Bernardo",
+    "denomination": "Augustine Asset Management Inc"
+  },
+  "0001948899": {
+    "cik": "0001948899",
+    "fund": "Avala",
+    "fundZh": "Avala",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Divya Nettimi",
+    "denomination": "Avala Global LP"
+  },
+  "0001632341": {
+    "cik": "0001632341",
+    "fund": "Belvedere",
+    "fundZh": "Belvedere",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Thomas Hutchinson",
+    "denomination": "Belvedere Trading LLC"
+  },
+  "0001133742": {
+    "cik": "0001133742",
+    "fund": "Berkshire Capital",
+    "fundZh": "Berkshire Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Malcolm Fobes III",
+    "denomination": "Berkshire Capital Holdings Inc"
+  },
+  "0002053305": {
+    "cik": "0002053305",
+    "fund": "BIT",
+    "fundZh": "BIT",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jan Beckers",
+    "denomination": "BIT Capital GmbH"
+  },
+  "0001764725": {
+    "cik": "0001764725",
+    "fund": "Blue Grotto",
+    "fundZh": "Blue Grotto",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Benjamin Gordon",
+    "denomination": "Blue Grotto Capital, LLC"
+  },
+  "0001801547": {
+    "cik": "0001801547",
+    "fund": "Blue Whale",
+    "fundZh": "Blue Whale",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stephen Yiu",
+    "denomination": "Blue Whale Capital LLP"
+  },
+  "0002010854": {
+    "cik": "0002010854",
+    "fund": "BOCHK",
+    "fundZh": "BOCHK",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Shen Hua",
+    "denomination": "BOCHK Asset Management Ltd"
+  },
+  "0001547349": {
+    "cik": "0001547349",
+    "fund": "Broad Peak",
+    "fundZh": "Broad Peak",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Syed Hyder Ahmad",
+    "denomination": "Broad Peak Investment Advisers PTE Ltd"
+  },
+  "0001966297": {
+    "cik": "0001966297",
+    "fund": "Burr",
+    "fundZh": "Burr",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sean Burr",
+    "denomination": "Burr Financial Services, LLC"
+  },
+  "0001536261": {
+    "cik": "0001536261",
+    "fund": "Capricorn",
+    "fundZh": "Capricorn",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ion Yadigaroglu",
+    "denomination": "Capricorn Investment Group LLC"
+  },
+  "0001697591": {
+    "cik": "0001697591",
+    "fund": "CAS",
+    "fundZh": "CAS",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Clifford Sosin",
+    "denomination": "CAS Investment Partners, LLC"
+  },
+  "0001835751": {
+    "cik": "0001835751",
+    "fund": "CastleKnight",
+    "fundZh": "CastleKnight",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Aaron Weitman",
+    "denomination": "CastleKnight Management LP"
+  },
+  "0001388551": {
+    "cik": "0001388551",
+    "fund": "Caxton",
+    "fundZh": "Caxton",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bruce Kovner",
+    "denomination": "Caxton Corp"
+  },
+  "0002051323": {
+    "cik": "0002051323",
+    "fund": "Caxton Associates",
+    "fundZh": "Caxton Associates",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Andrew Law",
+    "denomination": "Caxton Associates LP"
+  },
+  "0001745907": {
+    "cik": "0001745907",
+    "fund": "CloudAlpha",
+    "fundZh": "CloudAlpha",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nancy Yang",
+    "denomination": "CloudAlpha Capital Management Limited/Hong Kong"
+  },
+  "0001632813": {
+    "cik": "0001632813",
+    "fund": "CMT",
+    "fundZh": "CMT",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Scott Casto & Jan-Dirk Lüders",
+    "denomination": "CMT Capital Markets Trading GmbH"
+  },
+  "0001135730": {
+    "cik": "0001135730",
+    "fund": "Coatue",
+    "fundZh": "Coatue 管理",
+    "managerZh": "菲利普·拉丰",
+    "category": "growth",
+    "popularity": 79,
+    "manager": "Philippe Laffont",
+    "denomination": "Coatue Management, L.L.C."
+  },
+  "0001260786": {
+    "cik": "0001260786",
+    "fund": "Consolidated Press",
+    "fundZh": "Consolidated Press",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Lawrence Myers",
+    "denomination": "Consolidated Press International Holdings Ltd"
+  },
+  "0002054801": {
+    "cik": "0002054801",
+    "fund": "Contrarius",
+    "fundZh": "Contrarius",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stephen Mildenhall",
+    "denomination": "Contrarius Group Holdings Ltd"
+  },
+  "0001910417": {
+    "cik": "0001910417",
+    "fund": "Corton",
+    "fundZh": "Corton",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Jarvis",
+    "denomination": "Corton Capital Inc."
+  },
+  "0001789082": {
+    "cik": "0001789082",
+    "fund": "Crake",
+    "fundZh": "Crake",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Richard Walker",
+    "denomination": "Crake Asset Management LLP"
+  },
+  "0001483234": {
+    "cik": "0001483234",
+    "fund": "CRCM",
+    "fundZh": "CRCM",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chun Ding",
+    "denomination": "CRCM LP"
+  },
+  "0001445893": {
+    "cik": "0001445893",
+    "fund": "CTC",
+    "fundZh": "CTC",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Daniel Feuser",
+    "denomination": "CTC LLC"
+  },
+  "0001825611": {
+    "cik": "0001825611",
+    "fund": "Cypress Point",
+    "fundZh": "Cypress Point",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jimmy Kull",
+    "denomination": "Cypress Point Wealth Management, LLC"
+  },
+  "0000800177": {
+    "cik": "0000800177",
+    "fund": "Danske Bank",
+    "fundZh": "Danske Bank",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Carsten Egeriis",
+    "denomination": "Danske Bank A/S"
+  },
+  "0001609098": {
+    "cik": "0001609098",
+    "fund": "Darsana",
+    "fundZh": "Darsana",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Anand Desai",
+    "denomination": "Darsana Capital Partners LP"
+  },
+  "0001009207": {
+    "cik": "0001009207",
+    "fund": "DE Shaw",
+    "fundZh": "DE Shaw",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Shaw",
+    "denomination": "D. E. Shaw & Co., Inc."
+  },
+  "0001860487": {
+    "cik": "0001860487",
+    "fund": "Deuterium",
+    "fundZh": "Deuterium",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Osman Ozsan",
+    "denomination": "Deuterium Capital Management, LLC"
+  },
+  "0001456670": {
+    "cik": "0001456670",
+    "fund": "DNB",
+    "fundZh": "DNB",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Torkild Varran",
+    "denomination": "DNB Asset Management AS"
+  },
+  "0001535839": {
+    "cik": "0001535839",
+    "fund": "Donor Advised",
+    "fundZh": "Donor Advised",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Julie Sunwoo",
+    "denomination": "Donor Advised Charitable Giving, Inc."
+  },
+  "0001808029": {
+    "cik": "0001808029",
+    "fund": "Drummond",
+    "fundZh": "Drummond",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Lindsay Taylor",
+    "denomination": "Drummond Knight Asset Management Pty Ltd"
+  },
+  "0001536411": {
+    "cik": "0001536411",
+    "fund": "Duquesne",
+    "fundZh": "杜肯家族办公室",
+    "managerZh": "斯坦利·德鲁肯米勒",
+    "category": "macro_quant",
+    "popularity": 86,
+    "manager": "Stanley Druckenmiller",
+    "denomination": "Duquesne Family Office LLC"
+  },
+  "0001015083": {
+    "cik": "0001015083",
+    "fund": "Emerald",
+    "fundZh": "Emerald",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kenneth Mertz II",
+    "denomination": "Emerald Advisers, LLC"
+  },
+  "0001352895": {
+    "cik": "0001352895",
+    "fund": "Emerald Mutual",
+    "fundZh": "Emerald Mutual",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Scott Rehr",
+    "denomination": "Emerald Mutual Fund Advisers Trust"
+  },
+  "0001910874": {
+    "cik": "0001910874",
+    "fund": "Eschler",
+    "fundZh": "Eschler",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Theron de Ris",
+    "denomination": "Eschler Asset Management LLP"
+  },
+  "0001660531": {
+    "cik": "0001660531",
+    "fund": "FengHe",
+    "fundZh": "FengHe",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kwek Hyen Yong",
+    "denomination": "FengHe Fund Management Pte. Ltd."
+  },
+  "0001701717": {
+    "cik": "0001701717",
+    "fund": "First Beijing",
+    "fundZh": "First Beijing",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Thomas Wong",
+    "denomination": "First Beijing Investment Ltd"
+  },
+  "0001861705": {
+    "cik": "0001861705",
+    "fund": "Flight Deck",
+    "fundZh": "Flight Deck",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Kahn",
+    "denomination": "Flight Deck Capital, LP"
+  },
+  "0000315066": {
+    "cik": "0000315066",
+    "fund": "FMR",
+    "fundZh": "FMR",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Abigail Johnson",
+    "denomination": "FMR LLC"
+  },
+  "0001718251": {
+    "cik": "0001718251",
+    "fund": "Fortress",
+    "fundZh": "Fortress",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joe Grabar",
+    "denomination": "Fortress Private Ledger, LLC"
+  },
+  "0001897652": {
+    "cik": "0001897652",
+    "fund": "FourSixThree",
+    "fundZh": "FourSixThree",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Scott Balkan",
+    "denomination": "FourSixThree Capital LP"
+  },
+  "0000003520": {
+    "cik": "0000003520",
+    "fund": "Fred Alger",
+    "fundZh": "Fred Alger",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Fred Alger",
+    "denomination": "Fred Alger Management, LLC"
+  },
+  "0002118292": {
+    "cik": "0002118292",
+    "fund": "Galaxy Digital",
+    "fundZh": "Galaxy Digital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Novogratz",
+    "denomination": "Galaxy Digital Capital Management GP LLC"
+  },
+  "0001570284": {
+    "cik": "0001570284",
+    "fund": "Gator",
+    "fundZh": "Gator",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Derek Pilecki",
+    "denomination": "Gator Capital Management, LLC"
+  },
+  "0001963404": {
+    "cik": "0001963404",
+    "fund": "Gavilan",
+    "fundZh": "Gavilan",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Louis Chang",
+    "denomination": "Gavilan Investment Partners LLC"
+  },
+  "0001056581": {
+    "cik": "0001056581",
+    "fund": "Gendell Jeffrey",
+    "fundZh": "Gendell Jeffrey",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gendell Jeffrey",
+    "denomination": "Jeffrey L. Gendell"
+  },
+  "0001700362": {
+    "cik": "0001700362",
+    "fund": "General Equity",
+    "fundZh": "General Equity",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Andrew Bellas",
+    "denomination": "General Equity Holdings LP"
+  },
+  "0002043130": {
+    "cik": "0002043130",
+    "fund": "Generali Poland",
+    "fundZh": "Generali Poland",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kazimierz Fedak",
+    "denomination": "Generali Investments Towarzystwo Funduszy Inwestycyjnych"
+  },
+  "0001740316": {
+    "cik": "0001740316",
+    "fund": "Gifford Fong",
+    "fundZh": "Gifford Fong",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Steven Fong",
+    "denomination": "Gifford Fong Associates"
+  },
+  "0001872787": {
+    "cik": "0001872787",
+    "fund": "Goldstream",
+    "fundZh": "Goldstream",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ziqi Gao",
+    "denomination": "Goldstream Capital Management Ltd"
+  },
+  "0002018973": {
+    "cik": "0002018973",
+    "fund": "Goodlander",
+    "fundZh": "Goodlander",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Labanowski",
+    "denomination": "Goodlander Investment Management, LLC"
+  },
+  "0001869164": {
+    "cik": "0001869164",
+    "fund": "Gordian",
+    "fundZh": "Gordian",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Voumard",
+    "denomination": "Gordian Capital Singapore Private Ltd"
+  },
+  "0001715783": {
+    "cik": "0001715783",
+    "fund": "Grace & Mercy",
+    "fundZh": "Grace & Mercy",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sumi Kim",
+    "denomination": "Grace And Mercy Foundation, Inc."
+  },
+  "0001986124": {
+    "cik": "0001986124",
+    "fund": "Grand Alliance",
+    "fundZh": "Grand Alliance",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Malveaux",
+    "denomination": "Grand Alliance Asset Management Ltd"
+  },
+  "0001840735": {
+    "cik": "0001840735",
+    "fund": "Greenoaks",
+    "fundZh": "Greenoaks",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Neil Mehta",
+    "denomination": "Greenoaks Capital Partners LLC"
+  },
+  "0001845565": {
+    "cik": "0001845565",
+    "fund": "Greenstone",
+    "fundZh": "Greenstone",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gregory Tusher",
+    "denomination": "Greenstone Partners & Co., LLC"
+  },
+  "0001439805": {
+    "cik": "0001439805",
+    "fund": "Greenwich",
+    "fundZh": "Greenwich",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Freeburg",
+    "denomination": "Greenwich Wealth Management LLC"
+  },
+  "0002017993": {
+    "cik": "0002017993",
+    "fund": "Hancock Prospecting",
+    "fundZh": "Hancock Prospecting",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Garry Korte",
+    "denomination": "Hancock Prospecting Pty Ltd"
+  },
+  "0001082621": {
+    "cik": "0001082621",
+    "fund": "Harvard",
+    "fundZh": "Harvard",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Narv Narvekar",
+    "denomination": "Harvard Management Co Inc"
+  },
+  "0002036346": {
+    "cik": "0002036346",
+    "fund": "Headwater",
+    "fundZh": "Headwater",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Kantor",
+    "denomination": "Headwater Capital Co Ltd"
+  },
+  "0001839497": {
+    "cik": "0001839497",
+    "fund": "Helikon",
+    "fundZh": "Helikon",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Grazzini",
+    "denomination": "Helikon Investments Limited"
+  },
+  "0001995612": {
+    "cik": "0001995612",
+    "fund": "Helix",
+    "fundZh": "Helix",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Heller",
+    "denomination": "Helix Partners Management LP"
+  },
+  "0001512022": {
+    "cik": "0001512022",
+    "fund": "Herald",
+    "fundZh": "Herald",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Katie Potts",
+    "denomination": "Herald Investment Management Ltd"
+  },
+  "0001823823": {
+    "cik": "0001823823",
+    "fund": "Hiddenite",
+    "fundZh": "Hiddenite",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ryan Packard",
+    "denomination": "Hiddenite Capital Partners LP"
+  },
+  "0001817652": {
+    "cik": "0001817652",
+    "fund": "Himension",
+    "fundZh": "Himension",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Chen",
+    "denomination": "Himension Capital (Singapore) Pte. Ltd."
+  },
+  "0001619844": {
+    "cik": "0001619844",
+    "fund": "Hyperion",
+    "fundZh": "Hyperion",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Arnold",
+    "denomination": "Hyperion Asset Management Limited"
+  },
+  "0001779789": {
+    "cik": "0001779789",
+    "fund": "IEQ",
+    "fundZh": "IEQ",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alan Zafran & Eric Harrison",
+    "denomination": "IEQ Capital, LLC"
+  },
+  "0001452861": {
+    "cik": "0001452861",
+    "fund": "IMC",
+    "fundZh": "IMC",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sunny Khiani",
+    "denomination": "IMC-Chicago, LLC"
+  },
+  "0001533954": {
+    "cik": "0001533954",
+    "fund": "Institute for Wealth",
+    "fundZh": "Institute for Wealth",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matt Medeiros",
+    "denomination": "Institute for Wealth Management, LLC."
+  },
+  "0001834438": {
+    "cik": "0001834438",
+    "fund": "JAT",
+    "fundZh": "JAT",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Thaler",
+    "denomination": "JAT Capital Management, L.P."
+  },
+  "0001525234": {
+    "cik": "0001525234",
+    "fund": "Jericho",
+    "fundZh": "Jericho",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Josh Resnick",
+    "denomination": "Jericho Capital Asset Management L.P."
+  },
+  "0001113000": {
+    "cik": "0001113000",
+    "fund": "Kensico",
+    "fundZh": "Kensico",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Lowenstein",
+    "denomination": "Kensico Capital Management Corp"
+  },
+  "0001584686": {
+    "cik": "0001584686",
+    "fund": "Kentucky Retirement",
+    "fundZh": "Kentucky Retirement",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joe Gilbert",
+    "denomination": "Kentucky Retirement Systems Insurance Trust Fund"
+  },
+  "0001926253": {
+    "cik": "0001926253",
+    "fund": "Keystone",
+    "fundZh": "Keystone",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ken Tonkinson",
+    "denomination": "Keystone Investors Pte Ltd"
+  },
+  "0001474069": {
+    "cik": "0001474069",
+    "fund": "Keywise",
+    "fundZh": "Keywise",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Fang Zheng",
+    "denomination": "Keywise Capital Management (Hk) Ltd"
+  },
+  "0001911448": {
+    "cik": "0001911448",
+    "fund": "Kinetic",
+    "fundZh": "Kinetic",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Christopher Golden",
+    "denomination": "Kinetic Partners Management, LP"
+  },
+  "0001399770": {
+    "cik": "0001399770",
+    "fund": "Kohlberg",
+    "fundZh": "Kohlberg",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joseph Bae & Scott Nuttall",
+    "denomination": "Kohlberg Kravis Roberts & Co. L.P."
+  },
+  "0001713390": {
+    "cik": "0001713390",
+    "fund": "Kontiki",
+    "fundZh": "Kontiki",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gregard Heje",
+    "denomination": "Kontiki Capital Management (Cayman) Ltd"
+  },
+  "0001599814": {
+    "cik": "0001599814",
+    "fund": "Kopernik",
+    "fundZh": "Kopernik",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Iben",
+    "denomination": "Kopernik Global Investors, LLC"
+  },
+  "0001659815": {
+    "cik": "0001659815",
+    "fund": "Kora",
+    "fundZh": "Kora",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nitin Saigal",
+    "denomination": "Kora Management LP"
+  },
+  "0001710207": {
+    "cik": "0001710207",
+    "fund": "Lattice",
+    "fundZh": "Lattice",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Allan Dadgar",
+    "denomination": "Lattice Capital Management, LLC"
+  },
+  "0001569049": {
+    "cik": "0001569049",
+    "fund": "Light Street",
+    "fundZh": "Light Street",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Glen Kacher",
+    "denomination": "Light Street Capital Management, LLC"
+  },
+  "0001732768": {
+    "cik": "0001732768",
+    "fund": "Lingotto",
+    "fundZh": "Lingotto",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Enrico Vellano",
+    "denomination": "Lingotto Investment Management LLP"
+  },
+  "0001869470": {
+    "cik": "0001869470",
+    "fund": "Long Walk",
+    "fundZh": "Long Walk",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James Zimmerman",
+    "denomination": "Long Walk Healthcare Management, LP"
+  },
+  "0000312348": {
+    "cik": "0000312348",
+    "fund": "Loomis",
+    "fundZh": "Loomis",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kevin Charleston",
+    "denomination": "Loomis, Sayles & Co., L.P."
+  },
+  "0001512173": {
+    "cik": "0001512173",
+    "fund": "Maplelane",
+    "fundZh": "Maplelane",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Leon Shaulov",
+    "denomination": "Maplelane Capital, LLC"
+  },
+  "0000860176": {
+    "cik": "0000860176",
+    "fund": "Mark Asset",
+    "fundZh": "Mark Asset",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Morris",
+    "denomination": "Mark Asset Management Corp"
+  },
+  "0001731134": {
+    "cik": "0001731134",
+    "fund": "Maytech",
+    "fundZh": "Maytech",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nels Wangensteen & Ingrid Yin",
+    "denomination": "Maytech Global Investments, LLC"
+  },
+  "0001708759": {
+    "cik": "0001708759",
+    "fund": "Maytus",
+    "fundZh": "Maytus",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tor Minesuk",
+    "denomination": "Maytus Capital Management, LLC"
+  },
+  "0001302842": {
+    "cik": "0001302842",
+    "fund": "Merk",
+    "fundZh": "Merk",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Axel Merk",
+    "denomination": "Merk Investments LLC"
+  },
+  "0001864835": {
+    "cik": "0001864835",
+    "fund": "Metavasi",
+    "fundZh": "Metavasi",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter Treadway",
+    "denomination": "Metavasi Capital LP"
+  },
+  "0002015822": {
+    "cik": "0002015822",
+    "fund": "MGB",
+    "fundZh": "MGB",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Bailey",
+    "denomination": "MGB Wealth Management, LLC"
+  },
+  "0001520309": {
+    "cik": "0001520309",
+    "fund": "Mizuho",
+    "fundZh": "Mizuho",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Yoshiro Hamamoto",
+    "denomination": "Mizuho Securities Co. Ltd."
+  },
+  "0001803149": {
+    "cik": "0001803149",
+    "fund": "Mizuho Cayman",
+    "fundZh": "Mizuho Cayman",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gregory Doig",
+    "denomination": "Mizuho Markets Cayman LP"
+  },
+  "0001281084": {
+    "cik": "0001281084",
+    "fund": "Monarch Alternative",
+    "fundZh": "Monarch Alternative",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Christopher Santana",
+    "denomination": "Monarch Alternative Capital LP"
+  },
+  "0001016150": {
+    "cik": "0001016150",
+    "fund": "Morgens Waterfall",
+    "fundZh": "Morgens Waterfall",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Edwin Morgens",
+    "denomination": "Morgens Waterfall Vintiadis & Co Inc"
+  },
+  "0002011874": {
+    "cik": "0002011874",
+    "fund": "Napean",
+    "fundZh": "Napean",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Azim Premji Hasham",
+    "denomination": "Napean Trading & Investment Co (Singapore) PTE Ltd"
+  },
+  "0001845012": {
+    "cik": "0001845012",
+    "fund": "NewGen",
+    "fundZh": "NewGen",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Dattels",
+    "denomination": "NewGen Asset Management Limited"
+  },
+  "0001908450": {
+    "cik": "0001908450",
+    "fund": "Newlands",
+    "fundZh": "Newlands",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jan Koum",
+    "denomination": "Newlands Management Operations LLC"
+  },
+  "0001055964": {
+    "cik": "0001055964",
+    "fund": "Nomura",
+    "fundZh": "Nomura",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Shoichi Ohkoshi",
+    "denomination": "Nomura Asset Management Co Ltd"
+  },
+  "0001745796": {
+    "cik": "0001745796",
+    "fund": "North Growth",
+    "fundZh": "North Growth",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Erica Lau",
+    "denomination": "North Growth Management Ltd."
+  },
+  "0001103887": {
+    "cik": "0001103887",
+    "fund": "Nwi",
+    "fundZh": "Nwi",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Hari Hariharan",
+    "denomination": "Nwi Management LP"
+  },
+  "0001780565": {
+    "cik": "0001780565",
+    "fund": "O'Keefe",
+    "fundZh": "O'Keefe",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter O'Keefe",
+    "denomination": "O'Keefe Stevens Advisory, Inc."
+  },
+  "0001861159": {
+    "cik": "0001861159",
+    "fund": "O'Neil",
+    "fundZh": "O'Neil",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Steven Birch",
+    "denomination": "O'Neil Global Advisors, Inc."
+  },
+  "0001661762": {
+    "cik": "0001661762",
+    "fund": "Oak Grove",
+    "fundZh": "Oak Grove",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Visnic",
+    "denomination": "Oak Grove Capital LLC"
+  },
+  "0001764525": {
+    "cik": "0001764525",
+    "fund": "OCO",
+    "fundZh": "OCO",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Samuel Francis Martini",
+    "denomination": "OCO Capital Partners, L.P."
+  },
+  "0001891904": {
+    "cik": "0001891904",
+    "fund": "Octahedron",
+    "fundZh": "Octahedron",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ram Parameswaran",
+    "denomination": "Octahedron Capital Management, LP"
+  },
+  "0001619083": {
+    "cik": "0001619083",
+    "fund": "Ogborne",
+    "fundZh": "Ogborne",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mike Ogborne",
+    "denomination": "Ogborne Capital Management, LLC"
+  },
+  "0001712892": {
+    "cik": "0001712892",
+    "fund": "Once",
+    "fundZh": "Once",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Emanuele Perazzi",
+    "denomination": "Once Capital Management, LLC"
+  },
+  "0002032200": {
+    "cik": "0002032200",
+    "fund": "Orion Resource",
+    "fundZh": "Orion Resource",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Oskar Lewnowski",
+    "denomination": "Orion Resource Partners (USA) LP"
+  },
+  "0001713269": {
+    "cik": "0001713269",
+    "fund": "Oxbow",
+    "fundZh": "Oxbow",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Wesley Wong",
+    "denomination": "Oxbow Capital Management (HK) Ltd"
+  },
+  "0002035224": {
+    "cik": "0002035224",
+    "fund": "Panview",
+    "fundZh": "Panview",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ryan Thall",
+    "denomination": "Panview Capital Ltd"
+  },
+  "0001911136": {
+    "cik": "0001911136",
+    "fund": "Paradigm",
+    "fundZh": "Paradigm",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matt Huang",
+    "denomination": "Paradigm Operations LP"
+  },
+  "0002056764": {
+    "cik": "0002056764",
+    "fund": "Parvin",
+    "fundZh": "Parvin",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Steve Smith",
+    "denomination": "Parvin Asset Management, LLC"
+  },
+  "0001050464": {
+    "cik": "0001050464",
+    "fund": "Peconic",
+    "fundZh": "Peconic",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "William Harnisch",
+    "denomination": "Peconic Partners LLC"
+  },
+  "0002011563": {
+    "cik": "0002011563",
+    "fund": "Pennant Select",
+    "fundZh": "Pennant Select",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brent Guerisoli",
+    "denomination": "Pennant Select, LLC"
+  },
+  "0002011811": {
+    "cik": "0002011811",
+    "fund": "Pinegrove",
+    "fundZh": "Pinegrove",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian Laibow",
+    "denomination": "Pinegrove Capital Partners LLC"
+  },
+  "0001804352": {
+    "cik": "0001804352",
+    "fund": "Ping",
+    "fundZh": "Ping",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ping Jiang",
+    "denomination": "Ping Capital Management, Inc."
+  },
+  "0002055875": {
+    "cik": "0002055875",
+    "fund": "PKO",
+    "fundZh": "PKO",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paweł Michalik",
+    "denomination": "PKO BP BANKOWY Universal Pension Society JSC"
+  },
+  "0001603466": {
+    "cik": "0001603466",
+    "fund": "Point72",
+    "fundZh": "Point72 资产管理",
+    "managerZh": "史蒂夫·科恩",
+    "category": "macro_quant",
+    "popularity": 84,
+    "manager": "Steven Cohen",
+    "denomination": "Point72 Asset Management, L.P."
+  },
+  "0001837309": {
+    "cik": "0001837309",
+    "fund": "Polar Capital",
+    "fundZh": "Polar Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Iain Evans",
+    "denomination": "Polar Capital Holdings Plc"
+  },
+  "0001973324": {
+    "cik": "0001973324",
+    "fund": "Polymer",
+    "fundZh": "Polymer",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Angus Wai",
+    "denomination": "Polymer Capital Management (US) LLC"
+  },
+  "0001350290": {
+    "cik": "0001350290",
+    "fund": "Portolan",
+    "fundZh": "Portolan",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "George McCabe",
+    "denomination": "Portolan Capital Management, LLC"
+  },
+  "0001448793": {
+    "cik": "0001448793",
+    "fund": "Prime",
+    "fundZh": "Prime",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Liu Yijun",
+    "denomination": "Prime Capital Management Company Limited"
+  },
+  "0001842526": {
+    "cik": "0001842526",
+    "fund": "Proem",
+    "fundZh": "Proem",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Greg Pearson",
+    "denomination": "Proem Advisors LLC"
+  },
+  "0002087977": {
+    "cik": "0002087977",
+    "fund": "Pureheart",
+    "fundZh": "Pureheart",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Zhao Danyang",
+    "denomination": "Pureheart Capital Pte Ltd."
+  },
+  "0001929662": {
+    "cik": "0001929662",
+    "fund": "Quantum Private",
+    "fundZh": "Quantum Private",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jim Perkins",
+    "denomination": "Quantum Private Wealth, LLC"
+  },
+  "0002055400": {
+    "cik": "0002055400",
+    "fund": "Ranmore",
+    "fundZh": "Ranmore",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sean Peche",
+    "denomination": "Ranmore Fund Management Ltd"
+  },
+  "0001566887": {
+    "cik": "0001566887",
+    "fund": "Ratan",
+    "fundZh": "Ratan",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nehal Chopra",
+    "denomination": "Ratan Capital Management LP"
+  },
+  "0001316622": {
+    "cik": "0001316622",
+    "fund": "Redwood",
+    "fundZh": "Redwood",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Kolatch",
+    "denomination": "Redwood Capital Management, LLC"
+  },
+  "0001037389": {
+    "cik": "0001037389",
+    "fund": "Renaissance",
+    "fundZh": "文艺复兴科技",
+    "managerZh": "詹姆斯·西蒙斯",
+    "category": "macro_quant",
+    "popularity": 97,
+    "manager": "Jim Simons",
+    "denomination": "Renaissance Technologies LLC"
+  },
+  "0001836733": {
+    "cik": "0001836733",
+    "fund": "Ribbit",
+    "fundZh": "Ribbit",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Meyer Malka",
+    "denomination": "Ribbit Management Company, LLC"
+  },
+  "0002053064": {
+    "cik": "0002053064",
+    "fund": "Rovida",
+    "fundZh": "Rovida",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Lacey Manz",
+    "denomination": "Rovida Investment Management Ltd"
+  },
+  "0001666664": {
+    "cik": "0001666664",
+    "fund": "RPg",
+    "fundZh": "RPg",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matthew Vera",
+    "denomination": "RPG Investment Advisory, LLC"
+  },
+  "0001766596": {
+    "cik": "0001766596",
+    "fund": "RV",
+    "fundZh": "RV",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Vinall",
+    "denomination": "RV Capital AG"
+  },
+  "0001846544": {
+    "cik": "0001846544",
+    "fund": "RWQ",
+    "fundZh": "RWQ",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert William Quinlan",
+    "denomination": "RWQ Financial Management Services, Inc."
+  },
+  "0002036461": {
+    "cik": "0002036461",
+    "fund": "S-Bank",
+    "fundZh": "S-Bank",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Teri Heilala",
+    "denomination": "S-Bank Fund Management Ltd"
+  },
+  "0001857024": {
+    "cik": "0001857024",
+    "fund": "Schusterman",
+    "fundZh": "Schusterman",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stacy Schusterman",
+    "denomination": "Schusterman Interests, LLC"
+  },
+  "0002011556": {
+    "cik": "0002011556",
+    "fund": "Scientech",
+    "fundZh": "Scientech",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Le Duan",
+    "denomination": "Scientech Research LLC"
+  },
+  "0001690295": {
+    "cik": "0001690295",
+    "fund": "SDH",
+    "fundZh": "SDH",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ron Sloy",
+    "denomination": "Sloy Dahl & Holst, LLC"
+  },
+  "0001607512": {
+    "cik": "0001607512",
+    "fund": "Segra",
+    "fundZh": "Segra",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Adam Rodman",
+    "denomination": "Segra Capital Management, LLC"
+  },
+  "0001565432": {
+    "cik": "0001565432",
+    "fund": "Selkirk",
+    "fundZh": "Selkirk",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stewart Strawbridge",
+    "denomination": "Selkirk Management LLC"
+  },
+  "0001537530": {
+    "cik": "0001537530",
+    "fund": "Sequoia",
+    "fundZh": "Sequoia",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeffrey Wang",
+    "denomination": "SCGE Management, L.P."
+  },
+  "0001622346": {
+    "cik": "0001622346",
+    "fund": "Shanda",
+    "fundZh": "Shanda",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tianqiao Chen",
+    "denomination": "Shanda Asset Management Holdings Ltd"
+  },
+  "0001301050": {
+    "cik": "0001301050",
+    "fund": "Shannon River",
+    "fundZh": "Shannon River",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Spencer Waxman",
+    "denomination": "Shannon River Partners LP"
+  },
+  "0001818890": {
+    "cik": "0001818890",
+    "fund": "Sharp",
+    "fundZh": "Sharp",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ivan Guetta",
+    "denomination": "Sharp Capital Gestora de Recursos Ltda."
+  },
+  "0001738728": {
+    "cik": "0001738728",
+    "fund": "Silvant",
+    "fundZh": "Silvant",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Marc Schneidau",
+    "denomination": "Silvant Capital Management LLC"
+  },
+  "0002043964": {
+    "cik": "0002043964",
+    "fund": "Skerryvore",
+    "fundZh": "Skerryvore",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Doug Stewart",
+    "denomination": "Skerryvore Asset Management Ltd"
+  },
+  "0001559706": {
+    "cik": "0001559706",
+    "fund": "Slate Path",
+    "fundZh": "Slate Path",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Greenspan",
+    "denomination": "Slate Path Capital LP"
+  },
+  "0001967706": {
+    "cik": "0001967706",
+    "fund": "Sparta 24",
+    "fundZh": "Sparta 24",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alon Gonen",
+    "denomination": "Sparta 24 Ltd."
+  },
+  "0001543170": {
+    "cik": "0001543170",
+    "fund": "Spruce House",
+    "fundZh": "Spruce House",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James Lindstrom",
+    "denomination": "Spruce House Investment Management LLC"
+  },
+  "0002097595": {
+    "cik": "0002097595",
+    "fund": "Steadtrust",
+    "fundZh": "Steadtrust",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Thomas Kowalczyk",
+    "denomination": "Steadtrust LLC"
+  },
+  "0001844008": {
+    "cik": "0001844008",
+    "fund": "Steadview",
+    "fundZh": "Steadview",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ravi Mehta",
+    "denomination": "Steadview Capital Management LLC"
+  },
+  "0001840750": {
+    "cik": "0001840750",
+    "fund": "Stenham",
+    "fundZh": "Stenham",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kevin Arenson",
+    "denomination": "Stenham Asset Management Ltd"
+  },
+  "0001965239": {
+    "cik": "0001965239",
+    "fund": "STF",
+    "fundZh": "STF",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Molchan",
+    "denomination": "STF Management LP"
+  },
+  "0001592413": {
+    "cik": "0001592413",
+    "fund": "Strategy",
+    "fundZh": "Strategy",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Hamilton Helmer & John Rutherford",
+    "denomination": "Strategy Capital, LP"
+  },
+  "0001389234": {
+    "cik": "0001389234",
+    "fund": "Symmetry Peak",
+    "fundZh": "Symmetry Peak",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Quint Slattery",
+    "denomination": "Symmetry Peak Management LLC"
+  },
+  "0001905669": {
+    "cik": "0001905669",
+    "fund": "Synergy",
+    "fundZh": "Synergy",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Palash Islam",
+    "denomination": "Synergy Financial Group, LTD"
+  },
+  "0002026352": {
+    "cik": "0002026352",
+    "fund": "Talaria",
+    "fundZh": "Talaria",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jamie Mead",
+    "denomination": "Talaria Asset Management Pty Ltd"
+  },
+  "0002041062": {
+    "cik": "0002041062",
+    "fund": "Talos",
+    "fundZh": "Talos",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Franklin Keller",
+    "denomination": "Talos Eurisko Asset Management LP"
+  },
+  "0002054965": {
+    "cik": "0002054965",
+    "fund": "TFI Allianz Polska",
+    "fundZh": "TFI Allianz Polska",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Hoerberg",
+    "denomination": "Towarzystwo Funduszy Inwestycyjnych Allianz Polska S.A."
+  },
+  "0001688511": {
+    "cik": "0001688511",
+    "fund": "ThornTree",
+    "fundZh": "ThornTree",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Moore",
+    "denomination": "Thorntree Capital Partners, LP"
+  },
+  "0001765681": {
+    "cik": "0001765681",
+    "fund": "Thrive",
+    "fundZh": "Thrive",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joshua Kushner",
+    "denomination": "Thrive Capital Management, LLC"
+  },
+  "0001167483": {
+    "cik": "0001167483",
+    "fund": "Tiger Global",
+    "fundZh": "老虎环球管理",
+    "managerZh": "蔡斯·科尔曼",
+    "category": "growth",
+    "popularity": 87,
+    "manager": "Chase Coleman",
+    "denomination": "Tiger Global Management, LLC"
+  },
+  "0001666786": {
+    "cik": "0001666786",
+    "fund": "Traynor",
+    "fundZh": "Traynor",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Keith Traynor",
+    "denomination": "Traynor Capital Management, Inc."
+  },
+  "0001555623": {
+    "cik": "0001555623",
+    "fund": "Trivest",
+    "fundZh": "Trivest",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Xue Lan",
+    "denomination": "Trivest Advisors Ltd"
+  },
+  "0001807902": {
+    "cik": "0001807902",
+    "fund": "Trybe",
+    "fundZh": "Trybe",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jasjit Rekhi",
+    "denomination": "Trybe Capital Management LP"
+  },
+  "0000861177": {
+    "cik": "0000861177",
+    "fund": "UBS AM",
+    "fundZh": "UBS AM",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Aleksandar Ivanovic",
+    "denomination": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC"
+  },
+  "0001697814": {
+    "cik": "0001697814",
+    "fund": "UG",
+    "fundZh": "UG",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Aaron Huang",
+    "denomination": "UG Investment Advisers Ltd."
+  },
+  "0001963565": {
+    "cik": "0001963565",
+    "fund": "Value Aligned",
+    "fundZh": "Value Aligned",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ben Hoskin",
+    "denomination": "Value Aligned Managers, LP"
+  },
+  "0000869178": {
+    "cik": "0000869178",
+    "fund": "VanEck",
+    "fundZh": "VanEck",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jan Van Eck",
+    "denomination": "Van Eck Associates Corp"
+  },
+  "0002013462": {
+    "cik": "0002013462",
+    "fund": "Vennlight",
+    "fundZh": "Vennlight",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Igor Gitelman",
+    "denomination": "Vennlight Capital, LP"
+  },
+  "0001849753": {
+    "cik": "0001849753",
+    "fund": "Voyager",
+    "fundZh": "Voyager",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Grant Wonders",
+    "denomination": "Voyager Global Management LP"
+  },
+  "0001388391": {
+    "cik": "0001388391",
+    "fund": "Walleye",
+    "fundZh": "Walleye",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Will England",
+    "denomination": "Walleye Trading LLC"
+  },
+  "0001968434": {
+    "cik": "0001968434",
+    "fund": "Wealth Preservation",
+    "fundZh": "Wealth Preservation",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gene Rice",
+    "denomination": "Wealth Preservation Advisors, LLC"
+  },
+  "0001861125": {
+    "cik": "0001861125",
+    "fund": "Westwood",
+    "fundZh": "Westwood",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bryan Casey",
+    "denomination": "Westwood Wealth Management"
+  },
+  "0001387322": {
+    "cik": "0001387322",
+    "fund": "Whale Rock",
+    "fundZh": "鲸岩资本管理",
+    "managerZh": "",
+    "category": "growth",
+    "popularity": 55,
+    "manager": "Alex Sacerdote",
+    "denomination": "Whale Rock Capital Management LLC"
+  },
+  "0001607278": {
+    "cik": "0001607278",
+    "fund": "Whetstone",
+    "fundZh": "Whetstone",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Atterbury",
+    "denomination": "Whetstone Capital Advisors, LLC"
+  },
+  "0001780365": {
+    "cik": "0001780365",
+    "fund": "WT",
+    "fundZh": "WT",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tongshu Wang",
+    "denomination": "WT Asset Management Ltd"
+  },
+  "0001067983": {
+    "cik": "0001067983",
+    "fund": "Berkshire Hathaway",
+    "fundZh": "伯克希尔·哈撒韦",
+    "managerZh": "沃伦·巴菲特",
+    "category": "value",
+    "popularity": 100,
+    "manager": "Warren Buffett",
+    "denomination": "Berkshire Hathaway Inc"
+  },
+  "0001423053": {
+    "cik": "0001423053",
+    "fund": "Citadel Advisors",
+    "fundZh": "城堡投资",
+    "managerZh": "肯·格里芬",
+    "category": "macro_quant",
+    "popularity": 93,
+    "manager": "Ken Griffin",
+    "denomination": "Citadel Advisors LLC"
+  },
+  "0001350694": {
+    "cik": "0001350694",
+    "fund": "Bridgewater Associates",
+    "fundZh": "桥水基金",
+    "managerZh": "瑞·达里奥",
+    "category": "macro_quant",
+    "popularity": 95,
+    "manager": "Ray Dalio",
+    "denomination": "Bridgewater Associates, LP"
+  },
+  "0001649339": {
+    "cik": "0001649339",
+    "fund": "Scion Asset Management",
+    "fundZh": "赛恩资产管理",
+    "managerZh": "迈克尔·布瑞",
+    "category": "value",
+    "popularity": 96,
+    "manager": "Michael Burry",
+    "denomination": "Scion Asset Management, LLC"
+  },
+  "0001562087": {
+    "cik": "0001562087",
+    "fund": "Thiel Macro",
+    "fundZh": "Thiel Macro",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter Thiel",
+    "denomination": "Thiel Macro LLC"
+  },
+  "0001697748": {
+    "cik": "0001697748",
+    "fund": "ARK Invest",
+    "fundZh": "方舟投资",
+    "managerZh": "凯瑟琳·伍德",
+    "category": "growth",
+    "popularity": 92,
+    "manager": "Cathie Wood",
+    "denomination": "ARK Investment Management LLC"
+  },
+  "0001336528": {
+    "cik": "0001336528",
+    "fund": "Pershing Square",
+    "fundZh": "潘兴广场",
+    "managerZh": "比尔·阿克曼",
+    "category": "activist",
+    "popularity": 94,
+    "manager": "Bill Ackman",
+    "denomination": "Pershing Square Capital Management, L.P."
+  },
+  "0001218710": {
+    "cik": "0001218710",
+    "fund": "Balyasny Asset Management",
+    "fundZh": "Balyasny Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Dmitry Balyasny",
+    "denomination": "Balyasny Asset Management L.P."
+  },
+  "0001352851": {
+    "cik": "0001352851",
+    "fund": "Magnetar Capital",
+    "fundZh": "Magnetar Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alec Litowitz",
+    "denomination": "Magnetar Financial LLC"
+  },
+  "0001167557": {
+    "cik": "0001167557",
+    "fund": "AQR Capital Management",
+    "fundZh": "AQR 资本管理",
+    "managerZh": "克里夫·阿斯尼斯",
+    "category": "macro_quant",
+    "popularity": 52,
+    "manager": "Cliff Asness",
+    "denomination": "AQR Capital Management, LLC"
+  },
+  "0001656456": {
+    "cik": "0001656456",
+    "fund": "Appaloosa",
+    "fundZh": "阿帕卢萨管理",
+    "managerZh": "大卫·泰珀",
+    "category": "activist",
+    "popularity": 76,
+    "manager": "David Tepper",
+    "denomination": "Appaloosa LP"
+  },
+  "0001273087": {
+    "cik": "0001273087",
+    "fund": "Millennium Management",
+    "fundZh": "千禧管理",
+    "managerZh": "伊斯雷尔·英格兰德",
+    "category": "macro_quant",
+    "popularity": 82,
+    "manager": "Israel Englander",
+    "denomination": "Millennium Management LLC"
+  },
+  "0001020066": {
+    "cik": "0001020066",
+    "fund": "Sands Capital Management",
+    "fundZh": "金沙资本管理",
+    "managerZh": "",
+    "category": "growth",
+    "popularity": 56,
+    "manager": "Frank Sands",
+    "denomination": "Sands Capital Management, LLC"
+  },
+  "0001056823": {
+    "cik": "0001056823",
+    "fund": "Horizon Kinetics",
+    "fundZh": "Horizon Kinetics",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Murray Stahl",
+    "denomination": "Horizon Kinetics Asset Management LLC"
+  },
+  "0001332784": {
+    "cik": "0001332784",
+    "fund": "Silver Point Capital",
+    "fundZh": "Silver Point Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Edward Mule",
+    "denomination": "Silver Point Capital, L.P."
+  },
+  "0001358706": {
+    "cik": "0001358706",
+    "fund": "Abrams Capital Management",
+    "fundZh": "Abrams Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Abrams",
+    "denomination": "Abrams Capital Management, L.P."
+  },
+  "0001418814": {
+    "cik": "0001418814",
+    "fund": "ValueAct Capital",
+    "fundZh": "ValueAct 资本",
+    "managerZh": "梅森·莫菲特",
+    "category": "activist",
+    "popularity": 62,
+    "manager": "Jeffrey Ubben",
+    "denomination": "ValueAct Holdings, L.P."
+  },
+  "0001791786": {
+    "cik": "0001791786",
+    "fund": "Elliott Investment",
+    "fundZh": "埃利奥特投资管理",
+    "managerZh": "保罗·辛格",
+    "category": "activist",
+    "popularity": 81,
+    "manager": "Paul Singer",
+    "denomination": "Elliott Investment Management L.P."
+  },
+  "0001647251": {
+    "cik": "0001647251",
+    "fund": "The Children's Investment",
+    "fundZh": "The Children's Investment",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chris Hohn",
+    "denomination": "TCI Fund Management Limited"
+  },
+  "0001040273": {
+    "cik": "0001040273",
+    "fund": "Third Point",
+    "fundZh": "第三点",
+    "managerZh": "丹·勒布",
+    "category": "activist",
+    "popularity": 73,
+    "manager": "Daniel Loeb",
+    "denomination": "Third Point LLC"
+  },
+  "0001510281": {
+    "cik": "0001510281",
+    "fund": "Saba Capital",
+    "fundZh": "Saba Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Boaz Weinstein",
+    "denomination": "Saba Capital Management, L.P."
+  },
+  "0001871926": {
+    "cik": "0001871926",
+    "fund": "Nuveen",
+    "fundZh": "Nuveen",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "William Huffman",
+    "denomination": "Nuveen, LLC"
+  },
+  "0001029160": {
+    "cik": "0001029160",
+    "fund": "Soros Fund Management",
+    "fundZh": "索罗斯基金管理",
+    "managerZh": "乔治·索罗斯",
+    "category": "macro_quant",
+    "popularity": 91,
+    "manager": "George Soros",
+    "denomination": "Soros Fund Management LLC"
+  },
+  "0001166559": {
+    "cik": "0001166559",
+    "fund": "Gates Foundation Trust",
+    "fundZh": "Gates Foundation Trust",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bill Gates",
+    "denomination": "Gates Foundation Trust"
+  },
+  "0000921669": {
+    "cik": "0000921669",
+    "fund": "Icahn Enterprises",
+    "fundZh": "Icahn Enterprises",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Carl Icahn",
+    "denomination": "Carl C. Icahn"
+  },
+  "0001697868": {
+    "cik": "0001697868",
+    "fund": "Valley Forge Capital Management",
+    "fundZh": "Valley Forge Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Dev Kantesaria",
+    "denomination": "Valley Forge Capital Management, LP"
+  },
+  "0001508097": {
+    "cik": "0001508097",
+    "fund": "Sanders Capital",
+    "fundZh": "Sanders Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Lewis Sanders",
+    "denomination": "Sanders Capital, LLC"
+  },
+  "0001541617": {
+    "cik": "0001541617",
+    "fund": "Altimeter Capital Management",
+    "fundZh": "Altimeter 资本",
+    "managerZh": "布拉德·格斯纳",
+    "category": "growth",
+    "popularity": 65,
+    "manager": "Brad Gerstner",
+    "denomination": "Altimeter Capital Management, LP"
+  },
+  "0001103804": {
+    "cik": "0001103804",
+    "fund": "Viking Global Investors",
+    "fundZh": "维京环球投资",
+    "managerZh": "安德烈亚斯·哈尔沃森",
+    "category": "growth",
+    "popularity": 77,
+    "manager": "Andreas Halvorsen",
+    "denomination": "Viking Global Investors LP"
+  },
+  "0000923093": {
+    "cik": "0000923093",
+    "fund": "Tudor Investment Corporation",
+    "fundZh": "Tudor Investment Corporation",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paul Tudor Jones",
+    "denomination": "Tudor Investment Corporation"
+  },
+  "0001036325": {
+    "cik": "0001036325",
+    "fund": "Davis Advisors",
+    "fundZh": "Davis Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chris Davis",
+    "denomination": "Davis Selected Advisers"
+  },
+  "0001513193": {
+    "cik": "0001513193",
+    "fund": "Arbiter Partners",
+    "fundZh": "Arbiter Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paul Isaac",
+    "denomination": "Arbiter Partners Capital Management LLC"
+  },
+  "0001105838": {
+    "cik": "0001105838",
+    "fund": "Robotti Value Investors",
+    "fundZh": "Robotti Value Investors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Robotti",
+    "denomination": "Robotti Robert"
+  },
+  "0000820027": {
+    "cik": "0000820027",
+    "fund": "Ameriprise Financial",
+    "fundZh": "Ameriprise Financial",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jim Cracchiolo",
+    "denomination": "Ameriprise Financial, Inc."
+  },
+  "0001709323": {
+    "cik": "0001709323",
+    "fund": "Himalaya Capital Management",
+    "fundZh": "喜马拉雅资本",
+    "managerZh": "李录",
+    "category": "value",
+    "popularity": 90,
+    "manager": "Li Lu",
+    "denomination": "Himalaya Capital Management LLC"
+  },
+  "0001389403": {
+    "cik": "0001389403",
+    "fund": "Chou Associates",
+    "fundZh": "Chou Associates",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Francis Chou",
+    "denomination": "Chou Associates Management Inc."
+  },
+  "0001453072": {
+    "cik": "0001453072",
+    "fund": "Alyeska Investment Group",
+    "fundZh": "Alyeska Investment Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Anand Parekh",
+    "denomination": "Alyeska Investment Group, L.P."
+  },
+  "0000850529": {
+    "cik": "0000850529",
+    "fund": "Fisher Asset Management",
+    "fundZh": "费雪资产管理",
+    "managerZh": "肯·费雪",
+    "category": "institutional",
+    "popularity": 70,
+    "manager": "Ken Fisher",
+    "denomination": "Fisher Asset Management, LLC"
+  },
+  "0001016287": {
+    "cik": "0001016287",
+    "fund": "Matrix Asset Advisors",
+    "fundZh": "Matrix Asset Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Katz",
+    "denomination": "Matrix Asset Advisors Inc/NY"
+  },
+  "0000934639": {
+    "cik": "0000934639",
+    "fund": "Maverick Capital",
+    "fundZh": "马弗里克资本",
+    "managerZh": "李·安斯利",
+    "category": "growth",
+    "popularity": 58,
+    "manager": "Lee Ainslie",
+    "denomination": "Maverick Capital, Ltd."
+  },
+  "0001510387": {
+    "cik": "0001510387",
+    "fund": "Gotham Funds",
+    "fundZh": "Gotham Funds",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joel Greenblatt",
+    "denomination": "Gotham Asset Management, LLC"
+  },
+  "0001698218": {
+    "cik": "0001698218",
+    "fund": "Ritholtz Wealth Management",
+    "fundZh": "Ritholtz Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Barry Ritholtz",
+    "denomination": "Ritholtz Wealth Management"
+  },
+  "0001214822": {
+    "cik": "0001214822",
+    "fund": "Steadfast Capital Management",
+    "fundZh": "Steadfast Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Pitts",
+    "denomination": "Steadfast Capital Management LP"
+  },
+  "0001035674": {
+    "cik": "0001035674",
+    "fund": "Paulson & Co.",
+    "fundZh": "保尔森公司",
+    "managerZh": "约翰·保尔森",
+    "category": "macro_quant",
+    "popularity": 71,
+    "manager": "John Paulson",
+    "denomination": "Paulson & Co. Inc."
+  },
+  "0001352662": {
+    "cik": "0001352662",
+    "fund": "GMO",
+    "fundZh": "GMO",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeremy Grantham",
+    "denomination": "Grantham, Mayo, Van Otterloo & Co. LLC"
+  },
+  "0001318757": {
+    "cik": "0001318757",
+    "fund": "Marshall Wace",
+    "fundZh": "马歇尔·韦斯",
+    "managerZh": "",
+    "category": "macro_quant",
+    "popularity": 54,
+    "manager": "Paul Marshall & Ian Wace",
+    "denomination": "Marshall Wace, LLP"
+  },
+  "0001104329": {
+    "cik": "0001104329",
+    "fund": "Crosslink Capital",
+    "fundZh": "Crosslink Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Seymour Kaufman",
+    "denomination": "Crosslink Capital, Inc."
+  },
+  "0000807249": {
+    "cik": "0000807249",
+    "fund": "GAMCO Investors",
+    "fundZh": "GAMCO Investors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mario Gabelli",
+    "denomination": "GAMCO Asset Management Inc."
+  },
+  "0001478735": {
+    "cik": "0001478735",
+    "fund": "Two Sigma",
+    "fundZh": "Two Sigma",
+    "managerZh": "奥弗德克 / 西格尔",
+    "category": "macro_quant",
+    "popularity": 78,
+    "manager": "John Overdeck",
+    "denomination": "Two Sigma Investments, LP"
+  },
+  "0001027796": {
+    "cik": "0001027796",
+    "fund": "Pzena Investment Management",
+    "fundZh": "Pzena Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Richard Pzena",
+    "denomination": "Pzena Investment Management LLC"
+  },
+  "0001671657": {
+    "cik": "0001671657",
+    "fund": "Dorsey Asset Management",
+    "fundZh": "Dorsey Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Pat Dorsey",
+    "denomination": "Dorsey Asset Management, LLC"
+  },
+  "0000813917": {
+    "cik": "0000813917",
+    "fund": "Harris Associates",
+    "fundZh": "Harris Associates",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bill Nygren",
+    "denomination": "Harris Associates L P"
+  },
+  "0001535392": {
+    "cik": "0001535392",
+    "fund": "Mangrove Partners",
+    "fundZh": "Mangrove Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nathaniel August",
+    "denomination": "Mangrove Partners IM, LLC"
+  },
+  "0001061165": {
+    "cik": "0001061165",
+    "fund": "Lone Pine Capital",
+    "fundZh": "孤松资本",
+    "managerZh": "斯蒂芬·曼德尔",
+    "category": "growth",
+    "popularity": 74,
+    "manager": "Steve Mandel",
+    "denomination": "Lone Pine Capital LLC"
+  },
+  "0001081198": {
+    "cik": "0001081198",
+    "fund": "Cypress Funds",
+    "fundZh": "Cypress Funds",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Wang",
+    "denomination": "Cypress Funds LLC"
+  },
+  "0001595430": {
+    "cik": "0001595430",
+    "fund": "Nextech Invest",
+    "fundZh": "Nextech Invest",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alexis Borisy",
+    "denomination": "Nextech Invest, Ltd."
+  },
+  "0001953107": {
+    "cik": "0001953107",
+    "fund": "Enavate Sciences",
+    "fundZh": "Enavate Sciences",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James Boylan",
+    "denomination": "Enavate Sciences GP, LLC"
+  },
+  "0001727492": {
+    "cik": "0001727492",
+    "fund": "Caligan Partners",
+    "fundZh": "Caligan Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Johnson",
+    "denomination": "Caligan Partners LP"
+  },
+  "0002018299": {
+    "cik": "0002018299",
+    "fund": "Boxer Capital Management",
+    "fundZh": "Boxer Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Aaron Davis",
+    "denomination": "Boxer Capital Management, LLC"
+  },
+  "0001423442": {
+    "cik": "0001423442",
+    "fund": "O'Shaughnessy Asset Management",
+    "fundZh": "O'Shaughnessy Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James O'Shaughnessy",
+    "denomination": "O'Shaughnessy Asset Management, LLC"
+  },
+  "0001214717": {
+    "cik": "0001214717",
+    "fund": "Geode Capital Management",
+    "fundZh": "Geode 资本管理",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 35,
+    "manager": "David Lane",
+    "denomination": "Geode Capital Management, LLC"
+  },
+  "0001900110": {
+    "cik": "0001900110",
+    "fund": "DGS Capital Management",
+    "fundZh": "DGS Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ashish Sharma",
+    "denomination": "DGS Capital Management, LLC"
+  },
+  "0001115418": {
+    "cik": "0001115418",
+    "fund": "RhumbLine Advisers",
+    "fundZh": "RhumbLine Advisers",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Denise D'Entremont",
+    "denomination": "RhumbLine Advisers"
+  },
+  "0001600064": {
+    "cik": "0001600064",
+    "fund": "Tidal Financial Group",
+    "fundZh": "Tidal Financial Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gavin Filmore",
+    "denomination": "Tidal Investments LLC"
+  },
+  "0001357955": {
+    "cik": "0001357955",
+    "fund": "ProShares Advisors",
+    "fundZh": "ProShares Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Sapir",
+    "denomination": "ProShare Advisors LLC"
+  },
+  "0001280043": {
+    "cik": "0001280043",
+    "fund": "Summitry",
+    "fundZh": "Summitry",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Colin Higgins",
+    "denomination": "Summitry LLC"
+  },
+  "0001739439": {
+    "cik": "0001739439",
+    "fund": "Rockefeller Capital Management",
+    "fundZh": "Rockefeller Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gregory Fleming",
+    "denomination": "Rockefeller Capital Management L.P."
+  },
+  "0001061768": {
+    "cik": "0001061768",
+    "fund": "Baupost Group",
+    "fundZh": "鲍波斯特集团",
+    "managerZh": "塞思·卡拉曼",
+    "category": "value",
+    "popularity": 88,
+    "manager": "Seth Klarman",
+    "denomination": "Baupost Group LLC/MA"
+  },
+  "0000814375": {
+    "cik": "0000814375",
+    "fund": "Donald Smith & Co",
+    "fundZh": "Donald Smith & Co",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Donald Smith",
+    "denomination": "Donald Smith & Co., Inc."
+  },
+  "0001423296": {
+    "cik": "0001423296",
+    "fund": "Zuckerman Investment Group",
+    "fundZh": "Zuckerman Investment Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sherwin Zuckerman",
+    "denomination": "Zuckerman Investment Group, LLC"
+  },
+  "0001731029": {
+    "cik": "0001731029",
+    "fund": "Greencape",
+    "fundZh": "Greencape",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Koh",
+    "denomination": "Greencape Capital Pty Ltd"
+  },
+  "0001314273": {
+    "cik": "0001314273",
+    "fund": "Avalon Global Asset Management",
+    "fundZh": "Avalon Global Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nancy Kukacka",
+    "denomination": "Avalon Global Asset Management LLC"
+  },
+  "0001589689": {
+    "cik": "0001589689",
+    "fund": "MYDA Advisors",
+    "fundZh": "MYDA Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jason Lieber",
+    "denomination": "MYDA Advisors LLC"
+  },
+  "0001756558": {
+    "cik": "0001756558",
+    "fund": "XN",
+    "fundZh": "XN",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gaurav Kapadia",
+    "denomination": "XN LP"
+  },
+  "0001599383": {
+    "cik": "0001599383",
+    "fund": "The Windacre Partnership",
+    "fundZh": "The Windacre Partnership",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Snehal Amin",
+    "denomination": "The Windacre Partnership LLC"
+  },
+  "0000859804": {
+    "cik": "0000859804",
+    "fund": "Wedgewood Partners",
+    "fundZh": "Wedgewood Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Rolfe",
+    "denomination": "Wedgewood Partners Inc"
+  },
+  "0001509842": {
+    "cik": "0001509842",
+    "fund": "PointState Capital",
+    "fundZh": "PointState Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Zach Schreiber",
+    "denomination": "Pointstate Capital LP"
+  },
+  "0001510669": {
+    "cik": "0001510669",
+    "fund": "Contour Asset Management",
+    "fundZh": "Contour Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Meyer",
+    "denomination": "Contour Asset Management LLC"
+  },
+  "0001665241": {
+    "cik": "0001665241",
+    "fund": "Schonfeld Strategic Advisors",
+    "fundZh": "Schonfeld Strategic Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Steven Schonfeld",
+    "denomination": "Schonfeld Strategic Advisors LLC"
+  },
+  "0001086762": {
+    "cik": "0001086762",
+    "fund": "Cobalt Capital Management",
+    "fundZh": "Cobalt Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Wayne Cooperman",
+    "denomination": "Cobalt Capital Management, L.P."
+  },
+  "0001410830": {
+    "cik": "0001410830",
+    "fund": "Matrix Capital Management",
+    "fundZh": "Matrix Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Goel",
+    "denomination": "Matrix Capital Management Company, LP"
+  },
+  "0001484043": {
+    "cik": "0001484043",
+    "fund": "Ithaka Group",
+    "fundZh": "Ithaka Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "William Johnson",
+    "denomination": "Ithaka Group LLC"
+  },
+  "0001642575": {
+    "cik": "0001642575",
+    "fund": "Squarepoint",
+    "fundZh": "Squarepoint",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Maxime Fortin",
+    "denomination": "Squarepoint Ops LLC"
+  },
+  "0001910179": {
+    "cik": "0001910179",
+    "fund": "GHE LLC",
+    "fundZh": "GHE LLC",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Hunt",
+    "denomination": "GHE, LLC"
+  },
+  "0001274173": {
+    "cik": "0001274173",
+    "fund": "Janus Henderson Investors",
+    "fundZh": "Janus Henderson Investors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ali Dibadj",
+    "denomination": "Janus Henderson Group PLC"
+  },
+  "0000354204": {
+    "cik": "0000354204",
+    "fund": "Dimensional Fund Advisors",
+    "fundZh": "Dimensional Fund Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "David Booth",
+    "denomination": "Dimensional Fund Advisors LP"
+  },
+  "0001846677": {
+    "cik": "0001846677",
+    "fund": "Nellore Capital Management",
+    "fundZh": "Nellore Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sakya Duvvuru",
+    "denomination": "Nellore Capital Management LLC"
+  },
+  "0001698060": {
+    "cik": "0001698060",
+    "fund": "Gobi Capital",
+    "fundZh": "Gobi Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Thomas Tsao",
+    "denomination": "Gobi Capital LLC"
+  },
+  "0001389507": {
+    "cik": "0001389507",
+    "fund": "Discovery Capital Management",
+    "fundZh": "Discovery Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Citrone",
+    "denomination": "Discovery Capital Management, LLC"
+  },
+  "0001034524": {
+    "cik": "0001034524",
+    "fund": "Polen Capital",
+    "fundZh": "Polen Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stan Moss",
+    "denomination": "Polen Capital Management, LLC"
+  },
+  "0001802882": {
+    "cik": "0001802882",
+    "fund": "Harrell Investment Partners",
+    "fundZh": "Harrell Investment Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian Harrell",
+    "denomination": "Harrell Investment Partners, LLC"
+  },
+  "0001954551": {
+    "cik": "0001954551",
+    "fund": "Warther Private Wealth",
+    "fundZh": "Warther Private Wealth",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Warther",
+    "denomination": "Warther Private Wealth, LLC"
+  },
+  "0001574886": {
+    "cik": "0001574886",
+    "fund": "Teewinot Capital Advisers",
+    "fundZh": "Teewinot Capital Advisers",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Moriarty",
+    "denomination": "Teewinot Capital Advisers, L.L.C."
+  },
+  "0001104883": {
+    "cik": "0001104883",
+    "fund": "Sirios Capital Management",
+    "fundZh": "Sirios Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Brennan",
+    "denomination": "Sirios Capital Management LP"
+  },
+  "0001077428": {
+    "cik": "0001077428",
+    "fund": "Texas Capital Bancshares",
+    "fundZh": "Texas Capital Bancshares",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Rob Holmes",
+    "denomination": "Texas Capital Bancshares Inc/TX"
+  },
+  "0001838211": {
+    "cik": "0001838211",
+    "fund": "Venator Capital Management",
+    "fundZh": "Venator Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brandon Osten",
+    "denomination": "Venator Capital Management Ltd."
+  },
+  "0001393825": {
+    "cik": "0001393825",
+    "fund": "Hudson Bay Capital Management",
+    "fundZh": "Hudson Bay Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sander Gerber",
+    "denomination": "Hudson Bay Capital Management LP"
+  },
+  "0001326389": {
+    "cik": "0001326389",
+    "fund": "Polar Asset Management",
+    "fundZh": "Polar Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bill Peckford",
+    "denomination": "Polar Asset Management Partners Inc."
+  },
+  "0001859388": {
+    "cik": "0001859388",
+    "fund": "Franchise",
+    "fundZh": "Franchise",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Oleksandr Alieksieienko",
+    "denomination": "Franchise Capital Ltd"
+  },
+  "0001224962": {
+    "cik": "0001224962",
+    "fund": "Perceptive Advisors",
+    "fundZh": "Perceptive Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Joseph Edelman",
+    "denomination": "Perceptive Advisors LLC"
+  },
+  "0000938592": {
+    "cik": "0000938592",
+    "fund": "Moody, Lynn, Lieberson & Walker",
+    "fundZh": "Moody, Lynn, Lieberson & Walker",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Moody & Martin Lynn",
+    "denomination": "Moody Lynn & Lieberson, LLC"
+  },
+  "0001423686": {
+    "cik": "0001423686",
+    "fund": "Cadian Capital Management",
+    "fundZh": "Cadian Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Eric Bannasch",
+    "denomination": "Cadian Capital Management, LP"
+  },
+  "0001747057": {
+    "cik": "0001747057",
+    "fund": "D1 Capital Partners",
+    "fundZh": "D1 资本合伙人",
+    "managerZh": "丹·桑德海姆",
+    "category": "growth",
+    "popularity": 47,
+    "manager": "Daniel Sundheim",
+    "denomination": "D1 Capital Partners L.P."
+  },
+  "0001729254": {
+    "cik": "0001729254",
+    "fund": "FrontRow Advisors",
+    "fundZh": "FrontRow Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Reid Vogel",
+    "denomination": "Front Row Advisors LLC"
+  },
+  "0001165408": {
+    "cik": "0001165408",
+    "fund": "Adage Capital Partners",
+    "fundZh": "Adage Capital Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Atchison & Phillip Gross",
+    "denomination": "Adage Capital Management, L.P."
+  },
+  "0002066260": {
+    "cik": "0002066260",
+    "fund": "Bosman Wealth Management",
+    "fundZh": "Bosman Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mike Bosman",
+    "denomination": "Bosman Wealth Management, LLC"
+  },
+  "0001353312": {
+    "cik": "0001353312",
+    "fund": "Tremblant Capital",
+    "fundZh": "Tremblant Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brett Barakett",
+    "denomination": "Tremblant Capital Group"
+  },
+  "0001547007": {
+    "cik": "0001547007",
+    "fund": "Dorsal Capital Management",
+    "fundZh": "Dorsal Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ryan Frick",
+    "denomination": "Dorsal Capital Management, LP"
+  },
+  "0001346824": {
+    "cik": "0001346824",
+    "fund": "RA Capital Management",
+    "fundZh": "RA Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter Kolchinsky",
+    "denomination": "RA Capital Management, L.P."
+  },
+  "0001631014": {
+    "cik": "0001631014",
+    "fund": "AltaRock Partners",
+    "fundZh": "AltaRock Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Massey",
+    "denomination": "Altarock Partners LP"
+  },
+  "0002011221": {
+    "cik": "0002011221",
+    "fund": "Darden Wealth Group",
+    "fundZh": "Darden Wealth Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Andrea Darden",
+    "denomination": "Darden Wealth Group Inc"
+  },
+  "0001443689": {
+    "cik": "0001443689",
+    "fund": "Senator Investment Group",
+    "fundZh": "Senator Investment Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Alex Klabin",
+    "denomination": "Senator Investment Group LP"
+  },
+  "0001740839": {
+    "cik": "0001740839",
+    "fund": "Gables Capital Management",
+    "fundZh": "Gables Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Eric McKenna",
+    "denomination": "Gables Capital Management Inc."
+  },
+  "0000872098": {
+    "cik": "0000872098",
+    "fund": "Chapin Davis",
+    "fundZh": "Chapin Davis",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Hildreth",
+    "denomination": "Chapin Davis, Inc."
+  },
+  "0001834874": {
+    "cik": "0001834874",
+    "fund": "Audent Global Asset Management",
+    "fundZh": "Audent Global Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paul Feinstein",
+    "denomination": "Audent Global Asset Management, LLC"
+  },
+  "0000945631": {
+    "cik": "0000945631",
+    "fund": "Eagle Capital Management",
+    "fundZh": "Eagle Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Boykin Curry",
+    "denomination": "Eagle Capital Management LLC"
+  },
+  "0001479465": {
+    "cik": "0001479465",
+    "fund": "Farley Capital",
+    "fundZh": "Farley Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stephen Farley",
+    "denomination": "Farley Capital L.P."
+  },
+  "0001912187": {
+    "cik": "0001912187",
+    "fund": "RDST Capital",
+    "fundZh": "RDST Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian David Pirie",
+    "denomination": "RDST Capital LLC"
+  },
+  "0001633445": {
+    "cik": "0001633445",
+    "fund": "Trexquant",
+    "fundZh": "Trexquant",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tyger Park",
+    "denomination": "Trexquant Investment LP"
+  },
+  "0001510668": {
+    "cik": "0001510668",
+    "fund": "Crystal Rock Capital Management",
+    "fundZh": "Crystal Rock Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Freedman",
+    "denomination": "Crystal Rock Capital Management"
+  },
+  "0002042565": {
+    "cik": "0002042565",
+    "fund": "WIM Investment Management",
+    "fundZh": "WIM Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Guy McGlashan",
+    "denomination": "WIM Investment Management Ltd"
+  },
+  "0001584801": {
+    "cik": "0001584801",
+    "fund": "YCG Investments",
+    "fundZh": "YCG Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian Yacktman",
+    "denomination": "YCG, LLC"
+  },
+  "0000906304": {
+    "cik": "0000906304",
+    "fund": "Royce Investment Partners",
+    "fundZh": "Royce Investment Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chuck Royce",
+    "denomination": "Royce & Associates LP"
+  },
+  "0001421097": {
+    "cik": "0001421097",
+    "fund": "Samlyn Capital",
+    "fundZh": "Samlyn Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Pohly",
+    "denomination": "Samlyn Capital, LLC"
+  },
+  "0001591744": {
+    "cik": "0001591744",
+    "fund": "Shellback Capital",
+    "fundZh": "Shellback Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jon Hilsabeck",
+    "denomination": "Shellback Capital, LP"
+  },
+  "0001388838": {
+    "cik": "0001388838",
+    "fund": "Dalton Investments",
+    "fundZh": "Dalton Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jamie Rosenwald",
+    "denomination": "Dalton Investments, Inc."
+  },
+  "0001410833": {
+    "cik": "0001410833",
+    "fund": "Night Owl Capital",
+    "fundZh": "Night Owl Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Kim",
+    "denomination": "Night Owl Capital Management, LLC"
+  },
+  "0001276470": {
+    "cik": "0001276470",
+    "fund": "Corsair Capital Management",
+    "fundZh": "Corsair Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Petschek",
+    "denomination": "Corsair Capital Management, L.P."
+  },
+  "0001572748": {
+    "cik": "0001572748",
+    "fund": "Marathon Trading",
+    "fundZh": "Marathon Trading",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter James Viscardo",
+    "denomination": "Marathon Trading Investment Management LLC"
+  },
+  "0001362255": {
+    "cik": "0001362255",
+    "fund": "Goodnow Investment Group",
+    "fundZh": "Goodnow Investment Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter Gavey",
+    "denomination": "Goodnow Investment Group, LLC"
+  },
+  "0001614704": {
+    "cik": "0001614704",
+    "fund": "RiverPark Capital",
+    "fundZh": "RiverPark Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mordecai Alan Schaja",
+    "denomination": "Riverpark Capital Management LLC"
+  },
+  "0001323645": {
+    "cik": "0001323645",
+    "fund": "Capital Fund Management",
+    "fundZh": "Capital Fund Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Marc Potters & Jacques Saulière",
+    "denomination": "Capital Fund Management"
+  },
+  "0001352272": {
+    "cik": "0001352272",
+    "fund": "Miura",
+    "fundZh": "Miura",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Francisco Alfaro",
+    "denomination": "Miura Global Management, LLC"
+  },
+  "0001878547": {
+    "cik": "0001878547",
+    "fund": "Carmel Capital Management",
+    "fundZh": "Carmel Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "West Whittaker",
+    "denomination": "Carmel Capital Management L.L.C."
+  },
+  "0001438848": {
+    "cik": "0001438848",
+    "fund": "GAM Investments",
+    "fundZh": "GAM Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Albert Saporta",
+    "denomination": "GAM Holding AG"
+  },
+  "0001291318": {
+    "cik": "0001291318",
+    "fund": "Oversea-Chinese Banking Corp",
+    "fundZh": "Oversea-Chinese Banking Corp",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Helen Wong",
+    "denomination": "Oversea-Chinese Banking Corp Ltd"
+  },
+  "0001055951": {
+    "cik": "0001055951",
+    "fund": "OrbiMed",
+    "fundZh": "OrbiMed",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Samuel Isaly",
+    "denomination": "OrbiMed Advisors LLC"
+  },
+  "0000947996": {
+    "cik": "0000947996",
+    "fund": "Olstein Funds",
+    "fundZh": "Olstein Funds",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Olstein",
+    "denomination": "Olstein Capital Management, L.P."
+  },
+  "0001750423": {
+    "cik": "0001750423",
+    "fund": "Henry James International Management",
+    "fundZh": "Henry James International Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James O'Leary",
+    "denomination": "Henry James International Management Inc."
+  },
+  "0001422848": {
+    "cik": "0001422848",
+    "fund": "Capital Research Global Investors",
+    "fundZh": "Capital Research Global Investors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mike Gitlin",
+    "denomination": "Capital Research Global Investors"
+  },
+  "0001744347": {
+    "cik": "0001744347",
+    "fund": "Vident Advisory",
+    "fundZh": "Vident Advisory",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Vince Birley",
+    "denomination": "Vident Advisory, LLC"
+  },
+  "0001659380": {
+    "cik": "0001659380",
+    "fund": "Sender Company & Partners",
+    "fundZh": "Sender Company & Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Adam Sender",
+    "denomination": "Sender Co & Partners, Inc."
+  },
+  "0001901929": {
+    "cik": "0001901929",
+    "fund": "Trevian Wealth Management",
+    "fundZh": "Trevian Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Phil Swisher",
+    "denomination": "Trevian Wealth Management LLC"
+  },
+  "0001119032": {
+    "cik": "0001119032",
+    "fund": "Harvey Capital Management",
+    "fundZh": "Harvey Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Harvey",
+    "denomination": "Harvey Capital Management Inc"
+  },
+  "0001841015": {
+    "cik": "0001841015",
+    "fund": "Rutherford Investment Management",
+    "fundZh": "Rutherford Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "William Rutherford",
+    "denomination": "WD Rutherford LLC"
+  },
+  "0001269950": {
+    "cik": "0001269950",
+    "fund": "Deltec Asset Management",
+    "fundZh": "Deltec Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Arthur Byrnes & John Gordon",
+    "denomination": "Deltec Asset Management LLC"
+  },
+  "0002040901": {
+    "cik": "0002040901",
+    "fund": "Financially Speaking",
+    "fundZh": "Financially Speaking",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Phil Luccock",
+    "denomination": "Financially Speaking Inc"
+  },
+  "0000844150": {
+    "cik": "0000844150",
+    "fund": "NatWest Group",
+    "fundZh": "NatWest Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paul Thwaite",
+    "denomination": "Natwest Group PLC"
+  },
+  "0001728278": {
+    "cik": "0001728278",
+    "fund": "One Madison Group",
+    "fundZh": "One Madison Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Omar Asali",
+    "denomination": "One Madison Group LLC"
+  },
+  "0001068837": {
+    "cik": "0001068837",
+    "fund": "Voya Investment Management",
+    "fundZh": "Voya Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matthew Toms",
+    "denomination": "Voya Investment Management LLC"
+  },
+  "0001660773": {
+    "cik": "0001660773",
+    "fund": "Amansa Capital",
+    "fundZh": "Amansa Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Akash Prakash",
+    "denomination": "Amansa Capital Pte. Ltd."
+  },
+  "0002059321": {
+    "cik": "0002059321",
+    "fund": "PKO TFI",
+    "fundZh": "PKO TFI",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Rafał Madej",
+    "denomination": "PKO Investment Management Joint-Stock Co"
+  },
+  "0001548882": {
+    "cik": "0001548882",
+    "fund": "Eos Partners",
+    "fundZh": "Eos Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian Young & Steven Friedman",
+    "denomination": "Eos Management, L.P."
+  },
+  "0001452689": {
+    "cik": "0001452689",
+    "fund": "Valiant Capital",
+    "fundZh": "Valiant Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Chris Hansen",
+    "denomination": "Valiant Capital Management, L.P."
+  },
+  "0001389875": {
+    "cik": "0001389875",
+    "fund": "Newbrook Capital Advisors",
+    "fundZh": "Newbrook Capital Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Robert Boucai",
+    "denomination": "Newbrook Capital Advisors LP"
+  },
+  "0001387818": {
+    "cik": "0001387818",
+    "fund": "Barton Investment Management",
+    "fundZh": "Barton Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Barton Riley",
+    "denomination": "Barton Investment Management"
+  },
+  "0001847566": {
+    "cik": "0001847566",
+    "fund": "Absoluto Partners",
+    "fundZh": "Absoluto Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "José Zitelmann",
+    "denomination": "Absoluto Partners Gestao de Recursos Ltda"
+  },
+  "0002040353": {
+    "cik": "0002040353",
+    "fund": "Kera Capital",
+    "fundZh": "Kera Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "George Choe",
+    "denomination": "Kera Capital Partners, Inc."
+  },
+  "0001963355": {
+    "cik": "0001963355",
+    "fund": "Caitong Asset Management",
+    "fundZh": "Caitong Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Qicheng Zhang",
+    "denomination": "Caitong International Asset Management Co., Ltd"
+  },
+  "0002078353": {
+    "cik": "0002078353",
+    "fund": "October Effect",
+    "fundZh": "October Effect",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Frank Tehel",
+    "denomination": "October Effect Ltd"
+  },
+  "0001088875": {
+    "cik": "0001088875",
+    "fund": "Baillie Gifford",
+    "fundZh": "Baillie Gifford",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tim Campbell",
+    "denomination": "Baillie Gifford & Co"
+  },
+  "0002055557": {
+    "cik": "0002055557",
+    "fund": "Mountain Hill Investment Partners",
+    "fundZh": "Mountain Hill Investment Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Andy Kaiser",
+    "denomination": "Mountain Hill Investment Partners Corp."
+  },
+  "0001738723": {
+    "cik": "0001738723",
+    "fund": "West Branch",
+    "fundZh": "West Branch",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ayaz Mahmud",
+    "denomination": "West Branch Capital LLC"
+  },
+  "0001037353": {
+    "cik": "0001037353",
+    "fund": "Pathway Capital Management",
+    "fundZh": "Pathway Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Douglas Le Bon",
+    "denomination": "Pathway Capital Management, LP"
+  },
+  "0001323414": {
+    "cik": "0001323414",
+    "fund": "Pacific Heights",
+    "fundZh": "Pacific Heights",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Cuggino",
+    "denomination": "Pacific Heights Asset Management LLC"
+  },
+  "0001858789": {
+    "cik": "0001858789",
+    "fund": "Yousif Capital Management",
+    "fundZh": "Yousif Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kevin Yousif",
+    "denomination": "Yousif Capital Management, LLC"
+  },
+  "0001997464": {
+    "cik": "0001997464",
+    "fund": "Marex Group",
+    "fundZh": "Marex Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ian Lowitt",
+    "denomination": "Marex Group plc"
+  },
+  "0002054496": {
+    "cik": "0002054496",
+    "fund": "Eleva Capital",
+    "fundZh": "Eleva Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Eric Bendahan",
+    "denomination": "Eleva Capital SAS"
+  },
+  "0001633603": {
+    "cik": "0001633603",
+    "fund": "All-Stars Investment",
+    "fundZh": "All-Stars Investment",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Richard Ji",
+    "denomination": "All-Stars Investment Ltd"
+  },
+  "0001666504": {
+    "cik": "0001666504",
+    "fund": "Fiduciary Wealth Partners",
+    "fundZh": "Fiduciary Wealth Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Preston McSwain",
+    "denomination": "Fiduciary Wealth Partners, LLC"
+  },
+  "0002020280": {
+    "cik": "0002020280",
+    "fund": "Fiduciary Family Office",
+    "fundZh": "Fiduciary Family Office",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kathleen Grace",
+    "denomination": "Fiduciary Family Office, LLC"
+  },
+  "0002019841": {
+    "cik": "0002019841",
+    "fund": "Stone Ridge Asset Management",
+    "fundZh": "Stone Ridge Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ross Stevens",
+    "denomination": "Stone Ridge Holdings Group LP"
+  },
+  "0001475365": {
+    "cik": "0001475365",
+    "fund": "Sumitomo Mitsui Trust Group",
+    "fundZh": "Sumitomo Mitsui Trust Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Toru Takakura",
+    "denomination": "Sumitomo Mitsui Trust Group, Inc."
+  },
+  "0001832521": {
+    "cik": "0001832521",
+    "fund": "Castellan Group",
+    "fundZh": "Castellan Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Barry Brauch",
+    "denomination": "Castellan Group"
+  },
+  "0001005354": {
+    "cik": "0001005354",
+    "fund": "Virginia Retirement Systems",
+    "fundZh": "Virginia Retirement Systems",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Trish Bishop",
+    "denomination": "Virginia Retirement Systems Et Al"
+  },
+  "0001767686": {
+    "cik": "0001767686",
+    "fund": "Yarbrough Capital",
+    "fundZh": "Yarbrough Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jon Yarbrough",
+    "denomination": "Yarbrough Capital, LLC"
+  },
+  "0002090468": {
+    "cik": "0002090468",
+    "fund": "Meadowbrook Wealth Management",
+    "fundZh": "Meadowbrook Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Thomas Efthimiou",
+    "denomination": "Meadowbrook Wealth Management, LLC"
+  },
+  "0001815344": {
+    "cik": "0001815344",
+    "fund": "Hestia Capital Management",
+    "fundZh": "Hestia Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kurt Wolf",
+    "denomination": "Hestia Capital Management, LLC"
+  },
+  "0002080247": {
+    "cik": "0002080247",
+    "fund": "Pinpoint Asset Management",
+    "fundZh": "Pinpoint Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Wang Qiang",
+    "denomination": "Pinpoint Asset Management (Singapore) Pte. Ltd."
+  },
+  "0002067954": {
+    "cik": "0002067954",
+    "fund": "QTR Family",
+    "fundZh": "QTR Family",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Desaree Tatum",
+    "denomination": "QTR Family Wealth, LLC"
+  },
+  "0001742647": {
+    "cik": "0001742647",
+    "fund": "Moerus Capital Management",
+    "fundZh": "Moerus Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Amit Wadhwaney",
+    "denomination": "Moerus Capital Management LLC"
+  },
+  "0000727117": {
+    "cik": "0000727117",
+    "fund": "Builder Investment Group",
+    "fundZh": "Builder Investment Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Allen Builder",
+    "denomination": "Builder Investment Group Inc /ADV"
+  },
+  "0001276918": {
+    "cik": "0001276918",
+    "fund": "Zevenbergen Capital Investments",
+    "fundZh": "Zevenbergen Capital Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Nancy Zevenbergen",
+    "denomination": "Zevenbergen Capital Investments LLC"
+  },
+  "0001714267": {
+    "cik": "0001714267",
+    "fund": "Thames Capital Management",
+    "fundZh": "Thames Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jay Genzer",
+    "denomination": "Thames Capital Management LLC"
+  },
+  "0001962838": {
+    "cik": "0001962838",
+    "fund": "Schear Investment Advisers",
+    "fundZh": "Schear Investment Advisers",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Neal Schear",
+    "denomination": "Schear Investment Advisers, LLC"
+  },
+  "0002025905": {
+    "cik": "0002025905",
+    "fund": "Generate Investment Management",
+    "fundZh": "Generate Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Henry Tongue",
+    "denomination": "Generate Investment Management Ltd"
+  },
+  "0001722053": {
+    "cik": "0001722053",
+    "fund": "CenterStar Asset Management",
+    "fundZh": "CenterStar Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michelin Sloneker",
+    "denomination": "CenterStar Asset Management, LLC"
+  },
+  "0002042502": {
+    "cik": "0002042502",
+    "fund": "Kiker Wealth Management",
+    "fundZh": "Kiker Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Paul Kiker",
+    "denomination": "Kiker Wealth Management, LLC"
+  },
+  "0001919749": {
+    "cik": "0001919749",
+    "fund": "Carter Financial Group",
+    "fundZh": "Carter Financial Group",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kevin Carter",
+    "denomination": "Carter Financial Group, INC."
+  },
+  "0001290162": {
+    "cik": "0001290162",
+    "fund": "QVT Financial",
+    "fundZh": "QVT Financial",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Dan Gold",
+    "denomination": "QVT Financial LP"
+  },
+  "0001970075": {
+    "cik": "0001970075",
+    "fund": "LBP AM",
+    "fundZh": "LBP AM",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Emmanuelle Mourey",
+    "denomination": "LBP AM SA"
+  },
+  "0001843294": {
+    "cik": "0001843294",
+    "fund": "WMP",
+    "fundZh": "WMP",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Ward",
+    "denomination": "Wealth Management Partners, LLC"
+  },
+  "0001844250": {
+    "cik": "0001844250",
+    "fund": "Purus Wealth Management",
+    "fundZh": "Purus Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Larsen",
+    "denomination": "Purus Wealth Management, LLC"
+  },
+  "0002031590": {
+    "cik": "0002031590",
+    "fund": "Ripple Effect Asset Management",
+    "fundZh": "Ripple Effect Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ravi Bellur",
+    "denomination": "Ripple Effect Asset Management LP"
+  },
+  "0001619124": {
+    "cik": "0001619124",
+    "fund": "Cardano",
+    "fundZh": "Cardano",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Harold Naus",
+    "denomination": "Cardano Risk Management B.V."
+  },
+  "0002056566": {
+    "cik": "0002056566",
+    "fund": "AGP Franklin",
+    "fundZh": "AGP Franklin",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Charles David Crouch",
+    "denomination": "AGP Franklin, LLC"
+  },
+  "0001996454": {
+    "cik": "0001996454",
+    "fund": "QRG Capital Management",
+    "fundZh": "QRG Capital Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brandon Thomas",
+    "denomination": "QRG Capital Management, Inc."
+  },
+  "0002046822": {
+    "cik": "0002046822",
+    "fund": "Sharpepoint",
+    "fundZh": "Sharpepoint",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Brian Robinson",
+    "denomination": "Sharpepoint LLC"
+  },
+  "0001842665": {
+    "cik": "0001842665",
+    "fund": "Halter Ferguson Financial",
+    "fundZh": "Halter Ferguson Financial",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Scott Ferguson",
+    "denomination": "Halter Ferguson Financial Inc."
+  },
+  "0002058426": {
+    "cik": "0002058426",
+    "fund": "Corient IA",
+    "fundZh": "Corient IA",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Kurt MacAlpine",
+    "denomination": "Corient IA LLC"
+  },
+  "0002033334": {
+    "cik": "0002033334",
+    "fund": "North of South Capital",
+    "fundZh": "North of South Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matt Linsey",
+    "denomination": "North of South Capital LLP"
+  },
+  "0001389958": {
+    "cik": "0001389958",
+    "fund": "PEAK6",
+    "fundZh": "PEAK6",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Matt Hulsizer",
+    "denomination": "PEAK6 LLC"
+  },
+  "0002029708": {
+    "cik": "0002029708",
+    "fund": "Avenir Technology",
+    "fundZh": "Avenir Technology",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Li Lin",
+    "denomination": "Avenir Tech Limited"
+  },
+  "0001535096": {
+    "cik": "0001535096",
+    "fund": "Tree Line Advisors",
+    "fundZh": "Tree Line Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Zaheer Abbas Sitabkhan",
+    "denomination": "Tree Line Advisors (Hong Kong) Ltd."
+  },
+  "0001919332": {
+    "cik": "0001919332",
+    "fund": "ParaFi Capital",
+    "fundZh": "ParaFi Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ben Forman",
+    "denomination": "ParaFi Capital LP"
+  },
+  "0001818044": {
+    "cik": "0001818044",
+    "fund": "AF Advisors",
+    "fundZh": "AF Advisors",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeff Adams",
+    "denomination": "AF Advisors, Inc."
+  },
+  "0002009539": {
+    "cik": "0002009539",
+    "fund": "Rakuten Securities",
+    "fundZh": "Rakuten Securities",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Yuji Kusunoki",
+    "denomination": "Rakuten Securities, Inc."
+  },
+  "0001906719": {
+    "cik": "0001906719",
+    "fund": "Lynch Asset Management",
+    "fundZh": "Lynch Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Mark Lynch",
+    "denomination": "Lynch Asset Management, Inc."
+  },
+  "0002053303": {
+    "cik": "0002053303",
+    "fund": "Peregrine Investment Management",
+    "fundZh": "Peregrine Investment Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Tom Antony",
+    "denomination": "Peregrine Investment Management Inc"
+  },
+  "0002058093": {
+    "cik": "0002058093",
+    "fund": "Infinitum Partners",
+    "fundZh": "Infinitum Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Yetimoglu",
+    "denomination": "Infinitum Asset Management, LLC"
+  },
+  "0002035232": {
+    "cik": "0002035232",
+    "fund": "BLKBRD Asset Management",
+    "fundZh": "BLKBRD Asset Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Daniel Izzo",
+    "denomination": "BLKBRD Asset Management, LP"
+  },
+  "0001770120": {
+    "cik": "0001770120",
+    "fund": "JNE Partners",
+    "fundZh": "JNE Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jonathan Esfandi",
+    "denomination": "JNE Partners LLP"
+  },
+  "0001129919": {
+    "cik": "0001129919",
+    "fund": "ProFunds",
+    "fundZh": "ProFunds",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Michael Sapir",
+    "denomination": "Profund Advisors LLC"
+  },
+  "0001680843": {
+    "cik": "0001680843",
+    "fund": "Nightview Capital",
+    "fundZh": "Nightview Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Arne Alsin",
+    "denomination": "Nightview Capital, LLC"
+  },
+  "0001985479": {
+    "cik": "0001985479",
+    "fund": "Linonia Partners",
+    "fundZh": "Linonia Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Philip Arthur Uhde",
+    "denomination": "Linonia Partners Fund LP"
+  },
+  "0002054122": {
+    "cik": "0002054122",
+    "fund": "Longaeva Partners",
+    "fundZh": "Longaeva Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Peter Goodwin",
+    "denomination": "Longaeva Partners, LP"
+  },
+  "0001633799": {
+    "cik": "0001633799",
+    "fund": "Nishkama Capital",
+    "fundZh": "Nishkama Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Ravee Mehta",
+    "denomination": "Nishkama Capital, LLC"
+  },
+  "0001680964": {
+    "cik": "0001680964",
+    "fund": "SoMa Equity Partners",
+    "fundZh": "SoMa Equity Partners",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Gil Simon",
+    "denomination": "SoMa Equity Partners LP"
+  },
+  "0001904897": {
+    "cik": "0001904897",
+    "fund": "Styrax Capital",
+    "fundZh": "Styrax Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Soly Vahabzadeh",
+    "denomination": "Styrax Capital, LP"
+  },
+  "0002014039": {
+    "cik": "0002014039",
+    "fund": "Triata Capital",
+    "fundZh": "Triata Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Sean Ho",
+    "denomination": "Triata Capital Ltd"
+  },
+  "0002045724": {
+    "cik": "0002045724",
+    "fund": "Situational Awareness",
+    "fundZh": "Situational Awareness",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Leopold Aschenbrenner",
+    "denomination": "Situational Awareness LP"
+  },
+  "0002065849": {
+    "cik": "0002065849",
+    "fund": "Yukon Wealth Management",
+    "fundZh": "Yukon Wealth Management",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Hanahan",
+    "denomination": "Yukon Wealth Management, Inc."
+  },
+  "0002079812": {
+    "cik": "0002079812",
+    "fund": "Tripletail Wealth",
+    "fundZh": "Tripletail Wealth",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Erik Bonnett",
+    "denomination": "Tripletail Wealth Management, LLC"
+  },
+  "0001755784": {
+    "cik": "0001755784",
+    "fund": "TenCore",
+    "fundZh": "TenCore",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Girish Bhakoo",
+    "denomination": "TenCore Partners, LP"
+  },
+  "0000053417": {
+    "cik": "0000053417",
+    "fund": "Jennison Associates",
+    "fundZh": "Jennison Associates",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jeffrey Becker",
+    "denomination": "Jennison Associates LLC"
+  },
+  "0001569395": {
+    "cik": "0001569395",
+    "fund": "Mirae Asset Global Investments",
+    "fundZh": "Mirae Asset Global Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Hyeon Joo Park",
+    "denomination": "Mirae Asset Global Investments Co., Ltd."
+  },
+  "0001803054": {
+    "cik": "0001803054",
+    "fund": "NWK",
+    "fundZh": "NWK",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Theo Rabe",
+    "denomination": "NWK Group, Inc."
+  },
+  "0001480751": {
+    "cik": "0001480751",
+    "fund": "Amova",
+    "fundZh": "Amova",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Stefanie Drews",
+    "denomination": "Amova Asset Management Americas, Inc."
+  },
+  "0001389544": {
+    "cik": "0001389544",
+    "fund": "Allen Operations",
+    "fundZh": "Allen Operations",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Herbert Allen III",
+    "denomination": "Allen Operations LLC"
+  },
+  "0001766791": {
+    "cik": "0001766791",
+    "fund": "GrandView",
+    "fundZh": "GrandView",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bruce Smith",
+    "denomination": "Grandview Asset Management LLC"
+  },
+  "0001910456": {
+    "cik": "0001910456",
+    "fund": "Lynx1",
+    "fundZh": "Lynx1",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Weston Nichols",
+    "denomination": "Lynx1 Capital Management LP"
+  },
+  "0002049221": {
+    "cik": "0002049221",
+    "fund": "ABC Arbitrage",
+    "fundZh": "ABC Arbitrage",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Dominique Ceolin",
+    "denomination": "ABC Arbitrage SA"
+  },
+  "0001644465": {
+    "cik": "0001644465",
+    "fund": "Glenmede",
+    "fundZh": "Glenmede",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Elizabeth Eldridge",
+    "denomination": "Glenmede Investment Management, LP"
+  },
+  "0002065606": {
+    "cik": "0002065606",
+    "fund": "Notable Capital",
+    "fundZh": "Notable Capital",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Glenn Solomon & Jeff Richards",
+    "denomination": "Notable Capital Management, L.L.C."
+  },
+  "0001316507": {
+    "cik": "0001316507",
+    "fund": "Calamos Investments",
+    "fundZh": "Calamos Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "John Koudounis",
+    "denomination": "Calamos Advisors LLC"
+  },
+  "0002077080": {
+    "cik": "0002077080",
+    "fund": "Midwest Trust",
+    "fundZh": "Midwest Trust",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Bradley Bergman",
+    "denomination": "Midwest Trust Co"
+  },
+  "0000918893": {
+    "cik": "0000918893",
+    "fund": "Rosenblum-Silverman-Sutton SF",
+    "fundZh": "Rosenblum-Silverman-Sutton SF",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Barbara Rosenblum",
+    "denomination": "Rosenblum Silverman Sutton S F Inc /CA"
+  },
+  "0001799544": {
+    "cik": "0001799544",
+    "fund": "Hoey Investments",
+    "fundZh": "Hoey Investments",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Fran Hoey",
+    "denomination": "Hoey Investments, Inc"
+  },
+  "0000919192": {
+    "cik": "0000919192",
+    "fund": "Amalgamated Bank",
+    "fundZh": "Amalgamated Bank",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Priscilla Sims Brown",
+    "denomination": "Amalgamated Bank"
+  },
+  "0001274419": {
+    "cik": "0001274419",
+    "fund": "Banque CIC",
+    "fundZh": "Banque CIC",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Daniel Baal",
+    "denomination": "Credit Industriel et Commercial"
+  },
+  "0000812291": {
+    "cik": "0000812291",
+    "fund": "Mizuho USA",
+    "fundZh": "Mizuho USA",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jerry Rizzieri",
+    "denomination": "Mizuho Securities USA LLC"
+  },
+  "0001847582": {
+    "cik": "0001847582",
+    "fund": "TMT General Partner",
+    "fundZh": "TMT General Partner",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Qin Liu",
+    "denomination": "TMT General Partner Ltd."
+  },
+  "0002077718": {
+    "cik": "0002077718",
+    "fund": "Sullivan Wood",
+    "fundZh": "Sullivan Wood",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "James Arnold Sullivan",
+    "denomination": "Sullivan Wood Capital Management"
+  },
+  "0001729829": {
+    "cik": "0001729829",
+    "fund": "Qube Research & Technologies",
+    "fundZh": "Qube Research & Technologies",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Pierre-Yves Morlat",
+    "denomination": "Qube Research & Technologies Ltd"
+  },
+  "0001172779": {
+    "cik": "0001172779",
+    "fund": "Dock Street",
+    "fundZh": "Dock Street",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Daniel Ogden",
+    "denomination": "Dock Street Asset Management Inc"
+  },
+  "0000093751": {
+    "cik": "0000093751",
+    "fund": "State Street",
+    "fundZh": "State Street",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "State Street",
+    "denomination": "State Street Corporation"
+  },
+  "0001595888": {
+    "cik": "0001595888",
+    "fund": "Jane Street",
+    "fundZh": "Jane Street",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Jane Street",
+    "denomination": "Jane Street Capital, LLC"
+  },
+  "0002012383": {
+    "cik": "0002012383",
+    "fund": "BlackRock",
+    "fundZh": "贝莱德",
+    "managerZh": "拉里·芬克",
+    "category": "institutional",
+    "popularity": 50,
+    "manager": "BlackRock",
+    "denomination": "BlackRock, Inc."
+  },
+  "0001795097": {
+    "cik": "0001795097",
+    "fund": "Privium",
+    "fundZh": "Privium",
+    "managerZh": "",
+    "category": "institutional",
+    "popularity": 0,
+    "manager": "Clayton Heijman",
+    "denomination": "Privium Fund Management B.V."
+  }
+}
