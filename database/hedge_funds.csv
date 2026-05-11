@@ -1,200 +1,449 @@
-"CIK","Fund","Manager","Denomination","CIKs","URL"
-"0001421669","3G","Jorge Paulo Lehman","3G Capital Partners LP","","https://www.3g-capital.com/"
-"0001540358","a16z","Ben Horowitz","a16z Capital Management, L.L.C.","","https://a16z.com/"
-"0002029917","ADAPT","Clément Mary-Dauphin","ADAPT Investment Managers SA","","https://www.adapt-im.ch/"
-"0001512073","Aft Forsyth","Larry Aft","Aft, Forsyth & Company, Inc.","","https://aftforsyth.com/"
-"0002047606","AG2R","Fabrice Heyriès","AG2R La Mondiale Gestion d'actifs","","https://www.ag2rlamondiale.fr/"
-"0001933952","AI-Squared","Darren Kimura","AI-Squared Management Ltd","","https://aisquared.ai/"
-"0001230239","Alkeon","Panayotis Sparaggis","Alkeon Capital Management LLC","","https://www.alkeon.com/"
-"0002076121","Amanah","Karim Al-Mansour","Amanah Holdings Trust","","https://amanahcapital.uk/"
-"0001807559","Amitell","Irene Tedja","Amitell Capital Pte Ltd","","https://www.amitellcapital.com/"
-"0001822480","Anabranch","Alexander Shapiro & Daniel Wolf","Anabranch Capital Management, LP","","https://www.anabranchcap.com/"
-"0001753384","Analog","Val Zlatev","Analog Century Management LP","","https://www.analogcm.com/"
-"0002007642","Anchorage","Yale Baron & Thibault Gournay","Anchorage Capital Advisors, L.P.","","https://anchoragecapital.com/"
-"0001426749","Ancient Art","Quincy Lee","Ancient Art, L.P.","","https://ancient.co/"
-"0001805591","Andar","Wen Han Li","Andar Capital Management HK Ltd","",""
-"0001835730","Ardmore Road","Chris Connor","Ardmore Road Asset Management","","https://www.ardmoreroad.com/"
-"0001833078","Arena","Jeremy Sagi","Arena Capital Advisors, LLC- CA","","https://www.arenaca.com/"
-"0001916757","ASR","Patrick Klijnsmit","ASR Vermogensbeheer N.V.","","https://www.asr.nl/"
-"0001832439","Atmos","Bruno Levacov","Atmos Capital Gestao De Recursos Ltda","","https://www.atmoscapital.com.br/"
-"0001777813","Atreides","Gavin Baker","Atreides Management, LP","","https://atreidesmgmt.com/"
-"0000778963","Augustine","Jeffrey Bernardo","Augustine Asset Management Inc","","https://augustineasset.com/"
-"0001948899","Avala","Divya Nettimi","Avala Global LP","","https://www.avalaglobal.com/"
-"0001632341","Belvedere","Thomas Hutchinson","Belvedere Trading LLC","","https://www.belvederetrading.com/"
-"0001133742","Berkshire Capital","Malcolm Fobes III","Berkshire Capital Holdings Inc","","http://www.berkshirefunds.com/"
-"0002053305","BIT","Jan Beckers","BIT Capital GmbH","","https://bit.capital/"
-"0001764725","Blue Grotto","Benjamin Gordon","Blue Grotto Capital, LLC","","https://www.bluegrottocapital.com/"
-"0001801547","Blue Whale","Stephen Yiu","Blue Whale Capital LLP","","https://bluewhale.co.uk/"
-"0002010854","BOCHK","Shen Hua","BOCHK Asset Management Ltd","","https://www.bochkam.com/"
-"0001547349","Broad Peak","Syed Hyder Ahmad","Broad Peak Investment Advisers PTE Ltd","","https://bpfm.com.au/"
-"0001966297","Burr","Sean Burr","Burr Financial Services, LLC","","https://www.burrfinancial.com/"
-"0001536261","Capricorn","Ion Yadigaroglu","Capricorn Investment Group LLC","","https://www.capricornllc.com/"
-"0001697591","CAS","Clifford Sosin","CAS Investment Partners, LLC","","https://www.casinvestmentpartners.com/"
-"0001835751","CastleKnight","Aaron Weitman","CastleKnight Management LP","","https://castleknight.com/"
-"0001388551","Caxton","Bruce Kovner","Caxton Corp","","https://www.brucekovner.com/"
-"0002051323","Caxton Associates","Andrew Law","Caxton Associates LP","","https://www.caxton.com/"
-"0001745907","CloudAlpha","Nancy Yang","CloudAlpha Capital Management Limited/Hong Kong","","https://cloudalphacap.com/"
-"0001632813","CMT","Scott Casto & Jan-Dirk Lüders","CMT Capital Markets Trading GmbH","","https://www.capitalmarketstrading.com/"
-"0001135730","Coatue","Philippe Laffont","Coatue Management, L.L.C.","","https://www.coatue.com/"
-"0001260786","Consolidated Press","Lawrence Myers","Consolidated Press International Holdings Ltd","",""
-"0002054801","Contrarius","Stephen Mildenhall","Contrarius Group Holdings Ltd","","https://www.contrarius.com/"
-"0001910417","Corton","David Jarvis","Corton Capital Inc.","","https://www.cortoncapital.ca/"
-"0001789082","Crake","Richard Walker","Crake Asset Management LLP","","https://crakeam.com/"
-"0001483234","CRCM","Chun Ding","CRCM LP","","https://www.crcm.com/"
-"0001445893","CTC","Daniel Feuser","CTC LLC","","https://www.chicagotrading.com/"
-"0001825611","Cypress Point","Jimmy Kull","Cypress Point Wealth Management, LLC","","https://www.cypresspointwealth.com/"
-"0000800177","Danske Bank","Carsten Egeriis","Danske Bank A/S","","https://danskebank.com/"
-"0001609098","Darsana","Anand Desai","Darsana Capital Partners LP","",""
-"0001009207","DE Shaw","David Shaw","D. E. Shaw & Co., Inc.","","https://www.deshaw.com/"
-"0001860487","Deuterium","Osman Ozsan","Deuterium Capital Management, LLC","","https://www.deuterium.us/"
-"0001456670","DNB","Torkild Varran","DNB Asset Management AS","","https://www.dnbam.com/"
-"0001535839","Donor Advised","Julie Sunwoo","Donor Advised Charitable Giving, Inc.","","https://www.dafgiving360.org/"
-"0001808029","Drummond","Lindsay Taylor","Drummond Knight Asset Management Pty Ltd","","https://www.dkam.com/"
-"0001536411","Duquesne","Stanley Druckenmiller","Duquesne Family Office LLC","","https://www.duquesnefamily.com/"
-"0001015083","Emerald","Kenneth Mertz II","Emerald Advisers, LLC","","https://www.teamemerald.com/"
-"0001352895","Emerald Mutual","Scott Rehr","Emerald Mutual Fund Advisers Trust","","https://www.emeraldmutualfunds.com/"
-"0001910874","Eschler","Theron de Ris","Eschler Asset Management LLP","","https://eschlerasset.com/"
-"0001660531","FengHe","Kwek Hyen Yong","FengHe Fund Management Pte. Ltd.","","https://www.fenghegroup.com/"
-"0001701717","First Beijing","Thomas Wong","First Beijing Investment Ltd","","https://www.firstbeijing.com/"
-"0001861705","Flight Deck","Jay Kahn","Flight Deck Capital, LP","","https://flightdeckcap.com/"
-"0000315066","FMR","Abigail Johnson","FMR LLC","","https://www.fidelity.com/"
-"0001718251","Fortress","Joe Grabar","Fortress Private Ledger, LLC","","https://www.fortressfinancialpartners.com/"
-"0001897652","FourSixThree","Scott Balkan","FourSixThree Capital LP","","https://463cap.com/"
-"0000003520","Fred Alger","Fred Alger","Fred Alger Management, LLC","","https://www.alger.com/"
-"0002118292","Galaxy Digital","Michael Novogratz","Galaxy Digital Capital Management GP LLC","","https://www.galaxy.com/"
-"0001570284","Gator","Derek Pilecki","Gator Capital Management, LLC","","https://gatorcapital.com/"
-"0001963404","Gavilan","Louis Chang","Gavilan Investment Partners LLC","","https://www.gavilanpartners.com/"
-"0001056581","Gendell Jeffrey","Gendell Jeffrey","Jeffrey L. Gendell","0000948904",""
-"0001700362","General Equity","Andrew Bellas","General Equity Holdings LP","","https://www.geholdings.com/"
-"0002043130","Generali Poland","Kazimierz Fedak","Generali Investments Towarzystwo Funduszy Inwestycyjnych","","https://www.generali-investments.pl/"
-"0001740316","Gifford Fong","Steven Fong","Gifford Fong Associates","","https://www.gfong.net/"
-"0001872787","Goldstream","Ziqi Gao","Goldstream Capital Management Ltd","",""
-"0002018973","Goodlander","John Labanowski","Goodlander Investment Management, LLC","","https://www.goodlanderim.com/"
-"0001869164","Gordian","Mark Voumard","Gordian Capital Singapore Private Ltd","","https://www.gordiancapital.com/"
-"0001715783","Grace & Mercy","Sumi Kim","Grace And Mercy Foundation, Inc.","","https://www.graceandmercy.org/"
-"0001986124","Grand Alliance","Jonathan Malveaux","Grand Alliance Asset Management Ltd","","https://www.gaamhk.com/"
-"0001840735","Greenoaks","Neil Mehta","Greenoaks Capital Partners LLC","","https://greenoakscap.com/"
-"0001845565","Greenstone","Gregory Tusher","Greenstone Partners & Co., LLC","",""
-"0001439805","Greenwich","Michael Freeburg","Greenwich Wealth Management LLC","","https://www.greenwichwealth.com/"
-"0002017993","Hancock Prospecting","Garry Korte","Hancock Prospecting Pty Ltd","","https://www.hancockprospecting.com.au/"
-"0001082621","Harvard","Narv Narvekar","Harvard Management Co Inc","","https://www.hmc.harvard.edu/"
-"0002036346","Headwater","Robert Kantor","Headwater Capital Co Ltd","","https://headwatercapital.com/"
-"0001839497","Helikon","David Grazzini","Helikon Investments Limited","","https://www.helikoninvestments.com/"
-"0001995612","Helix","Jonathan Heller","Helix Partners Management LP","","https://www.helixpartners.com/"
-"0001512022","Herald","Katie Potts","Herald Investment Management Ltd","","https://www.heralduk.com/"
-"0001823823","Hiddenite","Ryan Packard","Hiddenite Capital Partners LP","","https://www.hiddenitecap.com/"
-"0001817652","Himension","Jay Chen","Himension Capital (Singapore) Pte. Ltd.","","https://himension.com/"
-"0001619844","Hyperion","Mark Arnold","Hyperion Asset Management Limited","","https://www.hyperion.com.au/"
-"0001779789","IEQ","Alan Zafran & Eric Harrison","IEQ Capital, LLC","","https://ieqcapital.com/"
-"0001452861","IMC","Sunny Khiani","IMC-Chicago, LLC","","https://www.imc.com/"
-"0001533954","Institute for Wealth","Matt Medeiros","Institute for Wealth Management, LLC.","","https://www.instituteforwealth.com/"
-"0001834438","JAT","John Thaler","JAT Capital Management, L.P.","","https://jatcapital.com/"
-"0001525234","Jericho","Josh Resnick","Jericho Capital Asset Management L.P.","","https://www.jerichocap.com/"
-"0001113000","Kensico","Michael Lowenstein","Kensico Capital Management Corp","","https://www.kensicocapital.com/"
-"0001584686","Kentucky Retirement","Joe Gilbert","Kentucky Retirement Systems Insurance Trust Fund","","https://www.kyret.ky.gov/"
-"0001926253","Keystone","Ken Tonkinson","Keystone Investors Pte Ltd","","https://keystone-investors.com/"
-"0001474069","Keywise","Fang Zheng","Keywise Capital Management (Hk) Ltd","","https://keywisecapital.com/"
-"0001911448","Kinetic","Christopher Golden","Kinetic Partners Management, LP","","https://www.kineticpartners.com/"
-"0001399770","Kohlberg","Joseph Bae & Scott Nuttall","Kohlberg Kravis Roberts & Co. L.P.","","https://www.kkr.com/"
-"0001713390","Kontiki","Gregard Heje","Kontiki Capital Management (Cayman) Ltd","","https://kontikicap.com/"
-"0001599814","Kopernik","David Iben","Kopernik Global Investors, LLC","","https://www.kopernikglobal.com/"
-"0001659815","Kora","Nitin Saigal","Kora Management LP","","https://koracap.com/"
-"0001710207","Lattice","Allan Dadgar","Lattice Capital Management, LLC","","https://www.latticecm.com/"
-"0001569049","Light Street","Glen Kacher","Light Street Capital Management, LLC","","https://www.lightstreet.com/"
-"0001732768","Lingotto","Enrico Vellano","Lingotto Investment Management LLP","","https://www.lingotto.com/"
-"0001869470","Long Walk","James Zimmerman","Long Walk Healthcare Management, LP","","https://longwalkmgmt.com/"
-"0000312348","Loomis","Kevin Charleston","Loomis, Sayles & Co., L.P.","","https://www.loomissayles.com/"
-"0001512173","Maplelane","Leon Shaulov","Maplelane Capital, LLC","","https://www.maplecapital.com/"
-"0000860176","Mark Asset","Mark Morris","Mark Asset Management Corp","","https://www.markasset.com/"
-"0001731134","Maytech","Nels Wangensteen & Ingrid Yin","Maytech Global Investments, LLC","","https://www.maytechglobal.com/"
-"0001708759","Maytus","Tor Minesuk","Maytus Capital Management, LLC","","https://maytuscapital.com/"
-"0001302842","Merk","Axel Merk","Merk Investments LLC","","https://www.merkinvestments.com/"
-"0001864835","Metavasi","Peter Treadway","Metavasi Capital LP","","https://www.metavasi.com/"
-"0002015822","MGB","Michael Bailey","MGB Wealth Management, LLC","","https://www.mgbwealth.com/"
-"0001520309","Mizuho","Yoshiro Hamamoto","Mizuho Securities Co. Ltd.","","https://www.mizuhosecurities.co.jp/"
-"0001803149","Mizuho Cayman","Gregory Doig","Mizuho Markets Cayman LP","","https://www.mizuhogroup.com/"
-"0001281084","Monarch Alternative","Christopher Santana","Monarch Alternative Capital LP","","https://www.monarchlp.com/"
-"0001016150","Morgens Waterfall","Edwin Morgens","Morgens Waterfall Vintiadis & Co Inc","","https://morgenswaterfall.com/"
-"0002011874","Napean","Azim Premji Hasham","Napean Trading & Investment Co (Singapore) PTE Ltd","",""
-"0001845012","NewGen","David Dattels","NewGen Asset Management Limited","","https://newgenfunds.com/"
-"0001908450","Newlands","Jan Koum","Newlands Management Operations LLC","","https://www.thenewlands.com/"
-"0001055964","Nomura","Shoichi Ohkoshi","Nomura Asset Management Co Ltd","","https://global.nomura-am.co.jp/"
-"0001745796","North Growth","Erica Lau","North Growth Management Ltd.","","https://www.northgrowth.com/"
-"0001103887","Nwi","Hari Hariharan","Nwi Management LP","",""
-"0001780565","O'Keefe","Peter O'Keefe","O'Keefe Stevens Advisory, Inc.","","https://okeefestevens.com/"
-"0001861159","O'Neil","Steven Birch","O'Neil Global Advisors, Inc.","","https://www.oneilglobaladvisors.com/"
-"0001661762","Oak Grove","Mark Visnic","Oak Grove Capital LLC","","http://oakgrovecapital.net/"
-"0001764525","OCO","Samuel Francis Martini","OCO Capital Partners, L.P.","",""
-"0001891904","Octahedron","Ram Parameswaran","Octahedron Capital Management, LP","","https://octahedroncapital.com/"
-"0001619083","Ogborne","Mike Ogborne","Ogborne Capital Management, LLC","","https://www.ogbornecap.com/"
-"0001712892","Once","Emanuele Perazzi","Once Capital Management, LLC","","https://www.oncecapital.com/"
-"0002032200","Orion Resource","Oskar Lewnowski","Orion Resource Partners (USA) LP","0001714217","https://www.orionrp.com/"
-"0001713269","Oxbow","Wesley Wong","Oxbow Capital Management (HK) Ltd","","https://www.oxbcap.com/"
-"0002035224","Panview","Ryan Thall","Panview Capital Ltd","",""
-"0001911136","Paradigm","Matt Huang","Paradigm Operations LP","","https://www.paradigm.xyz/"
-"0002056764","Parvin","Steve Smith","Parvin Asset Management, LLC","","https://parvinam.com/"
-"0001050464","Peconic","William Harnisch","Peconic Partners LLC","","https://www.peconicpartners.com/"
-"0002011563","Pennant Select","Brent Guerisoli","Pennant Select, LLC","",""
-"0002011811","Pinegrove","Brian Laibow","Pinegrove Capital Partners LLC","","https://pinegrove.vc/"
-"0001804352","Ping","Ping Jiang","Ping Capital Management, Inc.","","https://pingfinancial.com/"
-"0002055875","PKO","Paweł Michalik","PKO BP BANKOWY Universal Pension Society JSC","","https://www.pkopte.pl/"
-"0001603466","Point72","Steven Cohen","Point72 Asset Management, L.P.","","https://point72.com/"
-"0001837309","Polar Capital","Iain Evans","Polar Capital Holdings Plc","","https://www.polarcapital.co.uk/"
-"0001973324","Polymer","Angus Wai","Polymer Capital Management (US) LLC","","https://polymercapital.com/"
-"0001350290","Portolan","George McCabe","Portolan Capital Management, LLC","","https://portolan.com/"
-"0001448793","Prime","Liu Yijun","Prime Capital Management Company Limited","","https://primecapitalgphk.com/"
-"0001842526","Proem","Greg Pearson","Proem Advisors LLC","","https://www.proemasset.com/"
-"0002087977","Pureheart","Zhao Danyang","Pureheart Capital Pte Ltd.","","http://www.pureheartcapital.com/"
-"0001929662","Quantum Private","Jim Perkins","Quantum Private Wealth, LLC ","","https://www.quantumprivatewealth.com/"
-"0002055400","Ranmore","Sean Peche","Ranmore Fund Management Ltd","","https://www.ranmore.com/"
-"0001566887","Ratan","Nehal Chopra","Ratan Capital Management LP","",""
-"0001316622","Redwood","Jonathan Kolatch","Redwood Capital Management, LLC","","https://www.redwoodcap.com/"
-"0001037389","Renaissance","Jim Simons","Renaissance Technologies LLC","","https://www.rentec.com/"
-"0001836733","Ribbit","Meyer Malka","Ribbit Management Company, LLC","","https://www.ribbitcap.com/"
-"0002053064","Rovida","Lacey Manz","Rovida Investment Management Ltd","",""
-"0001666664","RPg","Matthew Vera","RPG Investment Advisory, LLC","","https://www.rpgadvisory.com/"
-"0001766596","RV","Robert Vinall","RV Capital AG","","https://www.rv-capital.com/"
-"0001846544","RWQ","Robert William Quinlan","RWQ Financial Management Services, Inc.","","https://www.qcapitalsolutions.com/"
-"0002036461","S-Bank","Teri Heilala","S-Bank Fund Management Ltd","","https://www.s-pankki.fi/"
-"0001857024","Schusterman","Stacy Schusterman","Schusterman Interests, LLC","","https://www.schusterman.org/"
-"0002011556","Scientech","Le Duan","Scientech Research LLC","","https://www.scientechresearch.io/"
-"0001690295","SDH","Ron Sloy","Sloy Dahl & Holst, LLC","","https://sdh-inc.com/"
-"0001607512","Segra","Adam Rodman","Segra Capital Management, LLC","","https://segracapital.com/"
-"0001565432","Selkirk","Stewart Strawbridge","Selkirk Management LLC","","https://selkirkpartners.com/"
-"0001537530","Sequoia","Jeffrey Wang","SCGE Management, L.P.","","https://www.sequoiacap.com/scge/"
-"0001622346","Shanda","Tianqiao Chen","Shanda Asset Management Holdings Ltd","","https://www.shanda.com/"
-"0001301050","Shannon River","Spencer Waxman","Shannon River Partners LP","","http://www.shannonpartners.com/"
-"0001818890","Sharp","Ivan Guetta","Sharp Capital Gestora de Recursos Ltda.","","https://sharpcapital.com.br/"
-"0001738728","Silvant","Marc Schneidau","Silvant Capital Management LLC","","https://www.silvantcapital.com/"
-"0002043964","Skerryvore","Doug Stewart","Skerryvore Asset Management Ltd","","https://www.skerryvoream.com/"
-"0001559706","Slate Path","David Greenspan","Slate Path Capital LP","","https://www.slatepathcapital.com/"
-"0001967706","Sparta 24","Alon Gonen","Sparta 24 Ltd.","",""
-"0001543170","Spruce House","James Lindstrom","Spruce House Investment Management LLC","","https://www.sprucehousecapital.com/"
-"0002097595","Steadtrust","Thomas Kowalczyk","Steadtrust LLC","",""
-"0001844008","Steadview","Ravi Mehta","Steadview Capital Management LLC","","https://www.steadview.com/"
-"0001840750","Stenham","Kevin Arenson","Stenham Asset Management Ltd","","https://www.stenhamassetmanagement.com/"
-"0001965239","STF","Jonathan Molchan","STF Management LP","","https://www.sheltoncap.com/"
-"0001592413","Strategy","Hamilton Helmer & John Rutherford","Strategy Capital, LP","","https://strategycapital.com/"
-"0001389234","Symmetry Peak","Quint Slattery","Symmetry Peak Management LLC","","https://symmetrypeak.com/"
-"0001905669","Synergy","Palash Islam","Synergy Financial Group, LTD","","https://www.synergyfg.com/"
-"0002026352","Talaria","Jamie Mead","Talaria Asset Management Pty Ltd","","https://talariacapital.com.au/"
-"0002041062","Talos","Franklin Keller","Talos Eurisko Asset Management LP","","https://www.talosfunds.com/"
-"0002054965","TFI Allianz Polska","Robert Hoerberg","Towarzystwo Funduszy Inwestycyjnych Allianz Polska S.A.","","https://www.allianz.pl/"
-"0001688511","ThornTree","Mark Moore","Thorntree Capital Partners, LP","","https://www.thorntreecap.com/"
-"0001765681","Thrive","Joshua Kushner","Thrive Capital Management, LLC","","https://www.thrivecap.com/"
-"0001167483","Tiger Global","Chase Coleman","Tiger Global Management, LLC","","https://www.tigerglobal.com/"
-"0001666786","Traynor","Keith Traynor","Traynor Capital Management, Inc.","","https://traynorcapitalmanagement.com/"
-"0001555623","Trivest","Xue Lan","Trivest Advisors Ltd","","https://www.trivest-advisors.com/"
-"0001807902","Trybe","Jasjit Rekhi","Trybe Capital Management LP","",""
-"0000861177","UBS AM","Aleksandar Ivanovic","UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC","","https://www.ubs.com/"
-"0001697814","UG","Aaron Huang","UG Investment Advisers Ltd.","","https://www.ugfunds.com/"
-"0001963565","Value Aligned","Ben Hoskin","Value Aligned Managers, LP","",""
-"0000869178","VanEck","Jan Van Eck","Van Eck Associates Corp","","https://www.vaneck.com/"
-"0002013462","Vennlight","Igor Gitelman","Vennlight Capital, LP","",""
-"0001849753","Voyager","Grant Wonders","Voyager Global Management LP","",""
-"0001388391","Walleye","Will England","Walleye Trading LLC","","https://www.walleyecapital.com/"
-"0001968434","Wealth Preservation","Gene Rice","Wealth Preservation Advisors, LLC","","https://www.wpafinancial.com/"
-"0001861125","Westwood","Bryan Casey","Westwood Wealth Management","","https://www.wwmgmt.co/"
-"0001387322","Whale Rock","Alex Sacerdote","Whale Rock Capital Management LLC","","https://www.whalerock.com/"
-"0001607278","Whetstone","David Atterbury","Whetstone Capital Advisors, LLC","","https://whetstone-capital.com/"
-"0001780365","WT","Tongshu Wang","WT Asset Management Ltd","","https://www.wt-cap.com/"
+CIK,Fund,Manager,Denomination,CIKs,URL,Fund_zh,Manager_zh,Description,Description_zh,Popularity
+1421669,3G,Jorge Paulo Lehman,3G Capital Partners LP,,https://www.3g-capital.com/,,,,,0
+1540358,a16z,Ben Horowitz,"a16z Capital Management, L.L.C.",,https://a16z.com/,,,,,0
+2029917,ADAPT,Clément Mary-Dauphin,ADAPT Investment Managers SA,,https://www.adapt-im.ch/,,,,,0
+1512073,Aft Forsyth,Larry Aft,"Aft, Forsyth & Company, Inc.",,https://aftforsyth.com/,,,,,0
+2047606,AG2R,Fabrice Heyriès,AG2R La Mondiale Gestion d'actifs,,https://www.ag2rlamondiale.fr/,,,,,0
+1933952,AI-Squared,Darren Kimura,AI-Squared Management Ltd,,https://aisquared.ai/,,,,,0
+1230239,Alkeon,Panayotis Sparaggis,Alkeon Capital Management LLC,,https://www.alkeon.com/,,,,,0
+2076121,Amanah,Karim Al-Mansour,Amanah Holdings Trust,,https://amanahcapital.uk/,,,,,0
+1807559,Amitell,Irene Tedja,Amitell Capital Pte Ltd,,https://www.amitellcapital.com/,,,,,0
+1822480,Anabranch,Alexander Shapiro & Daniel Wolf,"Anabranch Capital Management, LP",,https://www.anabranchcap.com/,,,,,0
+1753384,Analog,Val Zlatev,Analog Century Management LP,,https://www.analogcm.com/,,,,,0
+2007642,Anchorage,Yale Baron & Thibault Gournay,"Anchorage Capital Advisors, L.P.",,https://anchoragecapital.com/,,,,,0
+1426749,Ancient Art,Quincy Lee,"Ancient Art, L.P.",,https://ancient.co/,,,,,0
+1805591,Andar,Wen Han Li,Andar Capital Management HK Ltd,,,,,,,0
+1835730,Ardmore Road,Chris Connor,Ardmore Road Asset Management,,https://www.ardmoreroad.com/,,,,,0
+1833078,Arena,Jeremy Sagi,"Arena Capital Advisors, LLC- CA",,https://www.arenaca.com/,,,,,0
+1916757,ASR,Patrick Klijnsmit,ASR Vermogensbeheer N.V.,,https://www.asr.nl/,,,,,0
+1832439,Atmos,Bruno Levacov,Atmos Capital Gestao De Recursos Ltda,,https://www.atmoscapital.com.br/,,,,,0
+1777813,Atreides,Gavin Baker,"Atreides Management, LP",,https://atreidesmgmt.com/,,,,,0
+778963,Augustine,Jeffrey Bernardo,Augustine Asset Management Inc,,https://augustineasset.com/,,,,,0
+1948899,Avala,Divya Nettimi,Avala Global LP,,https://www.avalaglobal.com/,,,,,0
+1632341,Belvedere,Thomas Hutchinson,Belvedere Trading LLC,,https://www.belvederetrading.com/,,,,,0
+1133742,Berkshire Capital,Malcolm Fobes III,Berkshire Capital Holdings Inc,,http://www.berkshirefunds.com/,,,,,0
+2053305,BIT,Jan Beckers,BIT Capital GmbH,,https://bit.capital/,,,,,0
+1764725,Blue Grotto,Benjamin Gordon,"Blue Grotto Capital, LLC",,https://www.bluegrottocapital.com/,,,,,0
+1801547,Blue Whale,Stephen Yiu,Blue Whale Capital LLP,,https://bluewhale.co.uk/,,,,,0
+2010854,BOCHK,Shen Hua,BOCHK Asset Management Ltd,,https://www.bochkam.com/,,,,,0
+1547349,Broad Peak,Syed Hyder Ahmad,Broad Peak Investment Advisers PTE Ltd,,https://bpfm.com.au/,,,,,0
+1966297,Burr,Sean Burr,"Burr Financial Services, LLC",,https://www.burrfinancial.com/,,,,,0
+1536261,Capricorn,Ion Yadigaroglu,Capricorn Investment Group LLC,,https://www.capricornllc.com/,,,,,0
+1697591,CAS,Clifford Sosin,"CAS Investment Partners, LLC",,https://www.casinvestmentpartners.com/,,,,,0
+1835751,CastleKnight,Aaron Weitman,CastleKnight Management LP,,https://castleknight.com/,,,,,0
+1388551,Caxton,Bruce Kovner,Caxton Corp,,https://www.brucekovner.com/,,,,,0
+2051323,Caxton Associates,Andrew Law,Caxton Associates LP,,https://www.caxton.com/,,,,,0
+1745907,CloudAlpha,Nancy Yang,CloudAlpha Capital Management Limited/Hong Kong,,https://cloudalphacap.com/,,,,,0
+1632813,CMT,Scott Casto & Jan-Dirk Lüders,CMT Capital Markets Trading GmbH,,https://www.capitalmarketstrading.com/,,,,,0
+1135730,Coatue,Philippe Laffont,"Coatue Management, L.L.C.",,https://www.coatue.com/,,,,,0
+1260786,Consolidated Press,Lawrence Myers,Consolidated Press International Holdings Ltd,,,,,,,0
+2054801,Contrarius,Stephen Mildenhall,Contrarius Group Holdings Ltd,,https://www.contrarius.com/,,,,,0
+1910417,Corton,David Jarvis,Corton Capital Inc.,,https://www.cortoncapital.ca/,,,,,0
+1789082,Crake,Richard Walker,Crake Asset Management LLP,,https://crakeam.com/,,,,,0
+1483234,CRCM,Chun Ding,CRCM LP,,https://www.crcm.com/,,,,,0
+1445893,CTC,Daniel Feuser,CTC LLC,,https://www.chicagotrading.com/,,,,,0
+1825611,Cypress Point,Jimmy Kull,"Cypress Point Wealth Management, LLC",,https://www.cypresspointwealth.com/,,,,,0
+800177,Danske Bank,Carsten Egeriis,Danske Bank A/S,,https://danskebank.com/,,,,,0
+1609098,Darsana,Anand Desai,Darsana Capital Partners LP,,,,,,,0
+1009207,DE Shaw,David Shaw,"D. E. Shaw & Co., Inc.",,https://www.deshaw.com/,,,,,0
+1860487,Deuterium,Osman Ozsan,"Deuterium Capital Management, LLC",,https://www.deuterium.us/,,,,,0
+1456670,DNB,Torkild Varran,DNB Asset Management AS,,https://www.dnbam.com/,,,,,0
+1535839,Donor Advised,Julie Sunwoo,"Donor Advised Charitable Giving, Inc.",,https://www.dafgiving360.org/,,,,,0
+1808029,Drummond,Lindsay Taylor,Drummond Knight Asset Management Pty Ltd,,https://www.dkam.com/,,,,,0
+1536411,Duquesne,Stanley Druckenmiller,Duquesne Family Office LLC,,https://www.duquesnefamily.com/,,,,,0
+1015083,Emerald,Kenneth Mertz II,"Emerald Advisers, LLC",,https://www.teamemerald.com/,,,,,0
+1352895,Emerald Mutual,Scott Rehr,Emerald Mutual Fund Advisers Trust,,https://www.emeraldmutualfunds.com/,,,,,0
+1910874,Eschler,Theron de Ris,Eschler Asset Management LLP,,https://eschlerasset.com/,,,,,0
+1660531,FengHe,Kwek Hyen Yong,FengHe Fund Management Pte. Ltd.,,https://www.fenghegroup.com/,,,,,0
+1701717,First Beijing,Thomas Wong,First Beijing Investment Ltd,,https://www.firstbeijing.com/,,,,,0
+1861705,Flight Deck,Jay Kahn,"Flight Deck Capital, LP",,https://flightdeckcap.com/,,,,,0
+315066,FMR,Abigail Johnson,FMR LLC,,https://www.fidelity.com/,,,,,0
+1718251,Fortress,Joe Grabar,"Fortress Private Ledger, LLC",,https://www.fortressfinancialpartners.com/,,,,,0
+1897652,FourSixThree,Scott Balkan,FourSixThree Capital LP,,https://463cap.com/,,,,,0
+3520,Fred Alger,Fred Alger,"Fred Alger Management, LLC",,https://www.alger.com/,,,,,0
+2118292,Galaxy Digital,Michael Novogratz,Galaxy Digital Capital Management GP LLC,,https://www.galaxy.com/,,,,,0
+1570284,Gator,Derek Pilecki,"Gator Capital Management, LLC",,https://gatorcapital.com/,,,,,0
+1963404,Gavilan,Louis Chang,Gavilan Investment Partners LLC,,https://www.gavilanpartners.com/,,,,,0
+1056581,Gendell Jeffrey,Gendell Jeffrey,Jeffrey L. Gendell,948904.0,,,,,,0
+1700362,General Equity,Andrew Bellas,General Equity Holdings LP,,https://www.geholdings.com/,,,,,0
+2043130,Generali Poland,Kazimierz Fedak,Generali Investments Towarzystwo Funduszy Inwestycyjnych,,https://www.generali-investments.pl/,,,,,0
+1740316,Gifford Fong,Steven Fong,Gifford Fong Associates,,https://www.gfong.net/,,,,,0
+1872787,Goldstream,Ziqi Gao,Goldstream Capital Management Ltd,,,,,,,0
+2018973,Goodlander,John Labanowski,"Goodlander Investment Management, LLC",,https://www.goodlanderim.com/,,,,,0
+1869164,Gordian,Mark Voumard,Gordian Capital Singapore Private Ltd,,https://www.gordiancapital.com/,,,,,0
+1715783,Grace & Mercy,Sumi Kim,"Grace And Mercy Foundation, Inc.",,https://www.graceandmercy.org/,,,,,0
+1986124,Grand Alliance,Jonathan Malveaux,Grand Alliance Asset Management Ltd,,https://www.gaamhk.com/,,,,,0
+1840735,Greenoaks,Neil Mehta,Greenoaks Capital Partners LLC,,https://greenoakscap.com/,,,,,0
+1845565,Greenstone,Gregory Tusher,"Greenstone Partners & Co., LLC",,,,,,,0
+1439805,Greenwich,Michael Freeburg,Greenwich Wealth Management LLC,,https://www.greenwichwealth.com/,,,,,0
+2017993,Hancock Prospecting,Garry Korte,Hancock Prospecting Pty Ltd,,https://www.hancockprospecting.com.au/,,,,,0
+1082621,Harvard,Narv Narvekar,Harvard Management Co Inc,,https://www.hmc.harvard.edu/,,,,,0
+2036346,Headwater,Robert Kantor,Headwater Capital Co Ltd,,https://headwatercapital.com/,,,,,0
+1839497,Helikon,David Grazzini,Helikon Investments Limited,,https://www.helikoninvestments.com/,,,,,0
+1995612,Helix,Jonathan Heller,Helix Partners Management LP,,https://www.helixpartners.com/,,,,,0
+1512022,Herald,Katie Potts,Herald Investment Management Ltd,,https://www.heralduk.com/,,,,,0
+1823823,Hiddenite,Ryan Packard,Hiddenite Capital Partners LP,,https://www.hiddenitecap.com/,,,,,0
+1817652,Himension,Jay Chen,Himension Capital (Singapore) Pte. Ltd.,,https://himension.com/,,,,,0
+1619844,Hyperion,Mark Arnold,Hyperion Asset Management Limited,,https://www.hyperion.com.au/,,,,,0
+1779789,IEQ,Alan Zafran & Eric Harrison,"IEQ Capital, LLC",,https://ieqcapital.com/,,,,,0
+1452861,IMC,Sunny Khiani,"IMC-Chicago, LLC",,https://www.imc.com/,,,,,0
+1533954,Institute for Wealth,Matt Medeiros,"Institute for Wealth Management, LLC.",,https://www.instituteforwealth.com/,,,,,0
+1834438,JAT,John Thaler,"JAT Capital Management, L.P.",,https://jatcapital.com/,,,,,0
+1525234,Jericho,Josh Resnick,Jericho Capital Asset Management L.P.,,https://www.jerichocap.com/,,,,,0
+1113000,Kensico,Michael Lowenstein,Kensico Capital Management Corp,,https://www.kensicocapital.com/,,,,,0
+1584686,Kentucky Retirement,Joe Gilbert,Kentucky Retirement Systems Insurance Trust Fund,,https://www.kyret.ky.gov/,,,,,0
+1926253,Keystone,Ken Tonkinson,Keystone Investors Pte Ltd,,https://keystone-investors.com/,,,,,0
+1474069,Keywise,Fang Zheng,Keywise Capital Management (Hk) Ltd,,https://keywisecapital.com/,,,,,0
+1911448,Kinetic,Christopher Golden,"Kinetic Partners Management, LP",,https://www.kineticpartners.com/,,,,,0
+1399770,Kohlberg,Joseph Bae & Scott Nuttall,Kohlberg Kravis Roberts & Co. L.P.,,https://www.kkr.com/,,,,,0
+1713390,Kontiki,Gregard Heje,Kontiki Capital Management (Cayman) Ltd,,https://kontikicap.com/,,,,,0
+1599814,Kopernik,David Iben,"Kopernik Global Investors, LLC",,https://www.kopernikglobal.com/,,,,,0
+1659815,Kora,Nitin Saigal,Kora Management LP,,https://koracap.com/,,,,,0
+1710207,Lattice,Allan Dadgar,"Lattice Capital Management, LLC",,https://www.latticecm.com/,,,,,0
+1569049,Light Street,Glen Kacher,"Light Street Capital Management, LLC",,https://www.lightstreet.com/,,,,,0
+1732768,Lingotto,Enrico Vellano,Lingotto Investment Management LLP,,https://www.lingotto.com/,,,,,0
+1869470,Long Walk,James Zimmerman,"Long Walk Healthcare Management, LP",,https://longwalkmgmt.com/,,,,,0
+312348,Loomis,Kevin Charleston,"Loomis, Sayles & Co., L.P.",,https://www.loomissayles.com/,,,,,0
+1512173,Maplelane,Leon Shaulov,"Maplelane Capital, LLC",,https://www.maplecapital.com/,,,,,0
+860176,Mark Asset,Mark Morris,Mark Asset Management Corp,,https://www.markasset.com/,,,,,0
+1731134,Maytech,Nels Wangensteen & Ingrid Yin,"Maytech Global Investments, LLC",,https://www.maytechglobal.com/,,,,,0
+1708759,Maytus,Tor Minesuk,"Maytus Capital Management, LLC",,https://maytuscapital.com/,,,,,0
+1302842,Merk,Axel Merk,Merk Investments LLC,,https://www.merkinvestments.com/,,,,,0
+1864835,Metavasi,Peter Treadway,Metavasi Capital LP,,https://www.metavasi.com/,,,,,0
+2015822,MGB,Michael Bailey,"MGB Wealth Management, LLC",,https://www.mgbwealth.com/,,,,,0
+1520309,Mizuho,Yoshiro Hamamoto,Mizuho Securities Co. Ltd.,,https://www.mizuhosecurities.co.jp/,,,,,0
+1803149,Mizuho Cayman,Gregory Doig,Mizuho Markets Cayman LP,,https://www.mizuhogroup.com/,,,,,0
+1281084,Monarch Alternative,Christopher Santana,Monarch Alternative Capital LP,,https://www.monarchlp.com/,,,,,0
+1016150,Morgens Waterfall,Edwin Morgens,Morgens Waterfall Vintiadis & Co Inc,,https://morgenswaterfall.com/,,,,,0
+2011874,Napean,Azim Premji Hasham,Napean Trading & Investment Co (Singapore) PTE Ltd,,,,,,,0
+1845012,NewGen,David Dattels,NewGen Asset Management Limited,,https://newgenfunds.com/,,,,,0
+1908450,Newlands,Jan Koum,Newlands Management Operations LLC,,https://www.thenewlands.com/,,,,,0
+1055964,Nomura,Shoichi Ohkoshi,Nomura Asset Management Co Ltd,,https://global.nomura-am.co.jp/,,,,,0
+1745796,North Growth,Erica Lau,North Growth Management Ltd.,,https://www.northgrowth.com/,,,,,0
+1103887,Nwi,Hari Hariharan,Nwi Management LP,,,,,,,0
+1780565,O'Keefe,Peter O'Keefe,"O'Keefe Stevens Advisory, Inc.",,https://okeefestevens.com/,,,,,0
+1861159,O'Neil,Steven Birch,"O'Neil Global Advisors, Inc.",,https://www.oneilglobaladvisors.com/,,,,,0
+1661762,Oak Grove,Mark Visnic,Oak Grove Capital LLC,,http://oakgrovecapital.net/,,,,,0
+1764525,OCO,Samuel Francis Martini,"OCO Capital Partners, L.P.",,,,,,,0
+1891904,Octahedron,Ram Parameswaran,"Octahedron Capital Management, LP",,https://octahedroncapital.com/,,,,,0
+1619083,Ogborne,Mike Ogborne,"Ogborne Capital Management, LLC",,https://www.ogbornecap.com/,,,,,0
+1712892,Once,Emanuele Perazzi,"Once Capital Management, LLC",,https://www.oncecapital.com/,,,,,0
+2032200,Orion Resource,Oskar Lewnowski,Orion Resource Partners (USA) LP,1714217.0,https://www.orionrp.com/,,,,,0
+1713269,Oxbow,Wesley Wong,Oxbow Capital Management (HK) Ltd,,https://www.oxbcap.com/,,,,,0
+2035224,Panview,Ryan Thall,Panview Capital Ltd,,,,,,,0
+1911136,Paradigm,Matt Huang,Paradigm Operations LP,,https://www.paradigm.xyz/,,,,,0
+2056764,Parvin,Steve Smith,"Parvin Asset Management, LLC",,https://parvinam.com/,,,,,0
+1050464,Peconic,William Harnisch,Peconic Partners LLC,,https://www.peconicpartners.com/,,,,,0
+2011563,Pennant Select,Brent Guerisoli,"Pennant Select, LLC",,,,,,,0
+2011811,Pinegrove,Brian Laibow,Pinegrove Capital Partners LLC,,https://pinegrove.vc/,,,,,0
+1804352,Ping,Ping Jiang,"Ping Capital Management, Inc.",,https://pingfinancial.com/,,,,,0
+2055875,PKO,Paweł Michalik,PKO BP BANKOWY Universal Pension Society JSC,,https://www.pkopte.pl/,,,,,0
+1603466,Point72,Steven Cohen,"Point72 Asset Management, L.P.",,https://point72.com/,,,,,0
+1837309,Polar Capital,Iain Evans,Polar Capital Holdings Plc,,https://www.polarcapital.co.uk/,,,,,0
+1973324,Polymer,Angus Wai,Polymer Capital Management (US) LLC,,https://polymercapital.com/,,,,,0
+1350290,Portolan,George McCabe,"Portolan Capital Management, LLC",,https://portolan.com/,,,,,0
+1448793,Prime,Liu Yijun,Prime Capital Management Company Limited,,https://primecapitalgphk.com/,,,,,0
+1842526,Proem,Greg Pearson,Proem Advisors LLC,,https://www.proemasset.com/,,,,,0
+2087977,Pureheart,Zhao Danyang,Pureheart Capital Pte Ltd.,,http://www.pureheartcapital.com/,,,,,0
+1929662,Quantum Private,Jim Perkins,"Quantum Private Wealth, LLC ",,https://www.quantumprivatewealth.com/,,,,,0
+2055400,Ranmore,Sean Peche,Ranmore Fund Management Ltd,,https://www.ranmore.com/,,,,,0
+1566887,Ratan,Nehal Chopra,Ratan Capital Management LP,,,,,,,0
+1316622,Redwood,Jonathan Kolatch,"Redwood Capital Management, LLC",,https://www.redwoodcap.com/,,,,,0
+1037389,Renaissance,Jim Simons,Renaissance Technologies LLC,,https://www.rentec.com/,,,,,0
+1836733,Ribbit,Meyer Malka,"Ribbit Management Company, LLC",,https://www.ribbitcap.com/,,,,,0
+2053064,Rovida,Lacey Manz,Rovida Investment Management Ltd,,,,,,,0
+1666664,RPg,Matthew Vera,"RPG Investment Advisory, LLC",,https://www.rpgadvisory.com/,,,,,0
+1766596,RV,Robert Vinall,RV Capital AG,,https://www.rv-capital.com/,,,,,0
+1846544,RWQ,Robert William Quinlan,"RWQ Financial Management Services, Inc.",,https://www.qcapitalsolutions.com/,,,,,0
+2036461,S-Bank,Teri Heilala,S-Bank Fund Management Ltd,,https://www.s-pankki.fi/,,,,,0
+1857024,Schusterman,Stacy Schusterman,"Schusterman Interests, LLC",,https://www.schusterman.org/,,,,,0
+2011556,Scientech,Le Duan,Scientech Research LLC,,https://www.scientechresearch.io/,,,,,0
+1690295,SDH,Ron Sloy,"Sloy Dahl & Holst, LLC",,https://sdh-inc.com/,,,,,0
+1607512,Segra,Adam Rodman,"Segra Capital Management, LLC",,https://segracapital.com/,,,,,0
+1565432,Selkirk,Stewart Strawbridge,Selkirk Management LLC,,https://selkirkpartners.com/,,,,,0
+1537530,Sequoia,Jeffrey Wang,"SCGE Management, L.P.",,https://www.sequoiacap.com/scge/,,,,,0
+1622346,Shanda,Tianqiao Chen,Shanda Asset Management Holdings Ltd,,https://www.shanda.com/,,,,,0
+1301050,Shannon River,Spencer Waxman,Shannon River Partners LP,,http://www.shannonpartners.com/,,,,,0
+1818890,Sharp,Ivan Guetta,Sharp Capital Gestora de Recursos Ltda.,,https://sharpcapital.com.br/,,,,,0
+1738728,Silvant,Marc Schneidau,Silvant Capital Management LLC,,https://www.silvantcapital.com/,,,,,0
+2043964,Skerryvore,Doug Stewart,Skerryvore Asset Management Ltd,,https://www.skerryvoream.com/,,,,,0
+1559706,Slate Path,David Greenspan,Slate Path Capital LP,,https://www.slatepathcapital.com/,,,,,0
+1967706,Sparta 24,Alon Gonen,Sparta 24 Ltd.,,,,,,,0
+1543170,Spruce House,James Lindstrom,Spruce House Investment Management LLC,,https://www.sprucehousecapital.com/,,,,,0
+2097595,Steadtrust,Thomas Kowalczyk,Steadtrust LLC,,,,,,,0
+1844008,Steadview,Ravi Mehta,Steadview Capital Management LLC,,https://www.steadview.com/,,,,,0
+1840750,Stenham,Kevin Arenson,Stenham Asset Management Ltd,,https://www.stenhamassetmanagement.com/,,,,,0
+1965239,STF,Jonathan Molchan,STF Management LP,,https://www.sheltoncap.com/,,,,,0
+1592413,Strategy,Hamilton Helmer & John Rutherford,"Strategy Capital, LP",,https://strategycapital.com/,,,,,0
+1389234,Symmetry Peak,Quint Slattery,Symmetry Peak Management LLC,,https://symmetrypeak.com/,,,,,0
+1905669,Synergy,Palash Islam,"Synergy Financial Group, LTD",,https://www.synergyfg.com/,,,,,0
+2026352,Talaria,Jamie Mead,Talaria Asset Management Pty Ltd,,https://talariacapital.com.au/,,,,,0
+2041062,Talos,Franklin Keller,Talos Eurisko Asset Management LP,,https://www.talosfunds.com/,,,,,0
+2054965,TFI Allianz Polska,Robert Hoerberg,Towarzystwo Funduszy Inwestycyjnych Allianz Polska S.A.,,https://www.allianz.pl/,,,,,0
+1688511,ThornTree,Mark Moore,"Thorntree Capital Partners, LP",,https://www.thorntreecap.com/,,,,,0
+1765681,Thrive,Joshua Kushner,"Thrive Capital Management, LLC",,https://www.thrivecap.com/,,,,,0
+1167483,Tiger Global,Chase Coleman,"Tiger Global Management, LLC",,https://www.tigerglobal.com/,,,,,0
+1666786,Traynor,Keith Traynor,"Traynor Capital Management, Inc.",,https://traynorcapitalmanagement.com/,,,,,0
+1555623,Trivest,Xue Lan,Trivest Advisors Ltd,,https://www.trivest-advisors.com/,,,,,0
+1807902,Trybe,Jasjit Rekhi,Trybe Capital Management LP,,,,,,,0
+861177,UBS AM,Aleksandar Ivanovic,"UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",,https://www.ubs.com/,,,,,0
+1697814,UG,Aaron Huang,UG Investment Advisers Ltd.,,https://www.ugfunds.com/,,,,,0
+1963565,Value Aligned,Ben Hoskin,"Value Aligned Managers, LP",,,,,,,0
+869178,VanEck,Jan Van Eck,Van Eck Associates Corp,,https://www.vaneck.com/,,,,,0
+2013462,Vennlight,Igor Gitelman,"Vennlight Capital, LP",,,,,,,0
+1849753,Voyager,Grant Wonders,Voyager Global Management LP,,,,,,,0
+1388391,Walleye,Will England,Walleye Trading LLC,,https://www.walleyecapital.com/,,,,,0
+1968434,Wealth Preservation,Gene Rice,"Wealth Preservation Advisors, LLC",,https://www.wpafinancial.com/,,,,,0
+1861125,Westwood,Bryan Casey,Westwood Wealth Management,,https://www.wwmgmt.co/,,,,,0
+1387322,Whale Rock,Alex Sacerdote,Whale Rock Capital Management LLC,,https://www.whalerock.com/,,,,,0
+1607278,Whetstone,David Atterbury,"Whetstone Capital Advisors, LLC",,https://whetstone-capital.com/,,,,,0
+1780365,WT,Tongshu Wang,WT Asset Management Ltd,,https://www.wt-cap.com/,,,,,0
+1067983,Berkshire Hathaway,Warren Buffett,Berkshire Hathaway Inc,,https://www.berkshirehathaway.com/,巴菲特,沃伦·巴菲特,Berkshire Hathaway Inc. Chairman. Focuses on value investing and long-term moats.,伯克希尔·哈撒韦 (Berkshire Hathaway) 董事长。坚持价值投资、长期持有竞争优势（护城河）强且管理优秀的优质公司。,100
+1423053,Citadel Advisors,Ken Griffin,Citadel Advisors LLC,,https://www.citadel.com/,肯·格里芬,肯·格里芬,Citadel Advisors LLC founder. Global multi-strategy hedge fund giant.,Citadel 创始人。全球顶尖的多策略对冲基金巨头，以高杠杆、多空对冲及卓越的风险管控体系著称。,95
+1350694,Bridgewater Associates,Ray Dalio,"Bridgewater Associates, LP",,https://www.bridgewater.com/,达里奥,瑞·达里奥,Bridgewater Associates founder. Known for 'All Weather' strategy.,桥水基金 (Bridgewater) 创始人。全球最大对冲基金，开创了“全天候策略” (All Weather Strategy)。,90
+1649339,Scion Asset Management,Michael Burry,"Scion Asset Management, LLC",,https://www.scionasset.com/,贝瑞,迈克尔·贝瑞,Scion Asset Management founder. 'The Big Short' protagonist.,Scion Asset Management 创始人。《大空头》原型，专注于寻找被市场忽视的微型股。,85
+1562087,Thiel Macro,Peter Thiel,Thiel Macro LLC,,https://www.linkedin.com/company/thiel-macro,,,,,0
+1697748,ARK Invest,Cathie Wood,ARK Investment Management LLC,,https://www.ark-invest.com/,,,,,0
+1336528,Pershing Square,Bill Ackman,"Pershing Square Capital Management, L.P.",,https://pershingsquareholdings.com/,,,,,0
+1218710,Balyasny Asset Management,Dmitry Balyasny,Balyasny Asset Management L.P.,,https://www.bamfunds.com/,,,,,0
+1352851,Magnetar Capital,Alec Litowitz,Magnetar Financial LLC,,https://www.magnetar.com/,,,,,0
+1167557,AQR Capital Management,Cliff Asness,"AQR Capital Management, LLC",,https://www.aqr.com/,,,,,0
+1656456,Appaloosa,David Tepper,Appaloosa LP,,https://www.appaloosawm.com/,,,,,0
+1273087,Millennium Management,Israel Englander,Millennium Management LLC,,https://www.mlp.com/,,,,,0
+1020066,Sands Capital Management,Frank Sands,"Sands Capital Management, LLC",,https://www.sandscapital.com/,,,,,0
+1056823,Horizon Kinetics,Murray Stahl,Horizon Kinetics Asset Management LLC,,https://horizonkinetics.com/,,,,,0
+1332784,Silver Point Capital,Edward Mule,"Silver Point Capital, L.P.",,https://www.silverpointcapital.com/,,,,,0
+1358706,Abrams Capital Management,David Abrams,"Abrams Capital Management, L.P.",,https://www.abramscapital.com/,,,,,0
+1418814,ValueAct Capital,Jeffrey Ubben,"ValueAct Holdings, L.P.",1418812.0,https://valueact.com/,,,,,0
+1791786,Elliott Investment,Paul Singer,Elliott Investment Management L.P.,,https://www.elliottmgmt.com/,,,,,0
+1647251,The Children's Investment,Chris Hohn,TCI Fund Management Limited,,https://ciff.org/,,,,,0
+1040273,Third Point,Daniel Loeb,Third Point LLC,,https://www.thirdpoint.com/,,,,,0
+1510281,Saba Capital,Boaz Weinstein,"Saba Capital Management, L.P.",,https://www.sabacapital.com/,,,,,0
+1871926,Nuveen,William Huffman,"Nuveen, LLC",,https://www.nuveen.com/,,,,,0
+1029160,Soros Fund Management,George Soros,Soros Fund Management LLC,,https://sorosfundmgmt.com/,,,,,0
+1166559,Gates Foundation Trust,Bill Gates,Gates Foundation Trust,,https://www.gatesfoundation.org/about/financials/foundation-trust,,,,,0
+921669,Icahn Enterprises,Carl Icahn,Carl C. Icahn,,https://www.ielp.com/,,,,,0
+1697868,Valley Forge Capital Management,Dev Kantesaria,"Valley Forge Capital Management, LP",,https://www.valleyforgecapital.com/,,,,,0
+1508097,Sanders Capital,Lewis Sanders,"Sanders Capital, LLC",,https://www.sanderscapital.com/,,,,,0
+1541617,Altimeter Capital Management,Brad Gerstner,"Altimeter Capital Management, LP",,https://www.altimeter.com/,,,,,0
+1103804,Viking Global Investors,Andreas Halvorsen,Viking Global Investors LP,,https://vikingglobal.com/,,,,,0
+923093,Tudor Investment Corporation,Paul Tudor Jones,Tudor Investment Corporation,,https://www.tudorfunds.com/,,,,,0
+1036325,Davis Advisors,Chris Davis,Davis Selected Advisers,,https://davisfunds.com/,,,,,0
+1513193,Arbiter Partners,Paul Isaac,Arbiter Partners Capital Management LLC,,https://arbiterpartners.net/,,,,,0
+1105838,Robotti Value Investors,Robert Robotti,Robotti Robert,,https://www.robotti.com/,,,,,0
+820027,Ameriprise Financial,Jim Cracchiolo,"Ameriprise Financial, Inc.",,https://www.ameriprise.com/,,,,,0
+1709323,Himalaya Capital Management,Li Lu,Himalaya Capital Management LLC,,https://www.himcap.com/,李录,李录,Himalaya Capital founder. Munger's disciple.,喜马拉雅资本创始人。查理·芒格的门生，专注于亚洲和美国市场的长期价值挖掘。,90
+1389403,Chou Associates,Francis Chou,Chou Associates Management Inc.,,https://www.choufunds.com/,,,,,0
+1453072,Alyeska Investment Group,Anand Parekh,"Alyeska Investment Group, L.P.",,https://alyeskagroup.com/,,,,,0
+850529,Fisher Asset Management,Ken Fisher,"Fisher Asset Management, LLC",,https://www.fisherinvestments.com/,,,,,0
+1016287,Matrix Asset Advisors,David Katz,Matrix Asset Advisors Inc/NY,,https://matrixassetadvisors.com/,,,,,0
+934639,Maverick Capital,Lee Ainslie,"Maverick Capital, Ltd.",,https://www.maverickcap.com/,,,,,0
+1510387,Gotham Funds,Joel Greenblatt,"Gotham Asset Management, LLC",,https://www.gothamfunds.com/,,,,,0
+1698218,Ritholtz Wealth Management,Barry Ritholtz,Ritholtz Wealth Management,,https://www.ritholtzwealth.com/,,,,,0
+1214822,Steadfast Capital Management,Robert Pitts,Steadfast Capital Management LP,,https://www.steadfast.com/,,,,,0
+1035674,Paulson & Co.,John Paulson,Paulson & Co. Inc.,,https://paulsonco.com/,,,,,0
+1352662,GMO,Jeremy Grantham,"Grantham, Mayo, Van Otterloo & Co. LLC",,https://www.gmo.com/,,,,,0
+1318757,Marshall Wace,Paul Marshall & Ian Wace,"Marshall Wace, LLP",,https://www.mwam.com/,,,,,0
+1104329,Crosslink Capital,Seymour Kaufman,"Crosslink Capital, Inc.",,https://www.crosslinkcapital.com/,,,,,0
+807249,GAMCO Investors,Mario Gabelli,GAMCO Asset Management Inc.,,https://gabelli.com/,,,,,0
+1478735,Two Sigma,John Overdeck,"Two Sigma Investments, LP",,https://www.twosigma.com/,,,,,0
+1027796,Pzena Investment Management,Richard Pzena,Pzena Investment Management LLC,,https://www.pzena.com/,,,,,0
+1671657,Dorsey Asset Management,Pat Dorsey,"Dorsey Asset Management, LLC",,https://dorseyasset.com/,,,,,0
+813917,Harris Associates,Bill Nygren,Harris Associates L P,,https://harrisassoc.com/,,,,,0
+1535392,Mangrove Partners,Nathaniel August,"Mangrove Partners IM, LLC",,https://mangrovepartners.com/,,,,,0
+1061165,Lone Pine Capital,Steve Mandel,Lone Pine Capital LLC,,https://www.lonepinecapital.com/,,,,,0
+1081198,Cypress Funds,Michael Wang,Cypress Funds LLC,,https://www.cypress-funds.com/,,,,,0
+1595430,Nextech Invest,Alexis Borisy,"Nextech Invest, Ltd.",,https://www.nextechinvest.com/,,,,,0
+1953107,Enavate Sciences,James Boylan,"Enavate Sciences GP, LLC",,https://enavatesciences.com/,,,,,0
+1727492,Caligan Partners,David Johnson,Caligan Partners LP,,https://www.caliganpartners.com/,,,,,0
+2018299,Boxer Capital Management,Aaron Davis,"Boxer Capital Management, LLC",,https://www.boxercap.com/,,,,,0
+1423442,O'Shaughnessy Asset Management,James O'Shaughnessy,"O'Shaughnessy Asset Management, LLC",,https://www.osam.com/,,,,,0
+1214717,Geode Capital Management,David Lane,"Geode Capital Management, LLC",,https://www.geodecapital.com/,,,,,0
+1900110,DGS Capital Management,Ashish Sharma,"DGS Capital Management, LLC",,https://www.dgs.capital/,,,,,0
+1115418,RhumbLine Advisers,Denise D'Entremont,RhumbLine Advisers,,https://www.rhumbline.com/,,,,,0
+1600064,Tidal Financial Group,Gavin Filmore,Tidal Investments LLC,,https://tidalfinancialgroup.com/,,,,,0
+1357955,ProShares Advisors,Michael Sapir,ProShare Advisors LLC,,https://www.proshares.com/,,,,,0
+1280043,Summitry,Colin Higgins,Summitry LLC,,https://summitry.com/,,,,,0
+1739439,Rockefeller Capital Management,Gregory Fleming,Rockefeller Capital Management L.P.,,https://www.rockco.com/,,,,,0
+1061768,Baupost Group,Seth Klarman,Baupost Group LLC/MA,,https://www.baupost.com/,,,,,0
+814375,Donald Smith & Co,Donald Smith,"Donald Smith & Co., Inc.",,https://www.donaldsmithandco.com/,,,,,0
+1423296,Zuckerman Investment Group,Sherwin Zuckerman,"Zuckerman Investment Group, LLC",,https://zuckermaninvestmentgroup.com/,,,,,0
+1731029,Greencape,Jonathan Koh,Greencape Capital Pty Ltd,,https://www.greencapecapital.com.au/,,,,,0
+1314273,Avalon Global Asset Management,Nancy Kukacka,Avalon Global Asset Management LLC,,https://avalon-global.com/,,,,,0
+1589689,MYDA Advisors,Jason Lieber,MYDA Advisors LLC,,https://mydacapital.com/,,,,,0
+1756558,XN,Gaurav Kapadia,XN LP,,https://www.xnlp.com/,,,,,0
+1599383,The Windacre Partnership,Snehal Amin,The Windacre Partnership LLC,,http://www.windacre.com/,,,,,0
+859804,Wedgewood Partners,David Rolfe,Wedgewood Partners Inc,,https://wedgewoodpartners.com/,,,,,0
+1509842,PointState Capital,Zach Schreiber,Pointstate Capital LP,,https://www.bcaresearch.com/marketing/zach-schreiber,,,,,0
+1510669,Contour Asset Management,David Meyer,Contour Asset Management LLC,,https://www.contourasset.com/,,,,,0
+1665241,Schonfeld Strategic Advisors,Steven Schonfeld,Schonfeld Strategic Advisors LLC,,https://www.schonfeld.com/,,,,,0
+1086762,Cobalt Capital Management,Wayne Cooperman,"Cobalt Capital Management, L.P.",,http://www.cobaltcapital.com/,,,,,0
+1410830,Matrix Capital Management,David Goel,"Matrix Capital Management Company, LP",,https://www.linkedin.com/company/matrix-capital-management-llc,,,,,0
+1484043,Ithaka Group,William Johnson,Ithaka Group LLC,,https://www.ithakagroup.com/,,,,,0
+1642575,Squarepoint,Maxime Fortin,Squarepoint Ops LLC,,https://www.squarepoint-capital.com/,,,,,0
+1910179,GHE LLC,Robert Hunt,"GHE, LLC",,https://merc-invest.com/,,,,,0
+1274173,Janus Henderson Investors,Ali Dibadj,Janus Henderson Group PLC,,https://www.janushenderson.com/,,,,,0
+354204,Dimensional Fund Advisors,David Booth,Dimensional Fund Advisors LP,,https://www.dimensional.com/,,,,,0
+1846677,Nellore Capital Management,Sakya Duvvuru,Nellore Capital Management LLC,,https://www.linkedin.com/company/nellore-capital-management/,,,,,0
+1698060,Gobi Capital,Thomas Tsao,Gobi Capital LLC,,https://gobi.vc/,,,,,0
+1389507,Discovery Capital Management,Robert Citrone,"Discovery Capital Management, LLC",,https://discoverycapitalmanagement.com/,,,,,0
+1034524,Polen Capital,Stan Moss,"Polen Capital Management, LLC",,https://www.polencapital.com/,,,,,0
+1802882,Harrell Investment Partners,Brian Harrell,"Harrell Investment Partners, LLC",,https://harrellpartners.com/,,,,,0
+1954551,Warther Private Wealth,Robert Warther,"Warther Private Wealth, LLC",,http://www.wartherprivatewealth.com/,,,,,0
+1574886,Teewinot Capital Advisers,Michael Moriarty,"Teewinot Capital Advisers, L.L.C.",,https://teewinotfunds.com/,,,,,0
+1104883,Sirios Capital Management,John Brennan,Sirios Capital Management LP,,https://www.sirioslp.com/,,,,,0
+1077428,Texas Capital Bancshares,Rob Holmes,Texas Capital Bancshares Inc/TX,,https://texascapitalbank.com/,,,,,0
+1838211,Venator Capital Management,Brandon Osten,Venator Capital Management Ltd.,,https://venator.ca/,,,,,0
+1393825,Hudson Bay Capital Management,Sander Gerber,Hudson Bay Capital Management LP,,https://www.hudsonbaycapital.com/,,,,,0
+1326389,Polar Asset Management,Bill Peckford,Polar Asset Management Partners Inc.,,https://polaramp.com/,,,,,0
+1859388,Franchise,Oleksandr Alieksieienko,Franchise Capital Ltd,,https://franchise-capital.com/,,,,,0
+1224962,Perceptive Advisors,Joseph Edelman,Perceptive Advisors LLC,,https://www.perceptivelife.com/,,,,,0
+938592,"Moody, Lynn, Lieberson & Walker",Michael Moody & Martin Lynn,"Moody Lynn & Lieberson, LLC",,https://moodylynn.com/,,,,,0
+1423686,Cadian Capital Management,Eric Bannasch,"Cadian Capital Management, LP",,https://www.cadiancap.com/,,,,,0
+1747057,D1 Capital Partners,Daniel Sundheim,D1 Capital Partners L.P.,,https://portal.d1capital.com/,,,,,0
+1729254,FrontRow Advisors,Michael Reid Vogel,Front Row Advisors LLC,,https://www.frontrowadvisors.com/,,,,,0
+1165408,Adage Capital Partners,Robert Atchison & Phillip Gross,"Adage Capital Management, L.P.",,https://www.adagecapital.com/,,,,,0
+2066260,Bosman Wealth Management,Mike Bosman,"Bosman Wealth Management, LLC",,https://bosmanwealth.com/,,,,,0
+1353312,Tremblant Capital,Brett Barakett,Tremblant Capital Group,,https://www.tremblantcapital.com/,,,,,0
+1547007,Dorsal Capital Management,Ryan Frick,"Dorsal Capital Management, LP",,https://www.linkedin.com/company/dorsal-capital-management-llc/,,,,,0
+1346824,RA Capital Management,Peter Kolchinsky,"RA Capital Management, L.P.",,https://www.racap.com/,,,,,0
+1631014,AltaRock Partners,Mark Massey,Altarock Partners LP,,https://www.altarockpartners.com/,,,,,0
+2011221,Darden Wealth Group,Andrea Darden,Darden Wealth Group Inc,,https://dardenwealth.com/,,,,,0
+1443689,Senator Investment Group,Alex Klabin,Senator Investment Group LP,,https://clients.senatorlp.com/,,,,,0
+1740839,Gables Capital Management,Eric McKenna,Gables Capital Management Inc.,,https://www.gablescapital.com/,,,,,0
+872098,Chapin Davis,Michael Hildreth,"Chapin Davis, Inc.",,https://chapindavis.com/,,,,,0
+1834874,Audent Global Asset Management,Paul Feinstein,"Audent Global Asset Management, LLC",,https://www.audentgam.com/,,,,,0
+945631,Eagle Capital Management,Boykin Curry,Eagle Capital Management LLC,,https://www.eaglecap.com/,,,,,0
+1479465,Farley Capital,Stephen Farley,Farley Capital L.P.,,https://www.farleycap.com/,,,,,0
+1912187,RDST Capital,Brian David Pirie,RDST Capital LLC,,https://readestreet.com/,,,,,0
+1633445,Trexquant,Tyger Park,Trexquant Investment LP,,https://trexquant.com/,,,,,0
+1510668,Crystal Rock Capital Management,Jay Freedman,Crystal Rock Capital Management,,http://www.crystalrockcap.com/,,,,,0
+2042565,WIM Investment Management,Guy McGlashan,WIM Investment Management Ltd,,https://www.w1m.com/,,,,,0
+1584801,YCG Investments,Brian Yacktman,"YCG, LLC",,https://ycginvestments.com/,,,,,0
+906304,Royce Investment Partners,Chuck Royce,Royce & Associates LP,,https://www.royceinvest.com/,,,,,0
+1421097,Samlyn Capital,Robert Pohly,"Samlyn Capital, LLC",,https://www.samlyncapital.com/,,,,,0
+1591744,Shellback Capital,Jon Hilsabeck,"Shellback Capital, LP",,http://www.shellback.com/,,,,,0
+1388838,Dalton Investments,Jamie Rosenwald,"Dalton Investments, Inc.",,https://www.daltoninvestments.com/,,,,,0
+1410833,Night Owl Capital,John Kim,"Night Owl Capital Management, LLC",,https://nightowlcapital.com/,,,,,0
+1276470,Corsair Capital Management,Jay Petschek,"Corsair Capital Management, L.P.",,https://www.corsaircap.com/,,,,,0
+1572748,Marathon Trading,Peter James Viscardo,Marathon Trading Investment Management LLC,,https://www.linkedin.com/company/marathon-trading/,,,,,0
+1362255,Goodnow Investment Group,Peter Gavey,"Goodnow Investment Group, LLC",,https://www.goodnow.com/,,,,,0
+1614704,RiverPark Capital,Mordecai Alan Schaja,Riverpark Capital Management LLC,,https://riverparkvc.com/,,,,,0
+1323645,Capital Fund Management,Marc Potters & Jacques Saulière,Capital Fund Management,,https://www.cfm.com/,,,,,0
+1352272,Miura,Francisco Alfaro,"Miura Global Management, LLC",,https://miura.partners/en/,,,,,0
+1878547,Carmel Capital Management,West Whittaker,Carmel Capital Management L.L.C.,,https://carmelcapital.com/,,,,,0
+1438848,GAM Investments,Albert Saporta,GAM Holding AG,,https://www.gam.com/,,,,,0
+1291318,Oversea-Chinese Banking Corp,Helen Wong,Oversea-Chinese Banking Corp Ltd,,https://www.ocbc.com/,,,,,0
+1055951,OrbiMed,Samuel Isaly,OrbiMed Advisors LLC,,https://www.orbimed.com/,,,,,0
+947996,Olstein Funds,Robert Olstein,"Olstein Capital Management, L.P.",,https://www.olsteinfunds.com/,,,,,0
+1750423,Henry James International Management,James O'Leary,Henry James International Management Inc.,,https://www.hj-intl.com/,,,,,0
+1422848,Capital Research Global Investors,Mike Gitlin,Capital Research Global Investors,,https://www.capitalgroup.com/,,,,,0
+1744347,Vident Advisory,Vince Birley,"Vident Advisory, LLC",,https://videntam.com/,,,,,0
+1659380,Sender Company & Partners,Adam Sender,"Sender Co & Partners, Inc.",,https://www.sendercompany.com/,,,,,0
+1901929,Trevian Wealth Management,Phil Swisher,Trevian Wealth Management LLC,,https://www.trevianwealth.com/,,,,,0
+1119032,Harvey Capital Management,Robert Harvey,Harvey Capital Management Inc,,https://harveycapital.com/,,,,,0
+1841015,Rutherford Investment Management,William Rutherford,WD Rutherford LLC,,https://rutherfordinvestment.com/,,,,,0
+1269950,Deltec Asset Management,Arthur Byrnes & John Gordon,Deltec Asset Management LLC,,https://www.deltec-ny.com/,,,,,0
+2040901,Financially Speaking,Phil Luccock,Financially Speaking Inc,,https://financiallyspeakinginc.com/,,,,,0
+844150,NatWest Group,Paul Thwaite,Natwest Group PLC,,https://www.natwestgroup.com/,,,,,0
+1728278,One Madison Group,Omar Asali,One Madison Group LLC,,https://www.onemadisongroup.com/,,,,,0
+1068837,Voya Investment Management,Matthew Toms,Voya Investment Management LLC,,https://investments.voya.com/,,,,,0
+1660773,Amansa Capital,Akash Prakash,Amansa Capital Pte. Ltd.,,https://www.amansacapital.com/,,,,,0
+2059321,PKO TFI,Rafał Madej,PKO Investment Management Joint-Stock Co,,https://www.pkotfi.pl/,,,,,0
+1548882,Eos Partners,Brian Young & Steven Friedman,"Eos Management, L.P.",,http://www.eospartners.com/,,,,,0
+1452689,Valiant Capital,Chris Hansen,"Valiant Capital Management, L.P.",,https://www.valiantcapital.com/,,,,,0
+1389875,Newbrook Capital Advisors,Robert Boucai,Newbrook Capital Advisors LP,,https://newbrookcapital.com/,,,,,0
+1387818,Barton Investment Management,Jay Barton Riley,Barton Investment Management,,https://bartonim.com/,,,,,0
+1847566,Absoluto Partners,José Zitelmann,Absoluto Partners Gestao de Recursos Ltda,,https://www.absolutopartners.com/,,,,,0
+2040353,Kera Capital,George Choe,"Kera Capital Partners, Inc.",,https://www.keracapital.com/,,,,,0
+1963355,Caitong Asset Management,Qicheng Zhang,"Caitong International Asset Management Co., Ltd",,https://www.ctzg.com/,,,,,0
+2078353,October Effect,Frank Tehel,October Effect Ltd,,https://www.financialplanning-vab.com/,,,,,0
+1088875,Baillie Gifford,Tim Campbell,Baillie Gifford & Co,,https://www.bailliegifford.com/,,,,,0
+2055557,Mountain Hill Investment Partners,Andy Kaiser,Mountain Hill Investment Partners Corp.,,https://mhipartners.com/,,,,,0
+1738723,West Branch,Ayaz Mahmud,West Branch Capital LLC,,https://www.westbranchcapital.com/,,,,,0
+1037353,Pathway Capital Management,Douglas Le Bon,"Pathway Capital Management, LP",,https://pathwaycapital.com/,,,,,0
+1323414,Pacific Heights,Michael Cuggino,Pacific Heights Asset Management LLC,,https://www.permanentportfoliofunds.com/,,,,,0
+1858789,Yousif Capital Management,Kevin Yousif,"Yousif Capital Management, LLC",,https://www.yousifcapital.com/,,,,,0
+1997464,Marex Group,Ian Lowitt,Marex Group plc,,https://www.marex.com/,,,,,0
+2054496,Eleva Capital,Eric Bendahan,Eleva Capital SAS,,https://www.elevacapital.com/,,,,,0
+1633603,All-Stars Investment,Richard Ji,All-Stars Investment Ltd,,https://www.allstarsinvestment.com/,,,,,0
+1666504,Fiduciary Wealth Partners,Preston McSwain,"Fiduciary Wealth Partners, LLC",,https://fwpwealth.com/,,,,,0
+2020280,Fiduciary Family Office,Kathleen Grace,"Fiduciary Family Office, LLC",,https://www.fiduciaryfo.com/,,,,,0
+2019841,Stone Ridge Asset Management,Ross Stevens,Stone Ridge Holdings Group LP,,https://www.stoneridgeam.com/,,,,,0
+1475365,Sumitomo Mitsui Trust Group,Toru Takakura,"Sumitomo Mitsui Trust Group, Inc.",,https://www.smtg.jp/english/,,,,,0
+1832521,Castellan Group,Barry Brauch,Castellan Group,,https://castellangroup.com/,,,,,0
+1005354,Virginia Retirement Systems,Trish Bishop,Virginia Retirement Systems Et Al,,https://www.varetire.org/,,,,,0
+1767686,Yarbrough Capital,Jon Yarbrough,"Yarbrough Capital, LLC",,https://www.yarbroughcap.com/,,,,,0
+2090468,Meadowbrook Wealth Management,Thomas Efthimiou,"Meadowbrook Wealth Management, LLC",,http://www.meadowbrookwealth.com/,,,,,0
+1815344,Hestia Capital Management,Kurt Wolf,"Hestia Capital Management, LLC",,https://www.hestiacapital.com/,,,,,0
+2080247,Pinpoint Asset Management,Wang Qiang,Pinpoint Asset Management (Singapore) Pte. Ltd.,,https://www.pinpointfund.com/,,,,,0
+2067954,QTR Family,Desaree Tatum,"QTR Family Wealth, LLC",,https://www.qtrfamily.com/,,,,,0
+1742647,Moerus Capital Management,Amit Wadhwaney,Moerus Capital Management LLC,,https://www.moeruscap.com/,,,,,0
+727117,Builder Investment Group,Allen Builder,Builder Investment Group Inc /ADV,,https://big-inc.com/,,,,,0
+1276918,Zevenbergen Capital Investments,Nancy Zevenbergen,Zevenbergen Capital Investments LLC,,https://www.zci.com/,,,,,0
+1714267,Thames Capital Management,Jay Genzer,Thames Capital Management LLC,,https://thamescapitalmanagement.com/,,,,,0
+1962838,Schear Investment Advisers,Neal Schear,"Schear Investment Advisers, LLC",,https://www.schearandschear.com/,,,,,0
+2025905,Generate Investment Management,Henry Tongue,Generate Investment Management Ltd,,https://www.generationim.com/,,,,,0
+1722053,CenterStar Asset Management,Michelin Sloneker,"CenterStar Asset Management, LLC",,https://centerstaram.com/,,,,,0
+2042502,Kiker Wealth Management,Paul Kiker,"Kiker Wealth Management, LLC",,https://kikerwealth.com/,,,,,0
+1919749,Carter Financial Group,Kevin Carter,"Carter Financial Group, INC.",,https://www.carterfinancialgroup.com/,,,,,0
+1290162,QVT Financial,Dan Gold,QVT Financial LP,,https://qvt.com/,,,,,0
+1970075,LBP AM,Emmanuelle Mourey,LBP AM SA,,https://www.lbpam.com/en,,,,,0
+1843294,WMP,Michael Ward,"Wealth Management Partners, LLC",,https://wmp.nl/,,,,,0
+1844250,Purus Wealth Management,Mark Larsen,"Purus Wealth Management, LLC",,https://www.puruswealthmanagement.com/,,,,,0
+2031590,Ripple Effect Asset Management,Ravi Bellur,Ripple Effect Asset Management LP,,https://rippleeffectasset.com/,,,,,0
+1619124,Cardano,Harold Naus,Cardano Risk Management B.V.,,https://www.cardano.nl/,,,,,0
+2056566,AGP Franklin,Charles David Crouch,"AGP Franklin, LLC",,https://www.aspengroveassetmanagement.com/,,,,,0
+1996454,QRG Capital Management,Brandon Thomas,"QRG Capital Management, Inc.",,https://www.envestnet.com/qrg/,,,,,0
+2046822,Sharpepoint,Brian Robinson,Sharpepoint LLC,,https://sharpepoint.com/,,,,,0
+1842665,Halter Ferguson Financial,Scott Ferguson,Halter Ferguson Financial Inc.,,https://www.hffinancial.com/,,,,,0
+2058426,Corient IA,Kurt MacAlpine,Corient IA LLC,,https://corient.com/,,,,,0
+2033334,North of South Capital,Matt Linsey,North of South Capital LLP,,https://www.northofsouth.com/,,,,,0
+1389958,PEAK6,Matt Hulsizer,PEAK6 LLC,,https://www.peak6.com/,,,,,0
+2029708,Avenir Technology,Li Lin,Avenir Tech Limited,,https://www.avenir-technology.com/,,,,,0
+1535096,Tree Line Advisors,Zaheer Abbas Sitabkhan,Tree Line Advisors (Hong Kong) Ltd.,,https://www.treelineim.com/,,,,,0
+1919332,ParaFi Capital,Ben Forman,ParaFi Capital LP,,https://parafi.com/,,,,,0
+1818044,AF Advisors,Jeff Adams,"AF Advisors, Inc.",,https://af-advisors.com/,,,,,0
+2009539,Rakuten Securities,Yuji Kusunoki,"Rakuten Securities, Inc.",,https://global.rakuten.com/,,,,,0
+1906719,Lynch Asset Management,Mark Lynch,"Lynch Asset Management, Inc.",,https://lynchassetmanagement.com/,,,,,0
+2053303,Peregrine Investment Management,Tom Antony,Peregrine Investment Management Inc,,https://peregrineinv.com/,,,,,0
+2058093,Infinitum Partners,John Yetimoglu,"Infinitum Asset Management, LLC",,https://infinitumpartners.com/,,,,,0
+2035232,BLKBRD Asset Management,Daniel Izzo,"BLKBRD Asset Management, LP",,https://www.blkbrdlp.com/,,,,,0
+1770120,JNE Partners,Jonathan Esfandi,JNE Partners LLP,,https://www.jnepartners.com/,,,,,0
+1129919,ProFunds,Michael Sapir,Profund Advisors LLC,,https://www.profunds.com/,,,,,0
+1680843,Nightview Capital,Arne Alsin,"Nightview Capital, LLC",,https://www.nightviewcapital.com/,,,,,0
+1985479,Linonia Partners,Philip Arthur Uhde,Linonia Partners Fund LP,,https://linonia.com/,,,,,0
+2054122,Longaeva Partners,Peter Goodwin,"Longaeva Partners, LP",,https://www.longaeva.com/,,,,,0
+1633799,Nishkama Capital,Ravee Mehta,"Nishkama Capital, LLC",,https://www.nishkama.com/,,,,,0
+1680964,SoMa Equity Partners,Gil Simon,SoMa Equity Partners LP,,https://www.somaequity.com/,,,,,0
+1904897,Styrax Capital,Soly Vahabzadeh,"Styrax Capital, LP",,https://www.linkedin.com/company/styrax-capital-lp,,,,,0
+2014039,Triata Capital,Sean Ho,Triata Capital Ltd,,https://www.triatacapital.com/,,,,,0
+2045724,Situational Awareness,Leopold Aschenbrenner,Situational Awareness LP,,https://situationalawarenesslp.com/,,,,,0
+2065849,Yukon Wealth Management,John Hanahan,"Yukon Wealth Management, Inc.",,https://www.yukoncm.com/,,,,,0
+2079812,Tripletail Wealth,Erik Bonnett,"Tripletail Wealth Management, LLC",,https://www.tripletailwealth.com/,,,,,0
+1755784,TenCore,Girish Bhakoo,"TenCore Partners, LP",,https://www.tencorepartners.com/,,,,,0
+53417,Jennison Associates,Jeffrey Becker,Jennison Associates LLC,,https://www.jennison.com/,,,,,0
+1569395,Mirae Asset Global Investments,Hyeon Joo Park,"Mirae Asset Global Investments Co., Ltd.",,https://investments.miraeasset.eu/,,,,,0
+1803054,NWK,Theo Rabe,"NWK Group, Inc.",,https://www.nwkgroup.com/,,,,,0
+1480751,Amova,Stefanie Drews,"Amova Asset Management Americas, Inc.",,https://www.amova-sec.com/,,,,,0
+1389544,Allen Operations,Herbert Allen III,Allen Operations LLC,,https://www.allenandcompany.net/,,,,,0
+1766791,GrandView,Bruce Smith,Grandview Asset Management LLC,,https://www.grandviewassetmanagement.com/,,,,,0
+1910456,Lynx1,Weston Nichols,Lynx1 Capital Management LP,,https://lynxcap.com/,,,,,0
+2049221,ABC Arbitrage,Dominique Ceolin,ABC Arbitrage SA,,https://www.abc-arbitrage.com/,,,,,0
+1644465,Glenmede,Elizabeth Eldridge,"Glenmede Investment Management, LP",,https://www.glenmedeim.com/,,,,,0
+2065606,Notable Capital,Glenn Solomon & Jeff Richards,"Notable Capital Management, L.L.C.",,https://www.notablecap.com/,,,,,0
+1316507,Calamos Investments,John Koudounis,Calamos Advisors LLC,,https://www.calamos.com/,,,,,0
+2077080,Midwest Trust,Bradley Bergman,Midwest Trust Co,,https://www.midwesttrust.com/,,,,,0
+918893,Rosenblum-Silverman-Sutton SF,Barbara Rosenblum,Rosenblum Silverman Sutton S F Inc /CA,,https://www.rssic.com/,,,,,0
+1799544,Hoey Investments,Fran Hoey,"Hoey Investments, Inc",,https://www.hoeyinvestments.com/,,,,,0
+919192,Amalgamated Bank,Priscilla Sims Brown,Amalgamated Bank,,https://www.amalgamatedbank.com/,,,,,0
+1274419,Banque CIC,Daniel Baal,Credit Industriel et Commercial,,https://www.cic.fr/,,,,,0
+812291,Mizuho USA,Jerry Rizzieri,Mizuho Securities USA LLC,,https://www.mizuhogroup.com/securities,,,,,0
+1847582,TMT General Partner,Qin Liu,TMT General Partner Ltd.,,https://www.5ycap.com/,,,,,0
+2077718,Sullivan Wood,James Arnold Sullivan,Sullivan Wood Capital Management,,https://www.sullivanwood.com/,,,,,0
+1729829,Qube Research & Technologies,Pierre-Yves Morlat,Qube Research & Technologies Ltd,,https://www.qube-rt.com/,,,,,0
+1172779,Dock Street,Daniel Ogden,Dock Street Asset Management Inc,,https://dockstreet.com/,,,,,0
+93751,State Street,State Street,State Street Corporation,,https://statestreet.com/,,,,,0
+1595888,Jane Street,Jane Street,"Jane Street Capital, LLC",,https://www.janestreet.com/,,,,,0
+2012383,BlackRock,BlackRock,"BlackRock, Inc.",,https://www.blackrock.com/,,,,,0
+1795097,Privium,Clayton Heijman,Privium Fund Management B.V.,,https://www.priviumfund.com/,,,,,0
