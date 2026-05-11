@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-  base: mode === "gh-pages" ? "/hedge-fund-tracker/" : "/",
+  base: mode === "gh-pages" ? "/WhaleHoldings/" : "/",
   define: {
     __GH_PAGES_MODE__: mode === "gh-pages",
   },
