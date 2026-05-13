@@ -112,5 +112,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:36.321834"
+  "updated_at": "2026-05-11T10:26:36.321834",
+  "description_zh": "迈克尔·伯里（Michael Burry）是电影《大空头》的原型，因在 2008 年金融危机前重仓做空次贷而名震全球。他是一名极端的逆向投资者，擅长在被市场彻底抛弃的“路边死尸”中寻找价值。伯里的风格是基于深度数据分析的“孤独猎手”，不惧怕对抗主流情绪，持仓变动频繁且极具预见性。",
+  "description_en": "Michael Burry, the real-life figure behind The Big Short, became famous for heavily shorting subprime mortgages before the 2008 financial crisis. He is an extreme contrarian investor who looks for value in assets the market has abandoned. Burry’s style is that of a data-driven lone hunter: willing to oppose consensus, frequently changing positions, and often making highly prescient calls.",
+  "style_zh": "深度价值 / 逆向投资 / 宏观对冲",
+  "style_en": "Deep value / Contrarian investing / Macro hedging"
 }

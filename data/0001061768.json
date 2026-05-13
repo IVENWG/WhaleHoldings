@@ -294,5 +294,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:14.544824"
+  "updated_at": "2026-05-11T10:26:14.544824",
+  "description_zh": "塞思·卡拉曼（Seth Klarman）领导的 Baupost 是价值投资领域的“守望者”。卡拉曼是经典著作《安全边际》的作者，极其重视风险控制和资本保全。他以逆向投资著称，擅长在不良债务、房地产及复杂的特殊情况中寻找被低估的资产。他宁愿持有大量现金等待机会，也不愿在没有安全边际时入场。",
+  "description_en": "Baupost Group, led by Seth Klarman, is a guardian of value investing. Klarman, author of Margin of Safety, places exceptional weight on risk control and capital preservation. He is known for contrarian investing and for finding undervalued assets in distressed debt, real estate, and complex special situations. He would rather hold substantial cash and wait than invest without a margin of safety.",
+  "style_zh": "深度价值 / 安全边际 / 逆向投资",
+  "style_en": "Deep value / Margin of safety / Contrarian investing"
 }

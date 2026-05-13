@@ -13528,5 +13528,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:18.357080"
+  "updated_at": "2026-05-11T10:26:18.357080",
+  "description_zh": "瑞·达利欧（Ray Dalio）创立的桥水基金是全球最大的对冲基金。桥水以其“全球宏观”策略和“系统化”思维闻名，核心理念包括“全天候策略”（All Weather）和“纯粹阿尔法”（Pure Alpha）。达利欧强调通过分散不相关的收益流来降低风险，并倡导“极度求真”和“极度透明”的公司文化。",
+  "description_en": "Bridgewater Associates, founded by Ray Dalio, is one of the world’s largest hedge funds. Bridgewater is known for its global macro strategy and systematic thinking, with core ideas including All Weather and Pure Alpha. Dalio emphasizes reducing risk through diversified, uncorrelated return streams and promotes a culture of radical truth and radical transparency.",
+  "style_zh": "全球宏观 / 风险平价 / 系统化量化",
+  "style_en": "Global macro / Risk parity / Systematic quant"
 }

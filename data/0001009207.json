@@ -42388,5 +42388,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:23.369149"
+  "updated_at": "2026-05-11T10:26:23.369149",
+  "description_zh": "大卫·肖（David Shaw）创立的 D.E. Shaw 是量化金融的先驱。它将计算机科学的严谨性与金融投资完美结合，利用超算和精密算法在全球范围内捕捉套利机会。公司更像一个顶尖的科学实验室（贝佐斯曾在此工作）。它在保持量化优势的同时，也拥有深厚的基本面研究能力，是“科学投资”的代名词。",
+  "description_en": "D.E. Shaw, founded by David Shaw, is a pioneer of quantitative finance. It combines computer-science rigor with investing, using supercomputing and sophisticated algorithms to capture arbitrage opportunities globally. The firm resembles an elite scientific laboratory and, while maintaining quantitative advantages, also has strong fundamental research capabilities.",
+  "style_zh": "量化套利 / 混合投资 / 技术驱动",
+  "style_en": "Quant arbitrage / Hybrid investing / Technology-driven"
 }

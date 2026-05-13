@@ -151,5 +151,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:31.372229"
+  "updated_at": "2026-05-11T10:26:31.372229",
+  "description_zh": "比尔·阿克曼（Bill Ackman）以其激进且高调的投资风格著称。他倾向于投资于具有强大品牌和稳定现金流的蓝筹公司，并通过公开施压管理层或推动战略重组来释放价值。阿克曼擅长利用衍生工具进行对冲（如在 2020 年疫情期间的信用对冲），是一个极具战术头脑的“积极主义”投资者。",
+  "description_en": "Bill Ackman is known for an activist and highly public investment style. He tends to invest in blue-chip companies with strong brands and stable cash flows, then pressures management or pushes strategic restructuring to unlock value. Ackman is also skilled at tactical hedging with derivatives, including his credit hedge during the 2020 pandemic shock.",
+  "style_zh": "积极主义 / 集中投资 / 战术对冲",
+  "style_en": "Activism / Concentrated investing / Tactical hedging"
 }

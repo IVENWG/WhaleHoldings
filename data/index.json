@@ -7,7 +7,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 274160086701.0,
-    "last_update": "2026-05-11T10:26:13.963650"
+    "last_update": "2026-05-11T10:26:13.963650",
+    "description_zh": "沃伦·巴菲特（Warren Buffett）领导的伯克希尔·哈撒韦是价值投资的殿堂。巴菲特师从格雷厄姆，强调“安全边际”和“护城河”，寻找具有持久竞争优势且估值合理的伟大企业。其投资风格极其稳健，偏好长期持有（通常以十年为单位），利用保险业务产生的低成本“浮存金”进行复利增长。他是全球投资者的精神导师，被誉为“奥马哈先知”。",
+    "description_en": "Berkshire Hathaway, led by Warren Buffett, is the temple of value investing. Buffett studied under Benjamin Graham and emphasizes margin of safety and durable moats, seeking great businesses with lasting competitive advantages at reasonable valuations. His investment style is highly disciplined, favors holding periods measured in decades, and compounds capital with low-cost insurance float. He is a spiritual mentor to investors worldwide and is known as the Oracle of Omaha.",
+    "style_zh": "价值投资 / 长期持有 / 护城河理论",
+    "style_en": "Value investing / Long-term holding / Moat theory"
   },
   {
     "name": "Baupost Group (Seth Klarman)",
@@ -17,7 +21,11 @@
     "filing_date": "2026-02-13",
     "report_period": "2025-12-31",
     "total_value": 5278590.0,
-    "last_update": "2026-05-11T10:26:14.545366"
+    "last_update": "2026-05-11T10:26:14.545366",
+    "description_zh": "塞思·卡拉曼（Seth Klarman）领导的 Baupost 是价值投资领域的“守望者”。卡拉曼是经典著作《安全边际》的作者，极其重视风险控制和资本保全。他以逆向投资著称，擅长在不良债务、房地产及复杂的特殊情况中寻找被低估的资产。他宁愿持有大量现金等待机会，也不愿在没有安全边际时入场。",
+    "description_en": "Baupost Group, led by Seth Klarman, is a guardian of value investing. Klarman, author of Margin of Safety, places exceptional weight on risk control and capital preservation. He is known for contrarian investing and for finding undervalued assets in distressed debt, real estate, and complex special situations. He would rather hold substantial cash and wait than invest without a margin of safety.",
+    "style_zh": "深度价值 / 安全边际 / 逆向投资",
+    "style_en": "Deep value / Margin of safety / Contrarian investing"
   },
   {
     "name": "Himalaya Capital (Li Lu)",
@@ -27,7 +35,11 @@
     "filing_date": "2026-02-19",
     "report_period": "2025-12-31",
     "total_value": 3568876223.0,
-    "last_update": "2026-05-11T10:26:15.051440"
+    "last_update": "2026-05-11T10:26:15.051440",
+    "description_zh": "李录（Li Lu）被查理·芒格称为“中国的巴菲特”，是喜马拉雅资本的创始人。他是芒格家族资产的唯一外部管理人。李录完美结合了西方的价值投资框架与对中国现代化的深刻洞察。他主张高度集中的投资、极致的深度调研（“考古式研究”）以及超长期的持股周期，是比亚迪等卓越企业的早期发掘者。",
+    "description_en": "Li Lu, founder of Himalaya Capital, was called “the Chinese Warren Buffett” by Charlie Munger and is the only outside manager of Munger family capital. Li combines the Western value investing framework with deep insight into China’s modernization. He advocates concentrated investing, exhaustive research, and ultra-long holding periods, and was an early investor in outstanding businesses such as BYD.",
+    "style_zh": "价值投资 / 高度集中 / 深度研究",
+    "style_en": "Value investing / Concentrated portfolio / Deep research"
   },
   {
     "name": "Pabrai Investment Funds (Mohnish Pabrai)",
@@ -37,7 +49,11 @@
     "filing_date": "2026-02-13",
     "report_period": "2025-12-31",
     "total_value": 402040227.0,
-    "last_update": "2026-05-11T10:26:16.180745"
+    "last_update": "2026-05-11T10:26:16.180745",
+    "description_zh": "莫尼什·帕布莱（Mohnish Pabrai）是《丹多投资者》的作者，以“克隆”巴菲特策略而闻名。他奉行“低风险、高不确定性”的博弈原则（“正面赢很大，反面输很少”）。帕布莱偏好业务简单、护城河深且处于被市场冷落或恐慌中的成熟企业。他不仅在美股寻找机会，也积极布局印度等新兴市场。",
+    "description_en": "Mohnish Pabrai, author of The Dhandho Investor, is known for cloning Buffett-style strategies. He follows a “low risk, high uncertainty” framework: heads, he wins big; tails, he loses little. Pabrai prefers simple businesses with deep moats that are out of favor or in panic, and he actively searches for opportunities in both the U.S. and emerging markets such as India.",
+    "style_zh": "克隆投资 / 集中投资 / 丹多框架",
+    "style_en": "Cloning strategy / Concentrated investing / Dhandho framework"
   },
   {
     "name": "H&H International Investment (Duan Yongping)",
@@ -47,7 +63,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 17488569921.0,
-    "last_update": "2026-05-11T10:26:16.669429"
+    "last_update": "2026-05-11T10:26:16.669429",
+    "description_zh": "段永平（Duan Yongping）是中国商业界和投资界的传奇，步步高的创始人，也是 OPPO、vivo 和拼多多的幕后导师。作为“中国巴菲特”，他深受巴芒影响，强调“买股票就是买公司”和“本分”哲学。段永平的持仓极其集中，长期持有苹果和伯克希尔，近期则展现出对 AI 基础设施（如英伟达）的积极布局。",
+    "description_en": "Duan Yongping is a legend in Chinese business and investing: founder of BBK and a behind-the-scenes mentor to OPPO, vivo, and Pinduoduo. Often described as China’s Buffett, he is deeply influenced by Buffett and Munger, emphasizing “buying stocks means buying businesses” and the philosophy of staying true to one’s principles. His portfolio is highly concentrated, with long-term holdings in Apple and Berkshire, and recent interest in AI infrastructure such as Nvidia.",
+    "style_zh": "价值投资 / 商业模式导向 / 极度集中",
+    "style_en": "Value investing / Business-model focused / Highly concentrated"
   },
   {
     "name": "Bill & Melinda Gates Foundation",
@@ -57,7 +77,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 35360093535.0,
-    "last_update": "2026-05-11T10:26:17.143830"
+    "last_update": "2026-05-11T10:26:17.143830",
+    "description_zh": "盖茨基金会信托负责管理全球最大慈善基金会的资产。其风格极度保守且注重现金流，类似于巴菲特的价值投资。组合高度集中于具有天然垄断地位、强大护城河的蓝筹公司，如铁路（加州铁路）、废弃物管理（Waste Management）和重型机械（卡特彼勒），致力于通过长期稳健回报支持慈善事业。",
+    "description_en": "The Bill & Melinda Gates Foundation Trust manages assets for one of the world’s largest charitable foundations. Its approach is conservative and cash-flow focused, resembling Buffett-style value investing. The portfolio is concentrated in blue-chip companies with natural monopolies and strong moats, such as railroads, waste management, and heavy machinery, aiming to support philanthropy through steady long-term returns.",
+    "style_zh": "保守价值 / 长期稳健 / 护城河聚焦",
+    "style_en": "Conservative value / Long-term stability / Moat focus"
   },
   {
     "name": "Greenlight Capital (David Einhorn)",
@@ -67,7 +91,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 2849309979.0,
-    "last_update": "2026-05-11T10:26:17.642561"
+    "last_update": "2026-05-11T10:26:17.642561",
+    "description_zh": "大卫·艾因霍恩（David Einhorn）创立的 Greenlight Capital 以严谨的基本面研究和公开做空闻名。其投资风格兼具价值投资和事件驱动，擅长寻找市场预期与企业真实盈利能力之间的错配，并通过多空组合控制风险。",
+    "description_en": "Greenlight Capital, founded by David Einhorn, is known for rigorous fundamental research and public short selling. Its style blends value investing with event-driven strategies, seeking gaps between market expectations and a company’s true earnings power while controlling risk through long/short portfolios.",
+    "style_zh": "价值投资 / 股票多空 / 基本面研究",
+    "style_en": "Value investing / Long-short equity / Fundamental research"
   },
   {
     "name": "Bridgewater Associates (Ray Dalio)",
@@ -77,7 +105,11 @@
     "filing_date": "2026-02-13",
     "report_period": "2025-12-31",
     "total_value": 27421613830.0,
-    "last_update": "2026-05-11T10:26:18.362931"
+    "last_update": "2026-05-11T10:26:18.362931",
+    "description_zh": "瑞·达利欧（Ray Dalio）创立的桥水基金是全球最大的对冲基金。桥水以其“全球宏观”策略和“系统化”思维闻名，核心理念包括“全天候策略”（All Weather）和“纯粹阿尔法”（Pure Alpha）。达利欧强调通过分散不相关的收益流来降低风险，并倡导“极度求真”和“极度透明”的公司文化。",
+    "description_en": "Bridgewater Associates, founded by Ray Dalio, is one of the world’s largest hedge funds. Bridgewater is known for its global macro strategy and systematic thinking, with core ideas including All Weather and Pure Alpha. Dalio emphasizes reducing risk through diversified, uncorrelated return streams and promotes a culture of radical truth and radical transparency.",
+    "style_zh": "全球宏观 / 风险平价 / 系统化量化",
+    "style_en": "Global macro / Risk parity / Systematic quant"
   },
   {
     "name": "Renaissance Technologies (Jim Simons)",
@@ -87,7 +119,11 @@
     "filing_date": "2026-02-12",
     "report_period": "2025-12-31",
     "total_value": 64461244358.0,
-    "last_update": "2026-05-11T10:26:19.924907"
+    "last_update": "2026-05-11T10:26:19.924907",
+    "description_zh": "詹姆斯·西蒙斯（Jim Simons）创立的文艺复兴科技是量化交易的鼻祖。其旗舰“大奖章基金”通过极其复杂的数学模型和海量数据进行统计套利，实现了历史上最高的风险调整后收益。公司大量雇佣数学家和物理学家，而非传统金融人才。其策略高度机密且封闭，旨在捕捉市场中微小的非随机价格偏离。",
+    "description_en": "Renaissance Technologies, founded by Jim Simons, is the pioneer of quantitative trading. Its flagship Medallion Fund uses highly complex mathematical models and massive datasets for statistical arbitrage, producing some of the best risk-adjusted returns in history. The firm hires mathematicians and physicists rather than traditional finance professionals, keeps its strategies highly secretive, and seeks tiny non-random pricing anomalies.",
+    "style_zh": "量化交易 / 统计套利 / 数学模型驱动",
+    "style_en": "Quant trading / Statistical arbitrage / Mathematical models"
   },
   {
     "name": "Citadel Advisors (Ken Griffin)",
@@ -97,7 +133,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 665872168045.0,
-    "last_update": "2026-05-11T10:26:21.626531"
+    "last_update": "2026-05-11T10:26:21.626531",
+    "description_zh": "肯·格里芬（Ken Griffin）领导的城堡投资是全球获利最丰厚的对冲基金。Citadel 是一个强大的多策略平台，利用顶尖技术和严密的风险控制在股票、固收、大宗商品等全资产类别中捕捉机会。格里芬极其重视风险管理（“500种末日模拟”），追求在各种市场环境下都能获得稳定的绝对收益。",
+    "description_en": "Citadel, led by Ken Griffin, is one of the most profitable hedge fund platforms in the world. It is a powerful multi-strategy firm using elite technology and strict risk controls to capture opportunities across equities, fixed income, commodities, and other asset classes. Griffin places exceptional emphasis on risk management and seeks stable absolute returns across market environments.",
+    "style_zh": "多策略 / 量化驱动 / 严苛风险控制",
+    "style_en": "Multi-strategy / Quant-driven / Strict risk control"
   },
   {
     "name": "Millennium Management (Israel Englander)",
@@ -117,7 +157,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 182424024893.0,
-    "last_update": "2026-05-11T10:26:23.384475"
+    "last_update": "2026-05-11T10:26:23.384475",
+    "description_zh": "大卫·肖（David Shaw）创立的 D.E. Shaw 是量化金融的先驱。它将计算机科学的严谨性与金融投资完美结合，利用超算和精密算法在全球范围内捕捉套利机会。公司更像一个顶尖的科学实验室（贝佐斯曾在此工作）。它在保持量化优势的同时，也拥有深厚的基本面研究能力，是“科学投资”的代名词。",
+    "description_en": "D.E. Shaw, founded by David Shaw, is a pioneer of quantitative finance. It combines computer-science rigor with investing, using supercomputing and sophisticated algorithms to capture arbitrage opportunities globally. The firm resembles an elite scientific laboratory and, while maintaining quantitative advantages, also has strong fundamental research capabilities.",
+    "style_zh": "量化套利 / 混合投资 / 技术驱动",
+    "style_en": "Quant arbitrage / Hybrid investing / Technology-driven"
   },
   {
     "name": "Two Sigma Advisers (Overdeck / Siegel)",
@@ -137,7 +181,11 @@
     "filing_date": "2026-02-13",
     "report_period": "2025-12-31",
     "total_value": 8630929364.0,
-    "last_update": "2026-05-11T10:26:24.656501"
+    "last_update": "2026-05-11T10:26:24.656501",
+    "description_zh": "乔治·索罗斯（George Soros）以其“反身性理论”深刻挑战了有效市场假说。他认为参与者的偏见会改变基本面，从而引发自我强化的趋势或泡沫。索罗斯擅长识别市场主流偏见与现实的脱节，并在转折点进行大规模下注。他是宏观对冲的宗师，因“击溃英格兰银行”而确立了在全球金融界的地位。",
+    "description_en": "George Soros challenged the efficient-market view with his theory of reflexivity, arguing that investor biases can change fundamentals and create self-reinforcing trends or bubbles. Soros excels at spotting gaps between consensus beliefs and reality, then placing large macro bets near turning points. He is a master of macro hedging and became a global finance legend after “breaking the Bank of England.”",
+    "style_zh": "反身性理论 / 全球宏观 / 趋势捕捉",
+    "style_en": "Reflexivity theory / Global macro / Trend capture"
   },
   {
     "name": "Duquesne Family Office (Stanley Druckenmiller)",
@@ -147,7 +195,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 4494450.0,
-    "last_update": "2026-05-11T10:26:25.120614"
+    "last_update": "2026-05-11T10:26:25.120614",
+    "description_zh": "斯坦利·德鲁肯米勒（Stanley Druckenmiller）是索罗斯最得意的门生，曾在 30 年间创造了从未亏损年度的奇迹。他的投资风格是自上而下的宏观视角，结合了极高的持仓集中度和果断的止损。他信奉“在顺风顺水时做一只猪”，勇于在确信时押下重注。近期他极其看好 AI 技术对生产力的颠覆性影响。",
+    "description_en": "Stanley Druckenmiller, Soros’s most celebrated protégé, achieved decades of investing with no losing year. His style combines top-down macro views, high conviction, concentrated positions, and disciplined stop-losses. He believes in pressing advantages when the setup is favorable and has recently been especially bullish on AI’s potential to transform productivity.",
+    "style_zh": "全球宏观 / 高度集中 / 纪律严明",
+    "style_en": "Global macro / High concentration / Strong discipline"
   },
   {
     "name": "Point72 Asset Management (Steve Cohen)",
@@ -157,7 +209,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 89421368731.0,
-    "last_update": "2026-05-11T10:26:26.086519"
+    "last_update": "2026-05-11T10:26:26.086519",
+    "description_zh": "史蒂夫·科恩（Steve Cohen）领导的 Point72 继承了其前身 SAC Capital 的敏锐嗅觉，是多空策略（Long/Short Equity）的标杆。Point72 拥有极其专业的行业分工体系，通过深度基本面研究和大数据分析获取信息优势。科恩极其重视人才培养（Point72 学院）和技术赋能，追求稳健的风险调整后收益。",
+    "description_en": "Point72, led by Steve Cohen, carries forward the sharp trading instincts of its predecessor SAC Capital and is a benchmark for long/short equity. Point72 has a highly specialized sector-research system and seeks informational advantages through deep fundamental work and data analysis. Cohen emphasizes talent development through Point72 Academy and technology-enabled investing.",
+    "style_zh": "股票多空 / 行业专家化 / 数据驱动",
+    "style_en": "Long/short equity / Sector specialization / Data-driven"
   },
   {
     "name": "Appaloosa Management (David Tepper)",
@@ -167,7 +223,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 6925020650.0,
-    "last_update": "2026-05-11T10:26:26.560182"
+    "last_update": "2026-05-11T10:26:26.560182",
+    "description_zh": "大卫·泰珀（David Tepper）是著名的逆向投资大师和困境资产专家。他以 2009 年重仓银行股的“世纪豪赌”闻名。泰珀擅长分析复杂的资本结构，在市场极度恐慌时寻找具有政府支持或基本面反转潜力的资产。他也是华尔街著名的“中国多头”，经常在市场低位布局中概股巨头。",
+    "description_en": "David Tepper is a renowned contrarian investor and distressed-asset specialist, famous for his historic bet on bank stocks in 2009. Tepper is skilled at analyzing complex capital structures and finding assets with government support or turnaround potential during moments of extreme market fear. He is also a notable China bull who often buys major Chinese ADRs near market lows.",
+    "style_zh": "逆向投资 / 困境资产 / 宏观博弈",
+    "style_en": "Contrarian investing / Distressed assets / Macro trading"
   },
   {
     "name": "ARK Invest (Cathie Wood)",
@@ -177,7 +237,11 @@
     "filing_date": "2026-02-11",
     "report_period": "2025-12-31",
     "total_value": 15067426139.0,
-    "last_update": "2026-05-11T10:26:27.057569"
+    "last_update": "2026-05-11T10:26:27.057569",
+    "description_zh": "“木头姐”凯瑟琳·伍德（Cathie Wood）创办的方舟投资是颠覆性创新的坚定捍卫者。方舟专注于人工智能、基因测序、机器人、能源存储和区块链五大平台。其风格以高波动、高增长和极度透明著称，通过每日公开交易明细和深度分享研究成果，吸引了大量追求前沿科技复利的投资者。",
+    "description_en": "ARK Invest, founded by Cathie Wood, is a committed advocate of disruptive innovation. ARK focuses on five innovation platforms: artificial intelligence, genomic sequencing, robotics, energy storage, and blockchain. Its style is high-volatility, high-growth, and unusually transparent, attracting investors seeking frontier-technology compounding through daily trade disclosures and extensive research sharing.",
+    "style_zh": "颠覆性创新 / 跨行业研究 / 指数级增长押注",
+    "style_en": "Disruptive innovation / Cross-sector research / Exponential growth bets"
   },
   {
     "name": "Tiger Global Management (Chase Coleman)",
@@ -187,7 +251,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 29714313270.0,
-    "last_update": "2026-05-11T10:26:27.726849"
+    "last_update": "2026-05-11T10:26:27.726849",
+    "description_zh": "查斯·科尔曼（Chase Coleman）作为“老虎幼崽”中的佼佼者，将风险投资（VC）的进取心带入了二级市场。老虎环球以其在互联网和 SaaS 赛道的“快、准、狠”著称，偏好跨界投资，伴随企业从初创走向上市。其风格是极致的增长导向，重仓押注能够改变人类生活方式的科技平台。",
+    "description_en": "Tiger Global, led by Chase Coleman, brought venture-capital aggression into public markets. As a leading Tiger Cub, the firm is known for fast, decisive investing across internet and SaaS businesses, often following companies from private growth stages into public markets. Its style is intensely growth-oriented and focused on technology platforms that can change how people live.",
+    "style_zh": "科技增长 / 跨界投资 / 极致速度",
+    "style_en": "Technology growth / Crossover investing / Extreme speed"
   },
   {
     "name": "Coatue Management (Philippe Laffont)",
@@ -197,7 +265,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 39962643007.0,
-    "last_update": "2026-05-11T10:26:28.234610"
+    "last_update": "2026-05-11T10:26:28.234610",
+    "description_zh": "菲利普·拉丰（Philippe Laffont）领导的 Coatue 是 TMT 领域的顶级捕手。Coatue 采用全生命周期投资策略，是数据科学驱动投资的先驱。拉丰对技术浪潮有深刻理解，目前已全面转向 AI 革命，重仓英伟达等 AI 基础设施。他以敏锐的宏观意识和在市场过热时果断撤退的纪律性而闻名。",
+    "description_en": "Coatue, led by Philippe Laffont, is a top TMT investor. It uses a full-lifecycle investment approach and was an early adopter of data science in investing. Laffont has a deep understanding of technology waves and has shifted heavily toward the AI revolution, including major positions in AI infrastructure leaders such as Nvidia.",
+    "style_zh": "TMT 聚焦 / 全生命周期投资 / 数据科学赋能",
+    "style_en": "TMT focus / Full-lifecycle investing / Data-science enabled"
   },
   {
     "name": "Viking Global Investors (Andreas Halvorsen)",
@@ -207,7 +279,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 37677848898.0,
-    "last_update": "2026-05-11T10:26:28.801776"
+    "last_update": "2026-05-11T10:26:28.801776",
+    "description_zh": "安德烈亚斯·哈尔沃森（Andreas Halvorsen）是著名的“老虎系”对冲基金经理，以其军事化的纪律和严谨的基本面研究著称。维京全球专注于股票多空策略，通过极度勤奋的调研寻找确定性。他信奉“智力诚实”，勇于承认错误并迅速止损。其投资跨越公募和私募市场，重点关注医疗和科技高增长领域。",
+    "description_en": "Viking Global, led by Andreas Halvorsen, is a well-known Tiger Cub hedge fund recognized for military-like discipline and rigorous fundamental research. Viking focuses on long/short equity and seeks high-conviction ideas through exhaustive diligence. It values intellectual honesty, willingness to admit mistakes, and quick loss-cutting, with exposure across public and private markets.",
+    "style_zh": "股票多空 / 军事化纪律 / 深度调研",
+    "style_en": "Long/short equity / Military-like discipline / Deep research"
   },
   {
     "name": "Lone Pine Capital (Stephen Mandel)",
@@ -227,7 +303,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 6661973445.0,
-    "last_update": "2026-05-11T10:26:29.834666"
+    "last_update": "2026-05-11T10:26:29.834666",
+    "description_zh": "布拉德·格斯特纳（Brad Gerstner）是硅谷最具影响力的“本质主义”投资者。Altimeter 专注于高集中度的技术押注（如 Snowflake）。格斯特纳勇于作为“建设性积极主义者”向巨头发声（如敦促 Meta 瘦身）。他看重单位经济效益和长期范式转移，是当前 AI 浪潮中最清醒的领航者之一。",
+    "description_en": "Brad Gerstner is an influential Silicon Valley investor with an essentialist approach. Altimeter focuses on concentrated technology bets such as Snowflake and is willing to act as a constructive activist, including public calls for large companies such as Meta to become leaner. Gerstner emphasizes unit economics and long-term paradigm shifts.",
+    "style_zh": "本质主义 / 集中押注 / 建设性积极主义",
+    "style_en": "Essentialism / Concentrated bets / Constructive activism"
   },
   {
     "name": "Whale Rock Capital Management",
@@ -247,7 +327,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 15467989200.0,
-    "last_update": "2026-05-11T10:26:30.811612"
+    "last_update": "2026-05-11T10:26:30.811612",
+    "description_zh": "孙正义（Masayoshi Son）是科技投资界的梦想家，其愿景基金以“300年愿景”和押注“奇点”为核心。孙正义偏好通过巨额资本注入（“资本溢价策略”）催熟行业独角兽，试图构建一个由 AI 驱动的“群战略”生态系统。他的风格极具冒险精神，追求能够重塑人类未来的颠覆性机会。",
+    "description_en": "Masayoshi Son is a visionary technology investor whose Vision Fund is built around a 300-year view and bets on the singularity. Son favors using massive capital injections to accelerate unicorns and build an AI-driven ecosystem of connected businesses. His style is highly adventurous and focused on disruptive opportunities that could reshape humanity’s future.",
+    "style_zh": "科技远景 / 资本溢价策略 / 奇点对赌",
+    "style_en": "Technology vision / Capital-premium strategy / Singularity bets"
   },
   {
     "name": "Pershing Square (Bill Ackman)",
@@ -257,7 +341,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 15526737802.0,
-    "last_update": "2026-05-11T10:26:31.373082"
+    "last_update": "2026-05-11T10:26:31.373082",
+    "description_zh": "比尔·阿克曼（Bill Ackman）以其激进且高调的投资风格著称。他倾向于投资于具有强大品牌和稳定现金流的蓝筹公司，并通过公开施压管理层或推动战略重组来释放价值。阿克曼擅长利用衍生工具进行对冲（如在 2020 年疫情期间的信用对冲），是一个极具战术头脑的“积极主义”投资者。",
+    "description_en": "Bill Ackman is known for an activist and highly public investment style. He tends to invest in blue-chip companies with strong brands and stable cash flows, then pressures management or pushes strategic restructuring to unlock value. Ackman is also skilled at tactical hedging with derivatives, including his credit hedge during the 2020 pandemic shock.",
+    "style_zh": "积极主义 / 集中投资 / 战术对冲",
+    "style_en": "Activism / Concentrated investing / Tactical hedging"
   },
   {
     "name": "Icahn Capital (Carl Icahn)",
@@ -267,7 +355,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 8445167769.0,
-    "last_update": "2026-05-11T10:26:32.931462"
+    "last_update": "2026-05-11T10:26:32.931462",
+    "description_zh": "卡尔·伊坎（Carl Icahn）是华尔街最令管理层胆寒的“企业掠夺者”和激进投资者。他的风格是“发现价值 -> 获得控制权 -> 强制变革 -> 退出获利”。他通过争夺董事会席位和公开批评 CEO，强迫公司回购股票、剥离资产或整体出售。他的操作常引发“伊坎效应”，即股价随其买入信息披露而飙升。",
+    "description_en": "Carl Icahn is the archetypal corporate raider and activist investor feared by management teams. His style is to find value, gain influence, force change, and exit profitably. Through board fights and public criticism of CEOs, he pressures companies to repurchase shares, divest assets, or sell themselves, often triggering the “Icahn lift” when his position becomes public.",
+    "style_zh": "激进投资 / 股东积极主义 / 逆向价值",
+    "style_en": "Activist investing / Shareholder activism / Contrarian value"
   },
   {
     "name": "Trian Fund Management (Nelson Peltz)",
@@ -307,7 +399,11 @@
     "filing_date": "2026-02-18",
     "report_period": "2025-12-31",
     "total_value": 22594232626.0,
-    "last_update": "2026-05-11T10:26:35.753109"
+    "last_update": "2026-05-11T10:26:35.753109",
+    "description_zh": "保罗·辛格（Paul Singer）领导的埃利奥特管理以其极度强硬和“法律驱动”的投资风格著称。它是全球最著名的积极主义对冲基金之一，不畏惧与主权国家（如阿根廷）或全球巨头进行长达数年的法律和舆论对峙。辛格极度厌恶风险，追求资本保全，其风格是“不达目的誓不罢休”的强制价值释放。",
+    "description_en": "Elliott Management, led by Paul Singer, is known for an extremely tough, legally driven investment style. It is one of the world’s best-known activist hedge funds and is willing to confront sovereign states and global corporations through years of legal and public-pressure campaigns. Singer is highly risk-averse and seeks capital preservation through forceful value realization.",
+    "style_zh": "积极主义 / 不良资产 / 法律驱动风险对冲",
+    "style_en": "Activism / Distressed assets / Legal-driven risk hedging"
   },
   {
     "name": "Scion Asset Management (Michael Burry)",
@@ -317,7 +413,11 @@
     "filing_date": "2025-11-03",
     "report_period": "2025-09-30",
     "total_value": 1381198076.0,
-    "last_update": "2026-05-11T10:26:36.322544"
+    "last_update": "2026-05-11T10:26:36.322544",
+    "description_zh": "迈克尔·伯里（Michael Burry）是电影《大空头》的原型，因在 2008 年金融危机前重仓做空次贷而名震全球。他是一名极端的逆向投资者，擅长在被市场彻底抛弃的“路边死尸”中寻找价值。伯里的风格是基于深度数据分析的“孤独猎手”，不惧怕对抗主流情绪，持仓变动频繁且极具预见性。",
+    "description_en": "Michael Burry, the real-life figure behind The Big Short, became famous for heavily shorting subprime mortgages before the 2008 financial crisis. He is an extreme contrarian investor who looks for value in assets the market has abandoned. Burry’s style is that of a data-driven lone hunter: willing to oppose consensus, frequently changing positions, and often making highly prescient calls.",
+    "style_zh": "深度价值 / 逆向投资 / 宏观对冲",
+    "style_en": "Deep value / Contrarian investing / Macro hedging"
   },
   {
     "name": "Maverick Capital (Lee Ainslie)",
@@ -357,7 +457,11 @@
     "filing_date": "2026-02-13",
     "report_period": "2025-12-31",
     "total_value": 60716698512.0,
-    "last_update": "2026-05-11T10:26:39.055678"
+    "last_update": "2026-05-11T10:26:39.055678",
+    "description_zh": "拉吉夫·杰恩（Rajiv Jain）领导的 GQG 追求“前瞻性质量”。杰恩不被传统标签束缚，敢于在被抛弃的传统能源、烟草和金融行业中寻找高质量盈利者。他以极强的适应性和逆向思维著称（如在大跌中重仓阿达尼）。GQG 的目标是在牛市跟上、熊市抗跌，通过长期盈利确定性获取超额收益。",
+    "description_en": "GQG Partners, led by Rajiv Jain, pursues forward-looking quality. Jain is not bound by conventional labels and is willing to seek high-quality earners in abandoned sectors such as energy, tobacco, and financials. He is known for adaptability and contrarian thinking, aiming to keep pace in bull markets and protect capital in bear markets through durable earnings quality.",
+    "style_zh": "前瞻性质量 / 极强适应性 / 逆向投资",
+    "style_en": "Forward-looking quality / High adaptability / Contrarian investing"
   },
   {
     "name": "Leon Cooperman (Omega Advisors)",
@@ -437,7 +541,11 @@
     "filing_date": "2026-02-17",
     "report_period": "2025-12-31",
     "total_value": 53648816254.0,
-    "last_update": "2026-05-11T10:26:48.175910"
+    "last_update": "2026-05-11T10:26:48.175910",
+    "description_zh": "克里斯托弗·霍恩（Chris Hohn）领导的 TCI 奉行“护城河高于增长”的原则。TCI 的持仓极其集中，平均持股时间长达 8 年，只投全球范围内最难被取代的“超级公司”（如垄断性基础设施和顶级服务商）。霍恩近期发起了“Say on Climate”倡议，通过积极参与公司治理推动 ESG 和气候目标。",
+    "description_en": "TCI, led by Christopher Hohn, follows the principle that moats matter more than growth. Its portfolio is highly concentrated, with average holding periods of roughly eight years, and focuses on irreplaceable global “super companies” such as monopolistic infrastructure and leading service providers. Hohn also promotes shareholder governance and climate goals through initiatives such as Say on Climate.",
+    "style_zh": "极度集中 / 长期持有 / ESG 积极主义",
+    "style_en": "Extreme concentration / Long-term holding / ESG activism"
   },
   {
     "name": "Marshall Wace LLP",

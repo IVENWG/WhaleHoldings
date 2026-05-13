@@ -1,8 +1,8 @@
 {
   "investor_name": "Appaloosa Management (David Tepper)",
   "cik": "0001656456",
-  "description": "",
-  "style": "",
+  "description": "大卫·泰珀（David Tepper）是著名的逆向投资大师和困境资产专家。他以 2009 年重仓银行股的“世纪豪赌”闻名。泰珀擅长分析复杂的资本结构，在市场极度恐慌时寻找具有政府支持或基本面反转潜力的资产。他也是华尔街著名的“中国多头”，经常在市场低位布局中概股巨头。",
+  "style": "逆向投资 / 困境资产 / 宏观博弈",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 6925020650.0,
@@ -502,5 +502,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:26.559072"
+  "updated_at": "2026-05-11T10:26:26.559072",
+  "description_zh": "大卫·泰珀（David Tepper）是著名的逆向投资大师和困境资产专家。他以 2009 年重仓银行股的“世纪豪赌”闻名。泰珀擅长分析复杂的资本结构，在市场极度恐慌时寻找具有政府支持或基本面反转潜力的资产。他也是华尔街著名的“中国多头”，经常在市场低位布局中概股巨头。",
+  "description_en": "David Tepper is a renowned contrarian investor and distressed-asset specialist, famous for his historic bet on bank stocks in 2009. Tepper is skilled at analyzing complex capital structures and finding assets with government support or turnaround potential during moments of extreme market fear. He is also a notable China bull who often buys major Chinese ADRs near market lows.",
+  "style_zh": "逆向投资 / 困境资产 / 宏观博弈",
+  "style_en": "Contrarian investing / Distressed assets / Macro trading"
 }

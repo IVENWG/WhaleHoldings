@@ -1,8 +1,8 @@
 {
   "investor_name": "Icahn Capital (Carl Icahn)",
   "cik": "0000921669",
-  "description": "",
-  "style": "",
+  "description": "卡尔·伊坎（Carl Icahn）是华尔街最令管理层胆寒的“企业掠夺者”和激进投资者。他的风格是“发现价值 -> 获得控制权 -> 强制变革 -> 退出获利”。他通过争夺董事会席位和公开批评 CEO，强迫公司回购股票、剥离资产或整体出售。他的操作常引发“伊坎效应”，即股价随其买入信息披露而飙升。",
+  "style": "激进投资 / 股东积极主义 / 逆向价值",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 8445167769.0,
@@ -177,5 +177,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:32.930706"
+  "updated_at": "2026-05-11T10:26:32.930706",
+  "description_zh": "卡尔·伊坎（Carl Icahn）是华尔街最令管理层胆寒的“企业掠夺者”和激进投资者。他的风格是“发现价值 -> 获得控制权 -> 强制变革 -> 退出获利”。他通过争夺董事会席位和公开批评 CEO，强迫公司回购股票、剥离资产或整体出售。他的操作常引发“伊坎效应”，即股价随其买入信息披露而飙升。",
+  "description_en": "Carl Icahn is the archetypal corporate raider and activist investor feared by management teams. His style is to find value, gain influence, force change, and exit profitably. Through board fights and public criticism of CEOs, he pressures companies to repurchase shares, divest assets, or sell themselves, often triggering the “Icahn lift” when his position becomes public.",
+  "style_zh": "激进投资 / 股东积极主义 / 逆向价值",
+  "style_en": "Activist investing / Shareholder activism / Contrarian value"
 }

@@ -84638,5 +84638,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:21.596481"
+  "updated_at": "2026-05-11T10:26:21.596481",
+  "description_zh": "肯·格里芬（Ken Griffin）领导的城堡投资是全球获利最丰厚的对冲基金。Citadel 是一个强大的多策略平台，利用顶尖技术和严密的风险控制在股票、固收、大宗商品等全资产类别中捕捉机会。格里芬极其重视风险管理（“500种末日模拟”），追求在各种市场环境下都能获得稳定的绝对收益。",
+  "description_en": "Citadel, led by Ken Griffin, is one of the most profitable hedge fund platforms in the world. It is a powerful multi-strategy firm using elite technology and strict risk controls to capture opportunities across equities, fixed income, commodities, and other asset classes. Griffin places exceptional emphasis on risk management and seeks stable absolute returns across market environments.",
+  "style_zh": "多策略 / 量化驱动 / 严苛风险控制",
+  "style_en": "Multi-strategy / Quant-driven / Strict risk control"
 }

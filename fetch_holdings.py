@@ -106,15 +106,21 @@ def fetch_investor_holdings(cik, name, metadata):
         
         # 获取背景介绍
         investor_info = metadata.get(cik, {})
-        description = investor_info.get("description", "")
-        style = investor_info.get("style", "")
-        
+        description_zh = investor_info.get("description_zh") or investor_info.get("description", "")
+        description_en = investor_info.get("description_en", "")
+        style_zh = investor_info.get("style_zh") or investor_info.get("style", "")
+        style_en = investor_info.get("style_en", "")
+
         # 数据清洗和转换
         data = {
             "investor_name": name,
             "cik": cik,
-            "description": description,
-            "style": style,
+            "description": description_zh,
+            "description_zh": description_zh,
+            "description_en": description_en,
+            "style": style_zh,
+            "style_zh": style_zh,
+            "style_en": style_en,
             "report_period": str(thirteenf.report_period),
             "filing_date": str(latest_filing.filing_date),
             "total_value": float(thirteenf.total_value),
@@ -130,8 +136,12 @@ def fetch_investor_holdings(cik, name, metadata):
         return {
             "name": name,
             "cik": cik,
-            "description": description,
-            "style": style,
+            "description": description_zh,
+            "description_zh": description_zh,
+            "description_en": description_en,
+            "style": style_zh,
+            "style_zh": style_zh,
+            "style_en": style_en,
             "filing_date": str(latest_filing.filing_date),
             "report_period": str(thirteenf.report_period),
             "total_value": float(thirteenf.total_value),

@@ -788,5 +788,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:25.119386"
+  "updated_at": "2026-05-11T10:26:25.119386",
+  "description_zh": "斯坦利·德鲁肯米勒（Stanley Druckenmiller）是索罗斯最得意的门生，曾在 30 年间创造了从未亏损年度的奇迹。他的投资风格是自上而下的宏观视角，结合了极高的持仓集中度和果断的止损。他信奉“在顺风顺水时做一只猪”，勇于在确信时押下重注。近期他极其看好 AI 技术对生产力的颠覆性影响。",
+  "description_en": "Stanley Druckenmiller, Soros’s most celebrated protégé, achieved decades of investing with no losing year. His style combines top-down macro views, high conviction, concentrated positions, and disciplined stop-losses. He believes in pressing advantages when the setup is favorable and has recently been especially bullish on AI’s potential to transform productivity.",
+  "style_zh": "全球宏观 / 高度集中 / 纪律严明",
+  "style_en": "Global macro / High concentration / Strong discipline"
 }

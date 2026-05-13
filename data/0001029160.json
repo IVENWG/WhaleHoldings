@@ -3089,5 +3089,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:24.655032"
+  "updated_at": "2026-05-11T10:26:24.655032",
+  "description_zh": "乔治·索罗斯（George Soros）以其“反身性理论”深刻挑战了有效市场假说。他认为参与者的偏见会改变基本面，从而引发自我强化的趋势或泡沫。索罗斯擅长识别市场主流偏见与现实的脱节，并在转折点进行大规模下注。他是宏观对冲的宗师，因“击溃英格兰银行”而确立了在全球金融界的地位。",
+  "description_en": "George Soros challenged the efficient-market view with his theory of reflexivity, arguing that investor biases can change fundamentals and create self-reinforcing trends or bubbles. Soros excels at spotting gaps between consensus beliefs and reality, then placing large macro bets near turning points. He is a master of macro hedging and became a global finance legend after “breaking the Bank of England.”",
+  "style_zh": "反身性理论 / 全球宏观 / 趋势捕捉",
+  "style_en": "Reflexivity theory / Global macro / Trend capture"
 }

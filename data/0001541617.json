@@ -242,5 +242,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:29.834195"
+  "updated_at": "2026-05-11T10:26:29.834195",
+  "description_zh": "布拉德·格斯特纳（Brad Gerstner）是硅谷最具影响力的“本质主义”投资者。Altimeter 专注于高集中度的技术押注（如 Snowflake）。格斯特纳勇于作为“建设性积极主义者”向巨头发声（如敦促 Meta 瘦身）。他看重单位经济效益和长期范式转移，是当前 AI 浪潮中最清醒的领航者之一。",
+  "description_en": "Brad Gerstner is an influential Silicon Valley investor with an essentialist approach. Altimeter focuses on concentrated technology bets such as Snowflake and is willing to act as a constructive activist, including public calls for large companies such as Meta to become leaner. Gerstner emphasizes unit economics and long-term paradigm shifts.",
+  "style_zh": "本质主义 / 集中押注 / 建设性积极主义",
+  "style_en": "Essentialism / Concentrated bets / Constructive activism"
 }

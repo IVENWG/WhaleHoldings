@@ -1,8 +1,8 @@
 {
   "investor_name": "Pabrai Investment Funds (Mohnish Pabrai)",
   "cik": "0001549575",
-  "description": "",
-  "style": "",
+  "description": "莫尼什·帕布莱（Mohnish Pabrai）是《丹多投资者》的作者，以“克隆”巴菲特策略而闻名。他奉行“低风险、高不确定性”的博弈原则（“正面赢很大，反面输很少”）。帕布莱偏好业务简单、护城河深且处于被市场冷落或恐慌中的成熟企业。他不仅在美股寻找机会，也积极布局印度等新兴市场。",
+  "style": "克隆投资 / 集中投资 / 丹多框架",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-13",
   "total_value": 402040227.0,
@@ -60,5 +60,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:16.180187"
+  "updated_at": "2026-05-11T10:26:16.180187",
+  "description_zh": "莫尼什·帕布莱（Mohnish Pabrai）是《丹多投资者》的作者，以“克隆”巴菲特策略而闻名。他奉行“低风险、高不确定性”的博弈原则（“正面赢很大，反面输很少”）。帕布莱偏好业务简单、护城河深且处于被市场冷落或恐慌中的成熟企业。他不仅在美股寻找机会，也积极布局印度等新兴市场。",
+  "description_en": "Mohnish Pabrai, author of The Dhandho Investor, is known for cloning Buffett-style strategies. He follows a “low risk, high uncertainty” framework: heads, he wins big; tails, he loses little. Pabrai prefers simple businesses with deep moats that are out of favor or in panic, and he actively searches for opportunities in both the U.S. and emerging markets such as India.",
+  "style_zh": "克隆投资 / 集中投资 / 丹多框架",
+  "style_en": "Cloning strategy / Concentrated investing / Dhandho framework"
 }

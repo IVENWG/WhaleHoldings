@@ -2556,5 +2556,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:27.055071"
+  "updated_at": "2026-05-11T10:26:27.055071",
+  "description_zh": "“木头姐”凯瑟琳·伍德（Cathie Wood）创办的方舟投资是颠覆性创新的坚定捍卫者。方舟专注于人工智能、基因测序、机器人、能源存储和区块链五大平台。其风格以高波动、高增长和极度透明著称，通过每日公开交易明细和深度分享研究成果，吸引了大量追求前沿科技复利的投资者。",
+  "description_en": "ARK Invest, founded by Cathie Wood, is a committed advocate of disruptive innovation. ARK focuses on five innovation platforms: artificial intelligence, genomic sequencing, robotics, energy storage, and blockchain. Its style is high-volatility, high-growth, and unusually transparent, attracting investors seeking frontier-technology compounding through daily trade disclosures and extensive research sharing.",
+  "style_zh": "颠覆性创新 / 跨行业研究 / 指数级增长押注",
+  "style_en": "Disruptive innovation / Cross-sector research / Exponential growth bets"
 }

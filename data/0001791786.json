@@ -424,5 +424,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:35.752513"
+  "updated_at": "2026-05-11T10:26:35.752513",
+  "description_zh": "保罗·辛格（Paul Singer）领导的埃利奥特管理以其极度强硬和“法律驱动”的投资风格著称。它是全球最著名的积极主义对冲基金之一，不畏惧与主权国家（如阿根廷）或全球巨头进行长达数年的法律和舆论对峙。辛格极度厌恶风险，追求资本保全，其风格是“不达目的誓不罢休”的强制价值释放。",
+  "description_en": "Elliott Management, led by Paul Singer, is known for an extremely tough, legally driven investment style. It is one of the world’s best-known activist hedge funds and is willing to confront sovereign states and global corporations through years of legal and public-pressure campaigns. Singer is highly risk-averse and seeks capital preservation through forceful value realization.",
+  "style_zh": "积极主义 / 不良资产 / 法律驱动风险对冲",
+  "style_en": "Activism / Distressed assets / Legal-driven risk hedging"
 }

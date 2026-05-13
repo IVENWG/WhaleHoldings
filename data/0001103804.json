@@ -996,5 +996,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:28.800732"
+  "updated_at": "2026-05-11T10:26:28.800732",
+  "description_zh": "安德烈亚斯·哈尔沃森（Andreas Halvorsen）是著名的“老虎系”对冲基金经理，以其军事化的纪律和严谨的基本面研究著称。维京全球专注于股票多空策略，通过极度勤奋的调研寻找确定性。他信奉“智力诚实”，勇于承认错误并迅速止损。其投资跨越公募和私募市场，重点关注医疗和科技高增长领域。",
+  "description_en": "Viking Global, led by Andreas Halvorsen, is a well-known Tiger Cub hedge fund recognized for military-like discipline and rigorous fundamental research. Viking focuses on long/short equity and seeks high-conviction ideas through exhaustive diligence. It values intellectual honesty, willingness to admit mistakes, and quick loss-cutting, with exposure across public and private markets.",
+  "style_zh": "股票多空 / 军事化纪律 / 深度调研",
+  "style_en": "Long/short equity / Military-like discipline / Deep research"
 }

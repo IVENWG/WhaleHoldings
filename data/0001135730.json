@@ -684,5 +684,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:28.233845"
+  "updated_at": "2026-05-11T10:26:28.233845",
+  "description_zh": "菲利普·拉丰（Philippe Laffont）领导的 Coatue 是 TMT 领域的顶级捕手。Coatue 采用全生命周期投资策略，是数据科学驱动投资的先驱。拉丰对技术浪潮有深刻理解，目前已全面转向 AI 革命，重仓英伟达等 AI 基础设施。他以敏锐的宏观意识和在市场过热时果断撤退的纪律性而闻名。",
+  "description_en": "Coatue, led by Philippe Laffont, is a top TMT investor. It uses a full-lifecycle investment approach and was an early adopter of data science in investing. Laffont has a deep understanding of technology waves and has shifted heavily toward the AI revolution, including major positions in AI infrastructure leaders such as Nvidia.",
+  "style_zh": "TMT 聚焦 / 全生命周期投资 / 数据科学赋能",
+  "style_en": "TMT focus / Full-lifecycle investing / Data-science enabled"
 }

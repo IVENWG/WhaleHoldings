@@ -1,8 +1,8 @@
 {
   "investor_name": "Greenlight Capital (David Einhorn)",
   "cik": "0001489933",
-  "description": "",
-  "style": "",
+  "description": "大卫·艾因霍恩（David Einhorn）创立的 Greenlight Capital 以严谨的基本面研究和公开做空闻名。其投资风格兼具价值投资和事件驱动，擅长寻找市场预期与企业真实盈利能力之间的错配，并通过多空组合控制风险。",
+  "style": "价值投资 / 股票多空 / 基本面研究",
   "report_period": "2025-12-31",
   "filing_date": "2026-02-17",
   "total_value": 2849309979.0,
@@ -541,5 +541,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:17.641522"
+  "updated_at": "2026-05-11T10:26:17.641522",
+  "description_zh": "大卫·艾因霍恩（David Einhorn）创立的 Greenlight Capital 以严谨的基本面研究和公开做空闻名。其投资风格兼具价值投资和事件驱动，擅长寻找市场预期与企业真实盈利能力之间的错配，并通过多空组合控制风险。",
+  "description_en": "Greenlight Capital, founded by David Einhorn, is known for rigorous fundamental research and public short selling. Its style blends value investing with event-driven strategies, seeking gaps between market expectations and a company’s true earnings power while controlling risk through long/short portfolios.",
+  "style_zh": "价值投资 / 股票多空 / 基本面研究",
+  "style_en": "Value investing / Long-short equity / Fundamental research"
 }

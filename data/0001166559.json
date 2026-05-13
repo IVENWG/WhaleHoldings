@@ -307,5 +307,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:17.143007"
+  "updated_at": "2026-05-11T10:26:17.143007",
+  "description_zh": "盖茨基金会信托负责管理全球最大慈善基金会的资产。其风格极度保守且注重现金流，类似于巴菲特的价值投资。组合高度集中于具有天然垄断地位、强大护城河的蓝筹公司，如铁路（加州铁路）、废弃物管理（Waste Management）和重型机械（卡特彼勒），致力于通过长期稳健回报支持慈善事业。",
+  "description_en": "The Bill & Melinda Gates Foundation Trust manages assets for one of the world’s largest charitable foundations. Its approach is conservative and cash-flow focused, resembling Buffett-style value investing. The portfolio is concentrated in blue-chip companies with natural monopolies and strong moats, such as railroads, waste management, and heavy machinery, aiming to support philanthropy through steady long-term returns.",
+  "style_zh": "保守价值 / 长期稳健 / 护城河聚焦",
+  "style_en": "Conservative value / Long-term stability / Moat focus"
 }

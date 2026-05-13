@@ -554,5 +554,9 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:13.963066"
+  "updated_at": "2026-05-11T10:26:13.963066",
+  "description_zh": "沃伦·巴菲特（Warren Buffett）领导的伯克希尔·哈撒韦是价值投资的殿堂。巴菲特师从格雷厄姆，强调“安全边际”和“护城河”，寻找具有持久竞争优势且估值合理的伟大企业。其投资风格极其稳健，偏好长期持有（通常以十年为单位），利用保险业务产生的低成本“浮存金”进行复利增长。他是全球投资者的精神导师，被誉为“奥马哈先知”。",
+  "description_en": "Berkshire Hathaway, led by Warren Buffett, is the temple of value investing. Buffett studied under Benjamin Graham and emphasizes margin of safety and durable moats, seeking great businesses with lasting competitive advantages at reasonable valuations. His investment style is highly disciplined, favors holding periods measured in decades, and compounds capital with low-cost insurance float. He is a spiritual mentor to investors worldwide and is known as the Oracle of Omaha.",
+  "style_zh": "价值投资 / 长期持有 / 护城河理论",
+  "style_en": "Value investing / Long-term holding / Moat theory"
 }
