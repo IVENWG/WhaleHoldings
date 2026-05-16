@@ -2,7 +2,11 @@
   "investor_name": "Fisher Asset Management (Ken Fisher)",
   "cik": "0000850529",
   "description": "",
+  "description_zh": "",
+  "description_en": "",
   "style": "",
+  "style_zh": "",
+  "style_en": "",
   "report_period": "2026-03-31",
   "filing_date": "2026-05-05",
   "total_value": 294892645875.0,
@@ -13216,5 +13220,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:38.496810"
+  "updated_at": "2026-05-16T03:28:59.684823"
 }

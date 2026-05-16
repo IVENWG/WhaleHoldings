@@ -2,10 +2,14 @@
   "investor_name": "Trian Fund Management (Nelson Peltz)",
   "cik": "0001345471",
   "description": "",
+  "description_zh": "",
+  "description_en": "",
   "style": "",
-  "report_period": "2025-12-31",
-  "filing_date": "2026-02-17",
-  "total_value": 3984029993.0,
+  "style_zh": "",
+  "style_en": "",
+  "report_period": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "total_value": 3859778188.0,
   "holdings": [
     {
       "Issuer": "Janus Henderson Group plc",
@@ -13,7 +17,7 @@
       "Cusip": "G4474Y214",
       "Ticker": "JHG",
       "SharesPrnAmount": 31867800,
-      "Value": 1515951246,
+      "Value": 1637048886,
       "SoleVoting": 0,
       "SharedVoting": 31867800,
       "NonVoting": 0,
@@ -26,7 +30,7 @@
       "Cusip": "369604301",
       "Ticker": "GE",
       "SharesPrnAmount": 4030765,
-      "Value": 1241596543,
+      "Value": 1143810184,
       "SoleVoting": 0,
       "SharedVoting": 4030765,
       "NonVoting": 0,
@@ -39,22 +43,9 @@
       "Cusip": "83444M101",
       "Ticker": "SOLV",
       "SharesPrnAmount": 8236753,
-      "Value": 652680308,
+      "Value": 537859971,
       "SoleVoting": 0,
       "SharedVoting": 8236753,
-      "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
-    },
-    {
-      "Issuer": "Wendys Co.",
-      "Class": "COM",
-      "Cusip": "95058W100",
-      "Ticker": "WEN",
-      "SharesPrnAmount": 30440318,
-      "Value": 253567849,
-      "SoleVoting": 0,
-      "SharedVoting": 30440318,
       "NonVoting": 0,
       "Type": "Shares",
       "PutCall": ""
@@ -65,9 +56,22 @@
       "Cusip": "G3421J106",
       "Ticker": "FERGXXXX",
       "SharesPrnAmount": 1086357,
-      "Value": 241855659,
+      "Value": 253403634,
       "SoleVoting": 0,
       "SharedVoting": 1086357,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Wendys Co.",
+      "Class": "COM",
+      "Cusip": "95058W100",
+      "Ticker": "WEN",
+      "SharesPrnAmount": 30446022,
+      "Value": 211599853,
+      "SoleVoting": 0,
+      "SharedVoting": 30446022,
       "NonVoting": 0,
       "Type": "Shares",
       "PutCall": ""
@@ -78,9 +82,22 @@
       "Cusip": "G491BT108",
       "Ticker": "IVZ",
       "SharesPrnAmount": 2970944,
-      "Value": 78046699,
+      "Value": 72164230,
       "SoleVoting": 0,
       "SharedVoting": 2970944,
+      "NonVoting": 0,
+      "Type": "Shares",
+      "PutCall": ""
+    },
+    {
+      "Issuer": "Magnum Ice Cream Co NV",
+      "Class": "ORD SHS",
+      "Cusip": "N5505D105",
+      "Ticker": "MICC",
+      "SharesPrnAmount": 241042,
+      "Value": 3603578,
+      "SoleVoting": 0,
+      "SharedVoting": 241042,
       "NonVoting": 0,
       "Type": "Shares",
       "PutCall": ""
@@ -91,7 +108,7 @@
       "Cusip": "36266G107",
       "Ticker": "GEHC",
       "SharesPrnAmount": 4044,
-      "Value": 331689,
+      "Value": 287852,
       "SoleVoting": 0,
       "SharedVoting": 4044,
       "NonVoting": 0,
@@ -99,5 +116,5 @@
       "PutCall": ""
     }
   ],
-  "updated_at": "2026-05-11T10:26:34.007974"
+  "updated_at": "2026-05-16T03:28:57.905653"
 }
