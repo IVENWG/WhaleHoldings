@@ -16,1054 +16,1054 @@
       "Class": "COM",
       "Cusip": "718172109",
       "Ticker": "PM",
+      "PutCall": "",
       "SharesPrnAmount": 50105900,
       "Value": 8284512197,
       "SoleVoting": 48160933,
       "SharedVoting": 0,
       "NonVoting": 1944967,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ENBRIDGE INC",
       "Class": "COM",
       "Cusip": "29250N105",
       "Ticker": "ENB",
+      "PutCall": "",
       "SharesPrnAmount": 76426780,
       "Value": 4130317976,
       "SoleVoting": 73202136,
       "SharedVoting": 0,
       "NonVoting": 3224644,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CHUBB LTD SWITZ",
       "Class": "COM",
       "Cusip": "H1467J104",
       "Ticker": "CB",
+      "PutCall": "",
       "SharesPrnAmount": 12418796,
       "Value": 4047660035,
       "SoleVoting": 11954557,
       "SharedVoting": 0,
       "NonVoting": 464239,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PETROLEO BRASILEIRO S A",
       "Class": "SPONSORED ADR",
       "Cusip": "71654V408",
       "Ticker": "PBR",
+      "PutCall": "",
       "SharesPrnAmount": 173440105,
       "Value": 3598882238,
       "SoleVoting": 156363755,
       "SharedVoting": 0,
       "NonVoting": 17076350,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AT&T INC",
       "Class": "COM",
       "Cusip": "00206R102",
       "Ticker": "T",
+      "PutCall": "",
       "SharesPrnAmount": 81353084,
       "Value": 2358426148,
       "SoleVoting": 75393524,
       "SharedVoting": 0,
       "NonVoting": 5959560,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VERIZON COMMUNICATIONS INC",
       "Class": "COM",
       "Cusip": "92343V104",
       "Ticker": "VZ",
+      "PutCall": "",
       "SharesPrnAmount": 45714595,
       "Value": 2294873367,
       "SoleVoting": 42248530,
       "SharedVoting": 0,
       "NonVoting": 3466065,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CHEVRON CORPORATION",
       "Class": "COM",
       "Cusip": "166764100",
       "Ticker": "CVX",
+      "PutCall": "",
       "SharesPrnAmount": 10266187,
       "Value": 2124078498,
       "SoleVoting": 9693097,
       "SharedVoting": 0,
       "NonVoting": 573090,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ICICI BANK LIMITED",
       "Class": "ADR",
       "Cusip": "45104G104",
       "Ticker": "IBN",
+      "PutCall": "",
       "SharesPrnAmount": 77366552,
       "Value": 2003793746,
       "SoleVoting": 71847956,
       "SharedVoting": 0,
       "NonVoting": 5518596,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMERICAN ELEC PWR CO INC",
       "Class": "COM",
       "Cusip": "025537101",
       "Ticker": "AEP",
+      "PutCall": "",
       "SharesPrnAmount": 15025884,
       "Value": 1969595479,
       "SoleVoting": 13899574,
       "SharedVoting": 0,
       "NonVoting": 1126310,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PROGRESSIVE CORP",
       "Class": "COM",
       "Cusip": "743315103",
       "Ticker": "PGR",
+      "PutCall": "",
       "SharesPrnAmount": 9138940,
       "Value": 1811707478,
       "SoleVoting": 8463314,
       "SharedVoting": 0,
       "NonVoting": 675626,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "JOHNSON & JOHNSON",
       "Class": "COM",
       "Cusip": "478160104",
       "Ticker": "JNJ",
+      "PutCall": "",
       "SharesPrnAmount": 7317289,
       "Value": 1788642935,
       "SoleVoting": 6771090,
       "SharedVoting": 0,
       "NonVoting": 546199,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BRITISH AMERN TOB PLC",
       "Class": "SPONSORED ADR",
       "Cusip": "110448107",
       "Ticker": "BTI",
+      "PutCall": "",
       "SharesPrnAmount": 27683334,
       "Value": 1618644764,
       "SoleVoting": 26357241,
       "SharedVoting": 0,
       "NonVoting": 1326093,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "COCA COLA CO",
       "Class": "COM",
       "Cusip": "191216100",
       "Ticker": "KO",
+      "PutCall": "",
       "SharesPrnAmount": 21119167,
       "Value": 1606113990,
       "SoleVoting": 19143401,
       "SharedVoting": 0,
       "NonVoting": 1975766,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "THE CIGNA GROUP",
       "Class": "COM",
       "Cusip": "125523100",
       "Ticker": "CI",
+      "PutCall": "",
       "SharesPrnAmount": 6002448,
       "Value": 1601158761,
       "SoleVoting": 5573575,
       "SharedVoting": 0,
       "NonVoting": 428873,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALTRIA GROUP INC",
       "Class": "COM",
       "Cusip": "02209S103",
       "Ticker": "MO",
+      "PutCall": "",
       "SharesPrnAmount": 23836839,
       "Value": 1572994195,
       "SoleVoting": 21957815,
       "SharedVoting": 0,
       "NonVoting": 1879024,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALLSTATE CORP",
       "Class": "COM",
       "Cusip": "020002101",
       "Ticker": "ALL",
+      "PutCall": "",
       "SharesPrnAmount": 5761603,
       "Value": 1194615277,
       "SoleVoting": 5282101,
       "SharedVoting": 0,
       "NonVoting": 479502,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "OCCIDENTAL PETE CORP",
       "Class": "COM",
       "Cusip": "674599105",
       "Ticker": "OXY",
+      "PutCall": "",
       "SharesPrnAmount": 18311639,
       "Value": 1190257845,
       "SoleVoting": 17261049,
       "SharedVoting": 0,
       "NonVoting": 1050590,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SUNCOR ENERGY INC NEW",
       "Class": "COM",
       "Cusip": "867224107",
       "Ticker": "SU",
+      "PutCall": "",
       "SharesPrnAmount": 17218819,
       "Value": 1135259064,
       "SoleVoting": 16422744,
       "SharedVoting": 0,
       "NonVoting": 796075,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EXXON MOBIL CORP",
       "Class": "COM",
       "Cusip": "30231G102",
       "Ticker": "XOM",
+      "PutCall": "",
       "SharesPrnAmount": 6663103,
       "Value": 1130464761,
       "SoleVoting": 6132791,
       "SharedVoting": 0,
       "NonVoting": 530312,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EXELON CORP",
       "Class": "COM",
       "Cusip": "30161N101",
       "Ticker": "EXC",
+      "PutCall": "",
       "SharesPrnAmount": 22278201,
       "Value": 1092078338,
       "SoleVoting": 20796651,
       "SharedVoting": 0,
       "NonVoting": 1481550,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TC ENERGY CORP",
       "Class": "COM",
       "Cusip": "87807B107",
       "Ticker": "TRP",
+      "PutCall": "",
       "SharesPrnAmount": 16946570,
       "Value": 1057816356,
       "SoleVoting": 16050643,
       "SharedVoting": 0,
       "NonVoting": 895927,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "DUKE ENERGY CORP NEW",
       "Class": "COM NEW",
       "Cusip": "26441C204",
       "Ticker": "DUK",
+      "PutCall": "",
       "SharesPrnAmount": 7802463,
       "Value": 1021657201,
       "SoleVoting": 7094193,
       "SharedVoting": 0,
       "NonVoting": 708270,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "KROGER CO",
       "Class": "COM",
       "Cusip": "501044101",
       "Ticker": "KR",
+      "PutCall": "",
       "SharesPrnAmount": 12737042,
       "Value": 921653793,
       "SoleVoting": 11759910,
       "SharedVoting": 0,
       "NonVoting": 977132,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BERKSHIRE HATHAWAY INC DEL",
       "Class": "CL B NEW",
       "Cusip": "084670702",
       "Ticker": "BRKB",
+      "PutCall": "",
       "SharesPrnAmount": 1896646,
       "Value": 908882953,
       "SoleVoting": 1774134,
       "SharedVoting": 0,
       "NonVoting": 122512,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "XCEL ENERGY INC",
       "Class": "COM",
       "Cusip": "98389B100",
       "Ticker": "XEL",
+      "PutCall": "",
       "SharesPrnAmount": 11193162,
       "Value": 889186422,
       "SoleVoting": 10198543,
       "SharedVoting": 0,
       "NonVoting": 994619,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMERICAN WTR WKS CO INC NEW",
       "Class": "COM",
       "Cusip": "030420103",
       "Ticker": "AWK",
+      "PutCall": "",
       "SharesPrnAmount": 6431056,
       "Value": 875205303,
       "SoleVoting": 5948587,
       "SharedVoting": 0,
       "NonVoting": 482469,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NEXTERA ENERGY INC",
       "Class": "COM",
       "Cusip": "65339F101",
       "Ticker": "NEE",
+      "PutCall": "",
       "SharesPrnAmount": 9258727,
       "Value": 859952359,
       "SoleVoting": 8515603,
       "SharedVoting": 0,
       "NonVoting": 743124,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CANADIAN NAT RES LTD MED TER",
       "Class": "COM",
       "Cusip": "136385101",
       "Ticker": "CNQ",
+      "PutCall": "",
       "SharesPrnAmount": 17555471,
       "Value": 853652499,
       "SoleVoting": 17151935,
       "SharedVoting": 0,
       "NonVoting": 403536,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "HDFC BANK LTD",
       "Class": "SPONSORED ADS",
       "Cusip": "40415F101",
       "Ticker": "HDB",
+      "PutCall": "",
       "SharesPrnAmount": 34095946,
       "Value": 848307136,
       "SoleVoting": 31419644,
       "SharedVoting": 0,
       "NonVoting": 2676302,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "DEVON ENERGY CORP NEW",
       "Class": "COM",
       "Cusip": "25179M103",
       "Ticker": "DVN",
+      "PutCall": "",
       "SharesPrnAmount": 16170345,
       "Value": 813692707,
       "SoleVoting": 14943840,
       "SharedVoting": 0,
       "NonVoting": 1226505,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMERICAN INTL GROUP INC",
       "Class": "COM NEW",
       "Cusip": "026874784",
       "Ticker": "AIG",
+      "PutCall": "",
       "SharesPrnAmount": 10587437,
       "Value": 796706245,
       "SoleVoting": 9693287,
       "SharedVoting": 0,
       "NonVoting": 894150,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CME GROUP INC",
       "Class": "COM",
       "Cusip": "12572Q105",
       "Ticker": "CME",
+      "PutCall": "",
       "SharesPrnAmount": 2625795,
       "Value": 775534502,
       "SoleVoting": 2422105,
       "SharedVoting": 0,
       "NonVoting": 203690,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CENOVUS ENERGY INC",
       "Class": "COM",
       "Cusip": "15135U109",
       "Ticker": "CVE",
+      "PutCall": "",
       "SharesPrnAmount": 26774463,
       "Value": 708332323,
       "SoleVoting": 26181465,
       "SharedVoting": 0,
       "NonVoting": 592998,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ITAU UNIBANCO HLDG S A",
       "Class": "SPON ADR REP PFD",
       "Cusip": "465562106",
       "Ticker": "ITUB",
+      "PutCall": "",
       "SharesPrnAmount": 81646220,
       "Value": 684195330,
       "SoleVoting": 69307642,
       "SharedVoting": 0,
       "NonVoting": 12338578,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMBEV SA",
       "Class": "SPONSORED ADR",
       "Cusip": "02319V103",
       "Ticker": "ABEV",
+      "PutCall": "",
       "SharesPrnAmount": 187037538,
       "Value": 546149611,
       "SoleVoting": 167075163,
       "SharedVoting": 0,
       "NonVoting": 19962375,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "UNILEVER PLC",
       "Class": "SPON ADR NEW",
       "Cusip": "904767803",
       "Ticker": "UL",
+      "PutCall": "",
       "SharesPrnAmount": 9401286,
       "Value": 535591257,
       "SoleVoting": 8703576,
       "SharedVoting": 0,
       "NonVoting": 697710,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NOVARTIS AG",
       "Class": "SPONSORED ADR",
       "Cusip": "66987V109",
       "Ticker": "NVS",
+      "PutCall": "",
       "SharesPrnAmount": 2447272,
       "Value": 373824036,
       "SoleVoting": 2364931,
       "SharedVoting": 0,
       "NonVoting": 82341,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EMBRAER S.A.",
       "Class": "SPONSORED ADS",
       "Cusip": "29082A107",
       "Ticker": "EMBJ",
+      "PutCall": "",
       "SharesPrnAmount": 6073854,
       "Value": 360422496,
       "SoleVoting": 5424228,
       "SharedVoting": 0,
       "NonVoting": 649626,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CMS ENERGY CORP",
       "Class": "COM",
       "Cusip": "125896100",
       "Ticker": "CMS",
+      "PutCall": "",
       "SharesPrnAmount": 4412573,
       "Value": 342327877,
       "SoleVoting": 3974255,
       "SharedVoting": 0,
       "NonVoting": 438318,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "FRANCO NEV CORP",
       "Class": "COM",
       "Cusip": "351858105",
       "Ticker": "FNV",
+      "PutCall": "",
       "SharesPrnAmount": 1166853,
       "Value": 288003119,
       "SoleVoting": 1139460,
       "SharedVoting": 0,
       "NonVoting": 27393,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VALE S A",
       "Class": "SPONSORED ADS",
       "Cusip": "91912E105",
       "Ticker": "VALE",
+      "PutCall": "",
       "SharesPrnAmount": 16574442,
       "Value": 263699372,
       "SoleVoting": 14696176,
       "SharedVoting": 0,
       "NonVoting": 1878266,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BP PLC",
       "Class": "SPONSORED ADR",
       "Cusip": "055622104",
       "Ticker": "BP",
+      "PutCall": "",
       "SharesPrnAmount": 5462538,
       "Value": 256739990,
       "SoleVoting": 5322526,
       "SharedVoting": 0,
       "NonVoting": 140012,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CINCINNATI FINL CORP",
       "Class": "COM",
       "Cusip": "172062101",
       "Ticker": "CINF",
+      "PutCall": "",
       "SharesPrnAmount": 1518318,
       "Value": 238909962,
       "SoleVoting": 1479819,
       "SharedVoting": 0,
       "NonVoting": 38499,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CENTERPOINT ENERGY INC",
       "Class": "COM",
       "Cusip": "15189T107",
       "Ticker": "CNP",
+      "PutCall": "",
       "SharesPrnAmount": 4741580,
       "Value": 204647168,
       "SoleVoting": 4618194,
       "SharedVoting": 0,
       "NonVoting": 123386,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PEPSICO INC",
       "Class": "COM",
       "Cusip": "713448108",
       "Ticker": "PEP",
+      "PutCall": "",
       "SharesPrnAmount": 1061310,
       "Value": 164813290,
       "SoleVoting": 1034006,
       "SharedVoting": 0,
       "NonVoting": 27304,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ATMOS ENERGY CORP",
       "Class": "COM",
       "Cusip": "049560105",
       "Ticker": "ATO",
+      "PutCall": "",
       "SharesPrnAmount": 887204,
       "Value": 163887510,
       "SoleVoting": 866081,
       "SharedVoting": 0,
       "NonVoting": 21123,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ARCH CAP GROUP LTD",
       "Class": "ORD",
       "Cusip": "G0450A105",
       "Ticker": "ACGL",
+      "PutCall": "",
       "SharesPrnAmount": 1646026,
       "Value": 158002036,
       "SoleVoting": 1492078,
       "SharedVoting": 0,
       "NonVoting": 153948,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "RENAISSANCERE HLDGS LTD",
       "Class": "COM",
       "Cusip": "G7496G103",
       "Ticker": "RNR",
+      "PutCall": "",
       "SharesPrnAmount": 502346,
       "Value": 149317569,
       "SoleVoting": 489422,
       "SharedVoting": 0,
       "NonVoting": 12924,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "OLD REP INTL CORP",
       "Class": "COM",
       "Cusip": "680223104",
       "Ticker": "ORI",
+      "PutCall": "",
       "SharesPrnAmount": 3532203,
       "Value": 140935500,
       "SoleVoting": 3440445,
       "SharedVoting": 0,
       "NonVoting": 91758,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GRUPO AEROPORTUARIO DEL SURE",
       "Class": "SPON ADR SER B",
       "Cusip": "40051E202",
       "Ticker": "ASR",
+      "PutCall": "",
       "SharesPrnAmount": 366108,
       "Value": 123059882,
       "SoleVoting": 324835,
       "SharedVoting": 0,
       "NonVoting": 41273,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
       "Class": "SPONSORED ADS",
       "Cusip": "874039100",
       "Ticker": "TSM",
+      "PutCall": "",
       "SharesPrnAmount": 176817,
       "Value": 59755405,
       "SoleVoting": 1369,
       "SharedVoting": 0,
       "NonVoting": 175448,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CREDICORP LTD",
       "Class": "COM",
       "Cusip": "G2519Y108",
       "Ticker": "BAP",
+      "PutCall": "",
       "SharesPrnAmount": 72991,
       "Value": 24757087,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 72991,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TOTALENERGIES SE",
       "Class": "ACT",
       "Cusip": "F92124100",
       "Ticker": "TTE",
+      "PutCall": "",
       "SharesPrnAmount": 242809,
       "Value": 22354038,
       "SoleVoting": 240880,
       "SharedVoting": 0,
       "NonVoting": 1929,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ENI SPA",
       "Class": "SPONSORED ADR",
       "Cusip": "26874R108",
       "Ticker": "E",
+      "PutCall": "",
       "SharesPrnAmount": 300743,
       "Value": 17025357,
       "SoleVoting": 297439,
       "SharedVoting": 0,
       "NonVoting": 3304,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PROCTER & GAMBLE CO",
       "Class": "COM",
       "Cusip": "742718109",
       "Ticker": "PG",
+      "PutCall": "",
       "SharesPrnAmount": 96492,
       "Value": 13937333,
       "SoleVoting": 96297,
       "SharedVoting": 0,
       "NonVoting": 195,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PPL CORP",
       "Class": "COM",
       "Cusip": "69351T106",
       "Ticker": "PPL",
+      "PutCall": "",
       "SharesPrnAmount": 345965,
       "Value": 13215848,
       "SoleVoting": 345348,
       "SharedVoting": 0,
       "NonVoting": 617,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ASTRAZENECA PLC",
       "Class": "ORD",
       "Cusip": "G0593M107",
       "Ticker": "AZN",
+      "PutCall": "",
       "SharesPrnAmount": 45524,
       "Value": 8872935,
       "SoleVoting": 45015,
       "SharedVoting": 0,
       "NonVoting": 509,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VALERO ENERGY CORP",
       "Class": "COM",
       "Cusip": "91913Y100",
       "Ticker": "VLO",
+      "PutCall": "",
       "SharesPrnAmount": 33912,
       "Value": 8378977,
       "SoleVoting": 33762,
       "SharedVoting": 0,
       "NonVoting": 150,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SANOFI SA",
       "Class": "SPONSORED ADR",
       "Cusip": "80105N105",
       "Ticker": "SNY",
+      "PutCall": "",
       "SharesPrnAmount": 164705,
       "Value": 7935731,
       "SoleVoting": 163485,
       "SharedVoting": 0,
       "NonVoting": 1220,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MERCK & CO INC",
       "Class": "COM",
       "Cusip": "58933Y105",
       "Ticker": "MRK",
+      "PutCall": "",
       "SharesPrnAmount": 53016,
       "Value": 6377294,
       "SoleVoting": 52778,
       "SharedVoting": 0,
       "NonVoting": 238,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "STATE STR SPDR S&P 500 ETF T",
       "Class": "TR UNIT",
       "Cusip": "78462F103",
       "Ticker": "SPY",
+      "PutCall": "",
       "SharesPrnAmount": 9385,
       "Value": 6105380,
       "SoleVoting": 9385,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SOUTHERN CO",
       "Class": "COM",
       "Cusip": "842587107",
       "Ticker": "SO",
+      "PutCall": "",
       "SharesPrnAmount": 53702,
       "Value": 5183318,
       "SoleVoting": 53461,
       "SharedVoting": 0,
       "NonVoting": 241,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ISHARES TR",
       "Class": "MSCI ACWI ETF",
       "Cusip": "464288257",
       "Ticker": "ACWI",
+      "PutCall": "",
       "SharesPrnAmount": 26342,
       "Value": 3645136,
       "SoleVoting": 26322,
       "SharedVoting": 0,
       "NonVoting": 20,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BRISTOL-MYERS SQUIBB CO",
       "Class": "COM",
       "Cusip": "110122108",
       "Ticker": "BMY",
+      "PutCall": "",
       "SharesPrnAmount": 46361,
       "Value": 2811794,
       "SoleVoting": 46257,
       "SharedVoting": 0,
       "NonVoting": 104,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "PFIZER INC",
       "Class": "COM",
       "Cusip": "717081103",
       "Ticker": "PFE",
+      "PutCall": "",
       "SharesPrnAmount": 96492,
       "Value": 2709495,
       "SoleVoting": 96068,
       "SharedVoting": 0,
       "NonVoting": 424,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CVS HEALTH CORP",
       "Class": "COM",
       "Cusip": "126650100",
       "Ticker": "CVS",
+      "PutCall": "",
       "SharesPrnAmount": 31523,
       "Value": 2263982,
       "SoleVoting": 31386,
       "SharedVoting": 0,
       "NonVoting": 137,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SPDR GOLD TR",
       "Class": "GOLD SHS",
       "Cusip": "78463V107",
       "Ticker": "GLD",
+      "PutCall": "",
       "SharesPrnAmount": 2763,
       "Value": 1188891,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 2763,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "APPLOVIN CORP",
       "Class": "COM CL A",
       "Cusip": "03831W108",
       "Ticker": "APP",
+      "PutCall": "",
       "SharesPrnAmount": 1867,
       "Value": 743077,
       "SoleVoting": 1867,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "WALMART INC",
       "Class": "COM",
       "Cusip": "931142103",
       "Ticker": "WMT",
+      "PutCall": "",
       "SharesPrnAmount": 5394,
       "Value": 670320,
       "SoleVoting": 5394,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SHELL PLC",
       "Class": "SPON ADS",
       "Cusip": "780259305",
       "Ticker": "SHEL",
+      "PutCall": "",
       "SharesPrnAmount": 6001,
       "Value": 558123,
       "SoleVoting": 6001,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NVIDIA CORPORATION",
       "Class": "COM",
       "Cusip": "67066G104",
       "Ticker": "NVDA",
+      "PutCall": "",
       "SharesPrnAmount": 2984,
       "Value": 520394,
       "SoleVoting": 2984,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NATIONAL GRID PLC",
       "Class": "SPONSORED ADR NE",
       "Cusip": "636274409",
       "Ticker": "NGG",
+      "PutCall": "",
       "SharesPrnAmount": 5914,
       "Value": 500324,
       "SoleVoting": 5914,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ROYAL BK CDA",
       "Class": "COM",
       "Cusip": "780087102",
       "Ticker": "RY",
+      "PutCall": "",
       "SharesPrnAmount": 3059,
       "Value": 494885,
       "SoleVoting": 3059,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ANHEUSER BUSCH INBEV SA NV",
       "Class": "SPONSORED ADR",
       "Cusip": "03524A108",
       "Ticker": "BUD",
+      "PutCall": "",
       "SharesPrnAmount": 6792,
       "Value": 471169,
       "SoleVoting": 6792,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ISHARES TR",
       "Class": "RUS 1000 ETF",
       "Cusip": "464287622",
       "Ticker": "IWB",
+      "PutCall": "",
       "SharesPrnAmount": 1110,
       "Value": 395913,
       "SoleVoting": 1110,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VISA INC",
       "Class": "COM CL A",
       "Cusip": "92826C839",
       "Ticker": "V",
+      "PutCall": "",
       "SharesPrnAmount": 1236,
       "Value": 373629,
       "SoleVoting": 1236,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CENTRAIS ELET BRAS SA",
       "Class": "SPONSORED ADR",
       "Cusip": "15234Q207",
       "Ticker": "AXIA",
+      "PutCall": "",
       "SharesPrnAmount": 27986,
       "Value": 315682,
       "SoleVoting": 27986,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMAZON COM INC",
       "Class": "COM",
       "Cusip": "023135106",
       "Ticker": "AMZN",
+      "PutCall": "",
       "SharesPrnAmount": 1434,
       "Value": 298765,
       "SoleVoting": 1434,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VANGUARD INDEX FDS",
       "Class": "LARGE CAP ETF",
       "Cusip": "922908637",
       "Ticker": "VV",
+      "PutCall": "",
       "SharesPrnAmount": 846,
       "Value": 252978,
       "SoleVoting": 846,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GOLDMAN SACHS GROUP INC",
       "Class": "COM",
       "Cusip": "38141G104",
       "Ticker": "GS",
+      "PutCall": "",
       "SharesPrnAmount": 298,
       "Value": 251926,
       "SoleVoting": 298,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALPHABET INC",
       "Class": "CAP STK CL C",
       "Cusip": "02079K107",
       "Ticker": "GOOG",
+      "PutCall": "",
       "SharesPrnAmount": 706,
       "Value": 202532,
       "SoleVoting": 706,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:43.566459"
+  "updated_at": "2026-05-30T03:41:11.288993"
 }

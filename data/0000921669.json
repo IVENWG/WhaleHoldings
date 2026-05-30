@@ -16,157 +16,157 @@
       "Class": "DEPOSITARY UNIT",
       "Cusip": "451100101",
       "Ticker": "IEP",
+      "PutCall": "",
       "SharesPrnAmount": 549400539,
       "Value": 4147974070,
       "SoleVoting": 0,
       "SharedVoting": 549400539,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CVR Energy Inc",
       "Class": "COM",
       "Cusip": "12662P108",
       "Ticker": "CVI",
+      "PutCall": "",
       "SharesPrnAmount": 71201875,
       "Value": 2395943093,
       "SoleVoting": 0,
       "SharedVoting": 71201875,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CVR Partners, LP",
       "Class": "COM",
       "Cusip": "126633205",
       "Ticker": "UAN",
+      "PutCall": "",
       "SharesPrnAmount": 4164274,
       "Value": 527488588,
       "SoleVoting": 0,
       "SharedVoting": 4164274,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Centuri Holdings, Inc.",
       "Class": "COM SHS",
       "Cusip": "155923105",
       "Ticker": "CTRI",
+      "PutCall": "",
       "SharesPrnAmount": 14336044,
       "Value": 418755845,
       "SoleVoting": 0,
       "SharedVoting": 14336044,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "International Flavors and Fragrances Inc.",
       "Class": "COM",
       "Cusip": "459506101",
       "Ticker": "IFF",
+      "PutCall": "",
       "SharesPrnAmount": 4275000,
       "Value": 310151250,
       "SoleVoting": 0,
       "SharedVoting": 4275000,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EchoStar Corporation",
       "Class": "CL A",
       "Cusip": "278768106",
       "Ticker": "SATS",
+      "PutCall": "",
       "SharesPrnAmount": 1404542,
       "Value": 164429732,
       "SoleVoting": 0,
       "SharedVoting": 1404542,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "American Electric Power Company",
       "Class": "COM",
       "Cusip": "025537101",
       "Ticker": "AEP",
+      "PutCall": "",
       "SharesPrnAmount": 1205300,
       "Value": 157990724,
       "SoleVoting": 0,
       "SharedVoting": 1205300,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "JetBlue Airways Corp.",
       "Class": "COM",
       "Cusip": "477143101",
       "Ticker": "JBLU",
+      "PutCall": "",
       "SharesPrnAmount": 33621735,
       "Value": 148608069,
       "SoleVoting": 0,
       "SharedVoting": 33621735,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Monro, Inc.",
       "Class": "COM",
       "Cusip": "610236101",
       "Ticker": "MNRO",
+      "PutCall": "",
       "SharesPrnAmount": 5078573,
       "Value": 81460311,
       "SoleVoting": 0,
       "SharedVoting": 5078573,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SandRidge Energy, Inc.",
       "Class": "COM NEW",
       "Cusip": "80007P869",
       "Ticker": "SD",
+      "PutCall": "",
       "SharesPrnAmount": 4947701,
       "Value": 80697003,
       "SoleVoting": 0,
       "SharedVoting": 4947701,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Caesars Entertainment, Inc.",
       "Class": "COM",
       "Cusip": "12769G100",
       "Ticker": "CZR",
+      "PutCall": "",
       "SharesPrnAmount": 2440109,
       "Value": 64492081,
       "SoleVoting": 0,
       "SharedVoting": 2440109,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Bausch Plus Lomb Corp.",
       "Class": "COMMON SHARES",
       "Cusip": "071705107",
       "Ticker": "BLCO",
+      "PutCall": "",
       "SharesPrnAmount": 3500000,
       "Value": 55650000,
       "SoleVoting": 0,
       "SharedVoting": 3500000,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:41.351389"
+  "updated_at": "2026-05-30T03:41:09.056155"
 }

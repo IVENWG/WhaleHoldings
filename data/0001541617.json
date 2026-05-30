@@ -16,170 +16,170 @@
       "Class": "COM",
       "Cusip": "67066G104",
       "Ticker": "NVDA",
+      "PutCall": "",
       "SharesPrnAmount": 9336039,
       "Value": 1628205202,
       "SoleVoting": 7817016,
       "SharedVoting": 0,
       "NonVoting": 1519023,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "META PLATFORMS INC",
       "Class": "CL A",
       "Cusip": "30303M102",
       "Ticker": "META",
+      "PutCall": "",
       "SharesPrnAmount": 1953373,
       "Value": 1117583294,
       "SoleVoting": 1866818,
       "SharedVoting": 0,
       "NonVoting": 86555,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "UBER TECHNOLOGIES INC",
       "Class": "COM",
       "Cusip": "90353T100",
       "Ticker": "UBER",
+      "PutCall": "",
       "SharesPrnAmount": 7971772,
       "Value": 573409561,
       "SoleVoting": 6324422,
       "SharedVoting": 0,
       "NonVoting": 1647350,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
       "Class": "SPONSORED ADS",
       "Cusip": "874039100",
       "Ticker": "TSM",
+      "PutCall": "",
       "SharesPrnAmount": 1365675,
       "Value": 461529866,
       "SoleVoting": 1011475,
       "SharedVoting": 0,
       "NonVoting": 354200,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MICROSOFT CORP",
       "Class": "COM",
       "Cusip": "594918104",
       "Ticker": "MSFT",
+      "PutCall": "",
       "SharesPrnAmount": 1183632,
       "Value": 438145057,
       "SoleVoting": 1183632,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMAZON COM INC",
       "Class": "COM",
       "Cusip": "023135106",
       "Ticker": "AMZN",
+      "PutCall": "",
       "SharesPrnAmount": 2089558,
       "Value": 435192245,
       "SoleVoting": 1843248,
       "SharedVoting": 0,
       "NonVoting": 246310,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "COREWEAVE INC",
       "Class": "COM CL A",
       "Cusip": "21873S108",
       "Ticker": "CRWV",
+      "PutCall": "",
       "SharesPrnAmount": 4499075,
       "Value": 348543341,
       "SoleVoting": 3243580,
       "SharedVoting": 0,
       "NonVoting": 1255495,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SNOWFLAKE INC",
       "Class": "COM SHS",
       "Cusip": "833445109",
       "Ticker": "SNOW",
+      "PutCall": "",
       "SharesPrnAmount": 1926250,
       "Value": 290517025,
       "SoleVoting": 1926250,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ARM HOLDINGS PLC",
       "Class": "SPONSORED ADS",
       "Cusip": "042068205",
       "Ticker": "ARM",
+      "PutCall": "",
       "SharesPrnAmount": 1715440,
       "Value": 259511763,
       "SoleVoting": 1278930,
       "SharedVoting": 0,
       "NonVoting": 436510,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AXON ENTERPRISE INC",
       "Class": "COM",
       "Cusip": "05464C101",
       "Ticker": "AXON",
+      "PutCall": "",
       "SharesPrnAmount": 148986,
       "Value": 63272864,
       "SoleVoting": 148986,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ROBINHOOD MKTS INC",
       "Class": "COM CL A",
       "Cusip": "770700102",
       "Ticker": "HOOD",
+      "PutCall": "",
       "SharesPrnAmount": 899691,
       "Value": 62348586,
       "SoleVoting": 899691,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BROADCOM INC",
       "Class": "COM",
       "Cusip": "11135F101",
       "Ticker": "AVGO",
+      "PutCall": "",
       "SharesPrnAmount": 67094,
       "Value": 20766265,
       "SoleVoting": 52740,
       "SharedVoting": 0,
       "NonVoting": 14354,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GRAB HOLDINGS LIMITED",
       "Class": "W EXP 12/1/202",
       "Cusip": "G0370L116",
       "Ticker": "AGCWW",
+      "PutCall": "",
       "SharesPrnAmount": 3502000,
       "Value": 262650,
       "SoleVoting": 3502000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:39.769865"
+  "updated_at": "2026-05-30T03:41:07.805094"
 }

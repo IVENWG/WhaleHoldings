@@ -16,170 +16,170 @@
       "Class": "COM",
       "Cusip": "31846B108",
       "Ticker": "FA",
+      "PutCall": "",
       "SharesPrnAmount": 89557840,
       "Value": 1053200198,
       "SoleVoting": 0,
       "SharedVoting": 89557840,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EVERCOMMERCE INC",
       "Class": "COM",
       "Cusip": "29977X105",
       "Ticker": "EVCM",
+      "PutCall": "",
       "SharesPrnAmount": 67085136,
       "Value": 766783104,
       "SoleVoting": 6256096,
       "SharedVoting": 60829040,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "UNITY SOFTWARE INC",
       "Class": "COM",
       "Cusip": "91332U101",
       "Ticker": "U",
+      "PutCall": "",
       "SharesPrnAmount": 34735404,
       "Value": 762094764,
       "SoleVoting": 0,
       "SharedVoting": 34735404,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MADISON SQUARE GRDN SPRT COR",
       "Class": "CL A",
       "Cusip": "55825T103",
       "Ticker": "MSGS",
+      "PutCall": "",
       "SharesPrnAmount": 1899962,
       "Value": 610647787,
       "SoleVoting": 0,
       "SharedVoting": 1899962,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "N-ABLE INC",
       "Class": "COMMON STOCK",
       "Cusip": "62878D100",
       "Ticker": "NABL",
+      "PutCall": "",
       "SharesPrnAmount": 61473869,
       "Value": 287082968,
       "SoleVoting": 0,
       "SharedVoting": 61473869,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "KLARNA GROUP PLC",
       "Class": "SHS",
       "Cusip": "G5279N105",
       "Ticker": "KLAR",
+      "PutCall": "",
       "SharesPrnAmount": 14470343,
       "Value": 189416790,
       "SoleVoting": 0,
       "SharedVoting": 14470343,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GOODRX HLDGS INC",
       "Class": "COM CL A",
       "Cusip": "38246G108",
       "Ticker": "GDRX",
+      "PutCall": "",
       "SharesPrnAmount": 3532276,
       "Value": 6923261,
       "SoleVoting": 0,
       "SharedVoting": 3532276,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SNOWFLAKE INC",
       "Class": "CL A",
       "Cusip": "833445109",
       "Ticker": "SNOW",
+      "PutCall": "",
       "SharesPrnAmount": 9471,
       "Value": 1428416,
       "SoleVoting": 9471,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "DELL TECHNOLOGIES",
       "Class": "CL C",
       "Cusip": "24703L202",
       "Ticker": "DELL",
+      "PutCall": "",
       "SharesPrnAmount": 2928,
       "Value": 479079,
       "SoleVoting": 2928,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SIMON PROPERTY GROUP",
       "Class": "NEW COM",
       "Cusip": "828806109",
       "Ticker": "SPG",
+      "PutCall": "",
       "SharesPrnAmount": 1350,
       "Value": 251816,
       "SoleVoting": 1350,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "REALTY INCOME CORP",
       "Class": "COM",
       "Cusip": "756109104",
       "Ticker": "O",
+      "PutCall": "",
       "SharesPrnAmount": 3450,
       "Value": 210174,
       "SoleVoting": 3450,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "HEALTHPEAK PROPERTIES",
       "Class": "COM",
       "Cusip": "42250P103",
       "Ticker": "DOC",
+      "PutCall": "",
       "SharesPrnAmount": 10800,
       "Value": 176364,
       "SoleVoting": 10800,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMPLITUDE INC.",
       "Class": "CL A",
       "Cusip": "03213A104",
       "Ticker": "AMPL",
+      "PutCall": "",
       "SharesPrnAmount": 15616,
       "Value": 106501,
       "SoleVoting": 15616,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:46.939118"
+  "updated_at": "2026-05-30T03:41:14.121789"
 }

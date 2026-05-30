@@ -16,105 +16,105 @@
       "Class": "CL A",
       "Cusip": "69608A108",
       "Ticker": "PLTR",
+      "PutCall": "Put",
       "SharesPrnAmount": 5000000,
       "Value": 912100000,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": NaN
+      "Type": "Shares"
     },
     {
       "Issuer": "NVIDIA CORPORATION",
       "Class": "COM",
       "Cusip": "67066G104",
       "Ticker": "NVDA",
+      "PutCall": "Put",
       "SharesPrnAmount": 1000000,
       "Value": 186580000,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": NaN
+      "Type": "Shares"
     },
     {
       "Issuer": "PFIZER INC",
       "Class": "COM",
       "Cusip": "717081103",
       "Ticker": "PFE",
+      "PutCall": "Call",
       "SharesPrnAmount": 6000000,
       "Value": 152880000,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": NaN
+      "Type": "Shares"
     },
     {
       "Issuer": "HALLIBURTON CO",
       "Class": "COM",
       "Cusip": "406216101",
       "Ticker": "HAL",
+      "PutCall": "Call",
       "SharesPrnAmount": 2500000,
       "Value": 61500000,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": NaN
+      "Type": "Shares"
     },
     {
       "Issuer": "MOLINA HEALTHCARE INC",
       "Class": "COM",
       "Cusip": "60855R100",
       "Ticker": "MOH",
+      "PutCall": "",
       "SharesPrnAmount": 125000,
       "Value": 23920000,
       "SoleVoting": 125000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "LULULEMON ATHLETICA INC",
       "Class": "COM",
       "Cusip": "550021109",
       "Ticker": "LULU",
+      "PutCall": "",
       "SharesPrnAmount": 100000,
       "Value": 17793000,
       "SoleVoting": 100000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SLM CORP",
       "Class": "COM",
       "Cusip": "78442P106",
       "Ticker": "SLM",
+      "PutCall": "",
       "SharesPrnAmount": 480054,
       "Value": 13287895,
       "SoleVoting": 480054,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BRUKER CORP",
       "Class": "6.375 PREF SER A",
       "Cusip": "116794207",
       "Ticker": "BRKRP",
+      "PutCall": "",
       "SharesPrnAmount": 48334,
       "Value": 13137181,
       "SoleVoting": 48334,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:42.624041"
+  "updated_at": "2026-05-30T03:41:10.309783"
 }

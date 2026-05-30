@@ -16,118 +16,118 @@
       "Class": "COM",
       "Cusip": "714266103",
       "Ticker": "PPTA",
+      "PutCall": "",
       "SharesPrnAmount": 32347299,
       "Value": 909606048,
       "SoleVoting": 32347299,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MADRIGAL PHARMACEUTICALS INC",
       "Class": "COM",
       "Cusip": "558868105",
       "Ticker": "MDGL",
+      "PutCall": "",
       "SharesPrnAmount": 1392188,
       "Value": 728768652,
       "SoleVoting": 1392188,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ACADIAN ASSET MANAGEMENT INC",
       "Class": "COM",
       "Cusip": "10948W103",
       "Ticker": "AAMI",
+      "PutCall": "",
       "SharesPrnAmount": 7743282,
       "Value": 421389406,
       "SoleVoting": 7743282,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BAUSCH HEALTH COS INC",
       "Class": "COM",
       "Cusip": "071734107",
       "Ticker": "BHC",
+      "PutCall": "",
       "SharesPrnAmount": 73255869,
       "Value": 395581693,
       "SoleVoting": 73255869,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NOVAGOLD RESOURCES INC",
       "Class": "COM NEW",
       "Cusip": "66987E206",
       "Ticker": "NG",
+      "PutCall": "",
       "SharesPrnAmount": 27238061,
       "Value": 244597788,
       "SoleVoting": 27238060,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "INTERNATIONAL TOWER HILL MIN",
       "Class": "COM",
       "Cusip": "46050R102",
       "Ticker": "THM",
+      "PutCall": "",
       "SharesPrnAmount": 99573038,
       "Value": 229017987,
       "SoleVoting": 99573038,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AGNICO EAGLE MINES LTD",
       "Class": "COM",
       "Cusip": "008474108",
       "Ticker": "AEM",
+      "PutCall": "",
       "SharesPrnAmount": 783561,
       "Value": 159047212,
       "SoleVoting": 783561,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "THRYV HLDGS INC",
       "Class": "COM NEW",
       "Cusip": "886029206",
       "Ticker": "THRY",
+      "PutCall": "",
       "SharesPrnAmount": 8443835,
       "Value": 23136108,
       "SoleVoting": 8443835,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMICUS THERAPEUTIC",
       "Class": "COM",
       "Cusip": "03152W109",
       "Ticker": "FOLD",
+      "PutCall": "",
       "SharesPrnAmount": 32400,
       "Value": 468504,
       "SoleVoting": 32400,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:44.126846"
+  "updated_at": "2026-05-30T03:41:11.815812"
 }

@@ -16,235 +16,235 @@
       "Class": "COM CL A",
       "Cusip": "92826C839",
       "Ticker": "V",
+      "PutCall": "",
       "SharesPrnAmount": 2316250,
       "Value": 700063400,
       "SoleVoting": 2316250,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMAZON COM INC",
       "Class": "COM",
       "Cusip": "023135106",
       "Ticker": "AMZN",
+      "PutCall": "",
       "SharesPrnAmount": 2884600,
       "Value": 600775642,
       "SoleVoting": 2884600,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SALESFORCE INC",
       "Class": "COM",
       "Cusip": "79466L302",
       "Ticker": "CRM",
+      "PutCall": "",
       "SharesPrnAmount": 2994509,
       "Value": 558984995,
       "SoleVoting": 2994509,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "BLACKROCK INC",
       "Class": "COM",
       "Cusip": "09290D101",
       "Ticker": "BLK",
+      "PutCall": "",
       "SharesPrnAmount": 546100,
       "Value": 525189831,
       "SoleVoting": 546100,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "META PLATFORMS INC",
       "Class": "CL A",
       "Cusip": "30303M102",
       "Ticker": "META",
+      "PutCall": "",
       "SharesPrnAmount": 915674,
       "Value": 523884566,
       "SoleVoting": 915674,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ROCKET COS INC",
       "Class": "COM CL A",
       "Cusip": "77311W101",
       "Ticker": "RKT",
+      "PutCall": "",
       "SharesPrnAmount": 28214724,
       "Value": 402059817,
       "SoleVoting": 28214724,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TOAST INC",
       "Class": "CL A",
       "Cusip": "888787108",
       "Ticker": "TOST",
+      "PutCall": "",
       "SharesPrnAmount": 12895438,
       "Value": 341858061,
       "SoleVoting": 12895438,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "LIBERTY LIVE HOLDINGS INC",
       "Class": "COM SHS SER C",
       "Cusip": "530909308",
       "Ticker": "LLYVK",
+      "PutCall": "",
       "SharesPrnAmount": 3561208,
       "Value": 335145285,
       "SoleVoting": 3561208,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ROBLOX CORP",
       "Class": "CL A",
       "Cusip": "771049103",
       "Ticker": "RBLX",
+      "PutCall": "",
       "SharesPrnAmount": 5848621,
       "Value": 330798004,
       "SoleVoting": 5848621,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "KKR & CO INC",
       "Class": "COM",
       "Cusip": "48251W104",
       "Ticker": "KKR",
+      "PutCall": "",
       "SharesPrnAmount": 3279700,
       "Value": 303372250,
       "SoleVoting": 3279700,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MONGODB INC",
       "Class": "CL A",
       "Cusip": "60937P106",
       "Ticker": "MDB",
+      "PutCall": "",
       "SharesPrnAmount": 1037800,
       "Value": 254022306,
       "SoleVoting": 1037800,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SIMPSON MFG INC",
       "Class": "COM",
       "Cusip": "829073105",
       "Ticker": "SSD",
+      "PutCall": "",
       "SharesPrnAmount": 1398042,
       "Value": 239931968,
       "SoleVoting": 1398042,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "SPOTIFY TECHNOLOGY S A",
       "Class": "SHS",
       "Cusip": "L8681T102",
       "Ticker": "SPOT",
+      "PutCall": "",
       "SharesPrnAmount": 358500,
       "Value": 173840235,
       "SoleVoting": 358500,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "LIBERTY LIVE HOLDINGS INC",
       "Class": "COM SER A",
       "Cusip": "530909100",
       "Ticker": "LLYVA",
+      "PutCall": "",
       "SharesPrnAmount": 1777075,
       "Value": 162851153,
       "SoleVoting": 1777075,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "LIVE NATION ENTERTAINMENT IN",
       "Class": "COM",
       "Cusip": "538034109",
       "Ticker": "LYV",
+      "PutCall": "",
       "SharesPrnAmount": 624666,
       "Value": 95267812,
       "SoleVoting": 624666,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "WIX COM LTD",
       "Class": "SHS",
       "Cusip": "M98068105",
       "Ticker": "WIX",
+      "PutCall": "",
       "SharesPrnAmount": 1099370,
       "Value": 94069243,
       "SoleVoting": 1099370,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "DISNEY WALT CO",
       "Class": "COM",
       "Cusip": "254687106",
       "Ticker": "DIS",
+      "PutCall": "",
       "SharesPrnAmount": 400231,
       "Value": 38574264,
       "SoleVoting": 400231,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CBRE GROUP INC",
       "Class": "CL A",
       "Cusip": "12504L109",
       "Ticker": "CBRE",
+      "PutCall": "",
       "SharesPrnAmount": 234591,
       "Value": 31777697,
       "SoleVoting": 234591,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:42.027502"
+  "updated_at": "2026-05-30T03:41:09.899690"
 }

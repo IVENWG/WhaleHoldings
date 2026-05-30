@@ -16,27 +16,27 @@
       "Class": "COM",
       "Cusip": "30063P105",
       "Ticker": "EXAS",
+      "PutCall": "",
       "SharesPrnAmount": 6405000,
       "Value": 650491800,
       "SoleVoting": 6405000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AVIDITY BIOSCIENCES INC",
       "Class": "COM",
       "Cusip": "05370A108",
       "Ticker": "RNA",
+      "PutCall": "",
       "SharesPrnAmount": 3233000,
       "Value": 233196290,
       "SoleVoting": 3233000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:43.103391"
+  "updated_at": "2026-05-30T03:41:10.794234"
 }

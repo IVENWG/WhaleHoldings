@@ -16,131 +16,131 @@
       "Class": "COM NEW",
       "Cusip": "369604301",
       "Ticker": "GE",
+      "PutCall": "",
       "SharesPrnAmount": 47510431,
       "Value": 13482035005,
       "SoleVoting": 47510431,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VISA INC",
       "Class": "COM CL A",
       "Cusip": "92826C839",
       "Ticker": "V",
+      "PutCall": "",
       "SharesPrnAmount": 30468133,
       "Value": 9208688518,
       "SoleVoting": 30468133,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MOODYS CORP",
       "Class": "COM",
       "Cusip": "615369105",
       "Ticker": "MCO",
+      "PutCall": "",
       "SharesPrnAmount": 14334027,
       "Value": 6253219279,
       "SoleVoting": 14334027,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "S&P GLOBAL INC",
       "Class": "COM",
       "Cusip": "78409V104",
       "Ticker": "SPGI",
+      "PutCall": "",
       "SharesPrnAmount": 14035310,
       "Value": 5969778755,
       "SoleVoting": 14035310,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CANADIAN PACIFIC KANSAS CITY",
       "Class": "COM",
       "Cusip": "13646K108",
       "Ticker": "CP",
+      "PutCall": "",
       "SharesPrnAmount": 46521923,
       "Value": 3659637907,
       "SoleVoting": 46521923,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALPHABET INC",
       "Class": "CAP STK CL C",
       "Cusip": "02079K107",
       "Ticker": "GOOG",
+      "PutCall": "",
       "SharesPrnAmount": 8854019,
       "Value": 2539863890,
       "SoleVoting": 8854019,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "FERROVIAL SE",
       "Class": "ORD SHS",
       "Cusip": "N3168P101",
       "Ticker": "FER",
+      "PutCall": "",
       "SharesPrnAmount": 20740214,
       "Value": 1327927999,
       "SoleVoting": 20740214,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "CANADIAN NATL RY CO",
       "Class": "COM",
       "Cusip": "136375102",
       "Ticker": "CNI",
+      "PutCall": "",
       "SharesPrnAmount": 9849934,
       "Value": 1013208255,
       "SoleVoting": 9849934,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MICROSOFT CORP",
       "Class": "COM",
       "Cusip": "594918104",
       "Ticker": "MSFT",
+      "PutCall": "",
       "SharesPrnAmount": 2728412,
       "Value": 1009976270,
       "SoleVoting": 2728412,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALPHABET INC",
       "Class": "CAP STK CL A",
       "Cusip": "02079K305",
       "Ticker": "GOOGL",
+      "PutCall": "",
       "SharesPrnAmount": 2457000,
       "Value": 706534920,
       "SoleVoting": 2457000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:47.305011"
+  "updated_at": "2026-05-30T03:41:14.442264"
 }

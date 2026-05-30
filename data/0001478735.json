@@ -16,14 +16,14 @@
       "Class": "Empty Title",
       "Cusip": "000000000",
       "Ticker": null,
+      "PutCall": "",
       "SharesPrnAmount": 0,
       "Value": 0,
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:37.392037"
+  "updated_at": "2026-05-30T03:41:05.413378"
 }

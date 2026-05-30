@@ -16,40 +16,40 @@
       "Class": "COM",
       "Cusip": "93627C101",
       "Ticker": "HCC",
+      "PutCall": "",
       "SharesPrnAmount": 1810831,
       "Value": 168678908,
       "SoleVoting": 1810831,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TRANSOCEAN LTD",
       "Class": "REGISTERED SHS",
       "Cusip": "H8817H100",
       "Ticker": "RIG",
+      "PutCall": "",
       "SharesPrnAmount": 20392672,
       "Value": 135203415,
       "SoleVoting": 20392672,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALPHA METALLURGICAL RESOUR I",
       "Class": "COM",
       "Cusip": "020764106",
       "Ticker": "AMR",
+      "PutCall": "",
       "SharesPrnAmount": 579738,
       "Value": 119002819,
       "SoleVoting": 579738,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:32.545758"
+  "updated_at": "2026-05-30T03:41:00.795678"
 }

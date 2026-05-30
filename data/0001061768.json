@@ -9,294 +9,294 @@
   "style_en": "Deep value / Margin of safety / Contrarian investing",
   "report_period": "2026-03-31",
   "filing_date": "2026-05-14",
-  "total_value": 5115380.0,
+  "total_value": 5115380000.0,
   "holdings": [
     {
       "Issuer": "AMAZON COM INC",
       "Class": "COM",
       "Cusip": "023135106",
       "Ticker": "AMZN",
+      "PutCall": "",
       "SharesPrnAmount": 3118754,
-      "Value": 649543,
+      "Value": 649543000,
       "SoleVoting": 3118754,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "RESTAURANT BRANDS INTL INC",
       "Class": "COM",
       "Cusip": "76131D103",
       "Ticker": "QSR",
+      "PutCall": "",
       "SharesPrnAmount": 8080112,
-      "Value": 597208,
+      "Value": 597208000,
       "SoleVoting": 8080112,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "WESCO INTL INC",
       "Class": "COM",
       "Cusip": "95082P105",
       "Ticker": "WCC",
+      "PutCall": "",
       "SharesPrnAmount": 1436881,
-      "Value": 393159,
+      "Value": 393159000,
       "SoleVoting": 1436881,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "UNION PAC CORP",
       "Class": "COM",
       "Cusip": "907818108",
       "Ticker": "UNP",
+      "PutCall": "",
       "SharesPrnAmount": 1540995,
-      "Value": 373876,
+      "Value": 373876000,
       "SoleVoting": 1540995,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ELEVANCE HEALTH INC FORMERLY",
       "Class": "COM",
       "Cusip": "036752103",
       "Ticker": "ELV",
+      "PutCall": "",
       "SharesPrnAmount": 1275154,
-      "Value": 373301,
+      "Value": 373301000,
       "SoleVoting": 1275154,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "ALPHABET INC",
       "Class": "CAP STK CL C",
       "Cusip": "02079K107",
       "Ticker": "GOOG",
+      "PutCall": "",
       "SharesPrnAmount": 1181131,
-      "Value": 338819,
+      "Value": 338819000,
       "SoleVoting": 1181131,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "FERGUSON ENTERPRISES INC",
       "Class": "COMMON STOCK NEW",
       "Cusip": "31488V107",
       "Ticker": "FERG",
+      "PutCall": "",
       "SharesPrnAmount": 1442411,
-      "Value": 336457,
+      "Value": 336457000,
       "SoleVoting": 1442411,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "WILLIS TOWERS WATSON PLC LTD",
       "Class": "SHS",
       "Cusip": "G96629103",
       "Ticker": "WTW",
+      "PutCall": "",
       "SharesPrnAmount": 893126,
-      "Value": 259632,
+      "Value": 259632000,
       "SoleVoting": 893126,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AON PLC",
       "Class": "SHS CL A",
       "Cusip": "G0403H108",
       "Ticker": "AON",
+      "PutCall": "",
       "SharesPrnAmount": 769000,
-      "Value": 248218,
+      "Value": 248218000,
       "SoleVoting": 769000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VISA INC",
       "Class": "COM CL A",
       "Cusip": "92826C839",
       "Ticker": "V",
+      "PutCall": "",
       "SharesPrnAmount": 701355,
-      "Value": 211978,
+      "Value": 211978000,
       "SoleVoting": 701355,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "TELEFLEX INCORPORATED",
       "Class": "COM",
       "Cusip": "879369106",
       "Ticker": "TFX",
+      "PutCall": "",
       "SharesPrnAmount": 1595000,
-      "Value": 190778,
+      "Value": 190778000,
       "SoleVoting": 1595000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "EAGLE MATLS INC",
       "Class": "COM",
       "Cusip": "26969P108",
       "Ticker": "EXP",
+      "PutCall": "",
       "SharesPrnAmount": 892763,
-      "Value": 169134,
+      "Value": 169134000,
       "SoleVoting": 892763,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GENUINE PARTS CO",
       "Class": "COM",
       "Cusip": "372460105",
       "Ticker": "GPC",
+      "PutCall": "",
       "SharesPrnAmount": 1490348,
-      "Value": 157604,
+      "Value": 157604000,
       "SoleVoting": 1490348,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "LIBERTY GLOBAL LTD",
       "Class": "COM CL C",
       "Cusip": "G61188127",
       "Ticker": "LBTYK",
+      "PutCall": "",
       "SharesPrnAmount": 13397247,
-      "Value": 157150,
+      "Value": 157150000,
       "SoleVoting": 13397247,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "HERBALIFE LTD",
       "Class": "COM SHS",
       "Cusip": "G4412G101",
       "Ticker": "HLF",
+      "PutCall": "",
       "SharesPrnAmount": 9259844,
-      "Value": 136305,
+      "Value": 136305000,
       "SoleVoting": 9259844,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GDS HLDGS LTD",
       "Class": "SPONSORED ADS",
       "Cusip": "36165L108",
       "Ticker": "GDS",
+      "PutCall": "",
       "SharesPrnAmount": 3044818,
-      "Value": 122676,
+      "Value": 122676000,
       "SoleVoting": 3044818,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "AMERICOLD REALTY TRUST INC",
       "Class": "COM",
       "Cusip": "03064D108",
       "Ticker": "COLD",
+      "PutCall": "",
       "SharesPrnAmount": 7780800,
-      "Value": 89168,
+      "Value": 89168000,
       "SoleVoting": 7780800,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "MOLINA HEALTHCARE INC",
       "Class": "COM",
       "Cusip": "60855R100",
       "Ticker": "MOH",
+      "PutCall": "",
       "SharesPrnAmount": 633609,
-      "Value": 84460,
+      "Value": 84460000,
       "SoleVoting": 633609,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GRUPO AEROMEXICO SAB DE CV",
       "Class": "SPONSORED ADS",
       "Cusip": "40054J109",
       "Ticker": "AERO",
+      "PutCall": "",
       "SharesPrnAmount": 4880188,
-      "Value": 68371,
+      "Value": 68371000,
       "SoleVoting": 4880188,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "NORWEGIAN CRUISE LINE HLDGS",
       "Class": "SHS",
       "Cusip": "G66721104",
       "Ticker": "NCLH",
+      "PutCall": "",
       "SharesPrnAmount": 3630000,
-      "Value": 67881,
+      "Value": 67881000,
       "SoleVoting": 3630000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "VAXCYTE INC",
       "Class": "COM",
       "Cusip": "92243G108",
       "Ticker": "PCVX",
+      "PutCall": "",
       "SharesPrnAmount": 800000,
-      "Value": 46488,
+      "Value": 46488000,
       "SoleVoting": 800000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "DNOW INC",
       "Class": "COM",
       "Cusip": "67011P100",
       "Ticker": "DNOW",
+      "PutCall": "",
       "SharesPrnAmount": 3625000,
-      "Value": 43174,
+      "Value": 43174000,
       "SoleVoting": 3625000,
       "SharedVoting": 0,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:32.037437"
+  "updated_at": "2026-05-30T03:41:00.455364"
 }

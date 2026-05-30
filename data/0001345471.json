@@ -16,105 +16,105 @@
       "Class": "ORD SHS",
       "Cusip": "G4474Y214",
       "Ticker": "JHG",
+      "PutCall": "",
       "SharesPrnAmount": 31867800,
       "Value": 1637048886,
       "SoleVoting": 0,
       "SharedVoting": 31867800,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GE Aerospace",
       "Class": "COM NEW",
       "Cusip": "369604301",
       "Ticker": "GE",
+      "PutCall": "",
       "SharesPrnAmount": 4030765,
       "Value": 1143810184,
       "SoleVoting": 0,
       "SharedVoting": 4030765,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Solventum Corporation",
       "Class": "COM SHS",
       "Cusip": "83444M101",
       "Ticker": "SOLV",
+      "PutCall": "",
       "SharesPrnAmount": 8236753,
       "Value": 537859971,
       "SoleVoting": 0,
       "SharedVoting": 8236753,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Ferguson Plc New",
       "Class": "SHS",
       "Cusip": "G3421J106",
       "Ticker": "FERGXXXX",
+      "PutCall": "",
       "SharesPrnAmount": 1086357,
       "Value": 253403634,
       "SoleVoting": 0,
       "SharedVoting": 1086357,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Wendys Co.",
       "Class": "COM",
       "Cusip": "95058W100",
       "Ticker": "WEN",
+      "PutCall": "",
       "SharesPrnAmount": 30446022,
       "Value": 211599853,
       "SoleVoting": 0,
       "SharedVoting": 30446022,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Invesco Ltd.",
       "Class": "SHS",
       "Cusip": "G491BT108",
       "Ticker": "IVZ",
+      "PutCall": "",
       "SharesPrnAmount": 2970944,
       "Value": 72164230,
       "SoleVoting": 0,
       "SharedVoting": 2970944,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "Magnum Ice Cream Co NV",
       "Class": "ORD SHS",
       "Cusip": "N5505D105",
       "Ticker": "MICC",
+      "PutCall": "",
       "SharesPrnAmount": 241042,
       "Value": 3603578,
       "SoleVoting": 0,
       "SharedVoting": 241042,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     },
     {
       "Issuer": "GE HealthCare Technologies Inc.",
       "Class": "COM",
       "Cusip": "36266G107",
       "Ticker": "GEHC",
+      "PutCall": "",
       "SharesPrnAmount": 4044,
       "Value": 287852,
       "SoleVoting": 0,
       "SharedVoting": 4044,
       "NonVoting": 0,
-      "Type": "Shares",
-      "PutCall": ""
+      "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-23T03:33:41.652656"
+  "updated_at": "2026-05-30T03:41:09.327331"
 }
