@@ -483,7 +483,7 @@
       "Issuer": "GALAPAGOS NV",
       "Class": "SPON ADR",
       "Cusip": "36315X101",
-      "Ticker": "GLPG",
+      "Ticker": "LKFT",
       "PutCall": "",
       "SharesPrnAmount": 482746,
       "Value": 14482380,
@@ -597,5 +597,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:01.569708"
+  "updated_at": "2026-06-06T03:46:22.677111"
 }

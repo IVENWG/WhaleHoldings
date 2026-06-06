@@ -6567,7 +6567,7 @@
       "Issuer": "JANUS LIVING INC",
       "Class": "CL A-1",
       "Cusip": "471024109",
-      "Ticker": null,
+      "Ticker": "JAN",
       "PutCall": "",
       "SharesPrnAmount": 431357,
       "Value": 10167084,
@@ -10805,7 +10805,7 @@
       "Issuer": "FORUM MARKETS INC",
       "Class": "COM SHS",
       "Cusip": "68236V401",
-      "Ticker": "ETHZ",
+      "Ticker": "FRMM",
       "PutCall": "",
       "SharesPrnAmount": 538053,
       "Value": 1554973,
@@ -11273,7 +11273,7 @@
       "Issuer": "MDA SPACE LTD",
       "Class": "COM",
       "Cusip": "55293N109",
-      "Ticker": null,
+      "Ticker": "MDA",
       "PutCall": "",
       "SharesPrnAmount": 46093,
       "Value": 1167075,
@@ -11962,7 +11962,7 @@
       "Issuer": "EVERPURE INC",
       "Class": "CL A",
       "Cusip": "74624M102",
-      "Ticker": "PSTG",
+      "Ticker": "P",
       "PutCall": "",
       "SharesPrnAmount": 12277,
       "Value": 724834,
@@ -12378,7 +12378,7 @@
       "Issuer": "ASGN INC",
       "Class": "COM",
       "Cusip": "00191U102",
-      "Ticker": "ASGN",
+      "Ticker": "EFOR",
       "PutCall": "",
       "SharesPrnAmount": 13957,
       "Value": 540275,
@@ -12807,7 +12807,7 @@
       "Issuer": "ATRIUM THERAPEUTICS INC",
       "Class": "COM",
       "Cusip": "04965N104",
-      "Ticker": null,
+      "Ticker": "RNA",
       "PutCall": "",
       "SharesPrnAmount": 28845,
       "Value": 385658,
@@ -13298,5 +13298,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:16.471471"
+  "updated_at": "2026-06-06T03:46:37.080965"
 }

@@ -2342,7 +2342,7 @@
       "Issuer": "PIPER SANDLER COMPANIES COM NE",
       "Class": "COM",
       "Cusip": "724078209",
-      "Ticker": null,
+      "Ticker": "PIPR",
       "PutCall": "",
       "SharesPrnAmount": 1077988,
       "Value": 82519980,
@@ -4448,7 +4448,7 @@
       "Issuer": "EVERPURE INC",
       "Class": "COM",
       "Cusip": "74624M102",
-      "Ticker": "PSTG",
+      "Ticker": "P",
       "PutCall": "",
       "SharesPrnAmount": 300554,
       "Value": 17744747,
@@ -5449,7 +5449,7 @@
       "Issuer": "MONTROSE ENVIRONMENTAL GROUP I",
       "Class": "COM",
       "Cusip": "615111101",
-      "Ticker": "MEG",
+      "Ticker": "ONT",
       "PutCall": "",
       "SharesPrnAmount": 352569,
       "Value": 7717734,
@@ -13184,7 +13184,7 @@
       "Issuer": "CREATIVE MEDIA  CMNTY TR",
       "Class": "COM",
       "Cusip": "12564W227",
-      "Ticker": null,
+      "Ticker": "CMCT",
       "PutCall": "",
       "SharesPrnAmount": 10937,
       "Value": 6719,
@@ -13220,5 +13220,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:11.122029"
+  "updated_at": "2026-06-06T03:46:31.780577"
 }

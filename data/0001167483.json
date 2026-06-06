@@ -535,7 +535,7 @@
       "Issuer": "ROBINHOOD VENTURES FD I",
       "Class": "COM SHS",
       "Cusip": "770701100",
-      "Ticker": null,
+      "Ticker": "RVI",
       "PutCall": "",
       "SharesPrnAmount": 400000,
       "Value": 10616000,
@@ -561,7 +561,7 @@
       "Issuer": "PAYPAY CORP",
       "Class": "SPONSORED ADS",
       "Cusip": "70450C101",
-      "Ticker": null,
+      "Ticker": "PAYP",
       "PutCall": "",
       "SharesPrnAmount": 400000,
       "Value": 8536000,
@@ -600,7 +600,7 @@
       "Issuer": "XANADU QUANTUM TECHNOLO LTD",
       "Class": "SUB VTG B",
       "Cusip": "98390R102",
-      "Ticker": null,
+      "Ticker": "XNDU",
       "PutCall": "",
       "SharesPrnAmount": 500000,
       "Value": 3830000,
@@ -714,5 +714,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:06.811898"
+  "updated_at": "2026-06-06T03:46:27.491247"
 }

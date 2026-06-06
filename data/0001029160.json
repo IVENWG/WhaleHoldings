@@ -535,7 +535,7 @@
       "Issuer": "NEXTERA ENERGY INC",
       "Class": "UNIT 02/15/2029",
       "Cusip": "65339F655",
-      "Ticker": null,
+      "Ticker": "NEEPRV",
       "PutCall": "",
       "SharesPrnAmount": 1200703,
       "Value": 60430906,
@@ -834,7 +834,7 @@
       "Issuer": "SUNBELT RENTALS HOLDINGS INC",
       "Class": "SHS",
       "Cusip": "866966104",
-      "Ticker": null,
+      "Ticker": "SUNB",
       "PutCall": "",
       "SharesPrnAmount": 546114,
       "Value": 35546560,
@@ -2251,7 +2251,7 @@
       "Issuer": "JANUS LIVING INC",
       "Class": "CL A-1",
       "Cusip": "471024109",
-      "Ticker": null,
+      "Ticker": "JAN",
       "PutCall": "",
       "SharesPrnAmount": 228768,
       "Value": 5392062,
@@ -2329,7 +2329,7 @@
       "Issuer": "MDA SPACE LTD",
       "Class": "COM",
       "Cusip": "55293N109",
-      "Ticker": null,
+      "Ticker": "MDA",
       "PutCall": "",
       "SharesPrnAmount": 200000,
       "Value": 5064000,
@@ -3431,5 +3431,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:05.581845"
+  "updated_at": "2026-06-06T03:46:26.239309"
 }

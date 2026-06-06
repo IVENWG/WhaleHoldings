@@ -2693,7 +2693,7 @@
       "Issuer": "THOMSON REUTERS CORP",
       "Class": "COM",
       "Cusip": "884903808",
-      "Ticker": "TRI",
+      "Ticker": "TRIXXXX",
       "PutCall": "",
       "SharesPrnAmount": 159909,
       "Value": 14388612,
@@ -4409,7 +4409,7 @@
       "Issuer": "MDA SPACE LTD",
       "Class": "COM",
       "Cusip": "55293N109",
-      "Ticker": null,
+      "Ticker": "MDA",
       "PutCall": "",
       "SharesPrnAmount": 279580,
       "Value": 7059868,
@@ -5553,7 +5553,7 @@
       "Issuer": "PIPER SANDLER COMPANIES",
       "Class": "COM NEW",
       "Cusip": "724078209",
-      "Ticker": null,
+      "Ticker": "PIPR",
       "PutCall": "",
       "SharesPrnAmount": 63424,
       "Value": 4855107,
@@ -12921,5 +12921,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:01.855140"
+  "updated_at": "2026-06-06T03:46:22.880212"
 }

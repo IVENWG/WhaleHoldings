@@ -379,7 +379,7 @@
       "Issuer": "CONCORDE INTL GROUP LTD",
       "Class": "ORD SHS CL A",
       "Cusip": "G2452S100",
-      "Ticker": "CIGL",
+      "Ticker": "YOOV",
       "PutCall": "",
       "SharesPrnAmount": 259082,
       "Value": 461166,
@@ -389,5 +389,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-05-30T03:41:08.118273"
+  "updated_at": "2026-06-06T03:46:28.749003"
 }
