@@ -38015,7 +38015,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "64110D104",
       "Ticker": "NTAP",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 800,
       "Value": 81912,
       "SoleVoting": 0,
@@ -38028,7 +38028,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "64110D104",
       "Ticker": "NTAP",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 800,
       "Value": 81912,
       "SoleVoting": 0,
@@ -39900,7 +39900,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "988498101",
       "Ticker": "YUM",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 100,
       "Value": 15548,
       "SoleVoting": 0,
@@ -39913,7 +39913,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "988498101",
       "Ticker": "YUM",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 100,
       "Value": 15548,
       "SoleVoting": 0,
@@ -40264,7 +40264,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "G66721104",
       "Ticker": "NCLH",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 500,
       "Value": 9350,
       "SoleVoting": 0,
@@ -40277,7 +40277,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "G66721104",
       "Ticker": "NCLH",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 500,
       "Value": 9350,
       "SoleVoting": 0,
@@ -40702,5 +40702,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-07-11T02:51:00.679118"
+  "updated_at": "2026-07-18T02:42:34.796815"
 }
