@@ -32174,10 +32174,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "D   BORAL   ACQUISITION       I  CORP",
-      "Class": "UNIT   01/30/2031",
-      "Cusip": "G2616T127",
-      "Ticker": "DBCAU",
+      "Issuer": "RANGE   CAP   ACQUISITION    CORP      I",
+      "Class": "CL     A  ORD     SHS",
+      "Cusip": "G7375J103",
+      "Ticker": "RNGT",
       "PutCall": "",
       "SharesPrnAmount": 750000,
       "Value": 7500000,
@@ -32187,10 +32187,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "RANGE   CAP   ACQUISITION    CORP      I",
-      "Class": "CL     A  ORD     SHS",
-      "Cusip": "G7375J103",
-      "Ticker": "RNGT",
+      "Issuer": "D   BORAL   ACQUISITION       I  CORP",
+      "Class": "UNIT   01/30/2031",
+      "Cusip": "G2616T127",
+      "Ticker": "DBCAU",
       "PutCall": "",
       "SharesPrnAmount": 750000,
       "Value": 7500000,
@@ -38297,10 +38297,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "HENNESSY      CAP    INVTS  CORP      VIII",
-      "Class": "UNIT      02/02/2031",
-      "Cusip": "G44055112",
-      "Ticker": "HCICU",
+      "Issuer": "INFINITE     EAGLE     ACQUISITION        C",
+      "Class": "CL     A",
+      "Cusip": "G4802J103",
+      "Ticker": "IEAG",
       "PutCall": "",
       "SharesPrnAmount": 500000,
       "Value": 5000000,
@@ -38310,10 +38310,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "INFINITE     EAGLE     ACQUISITION        C",
-      "Class": "CL     A",
-      "Cusip": "G4802J103",
-      "Ticker": "IEAG",
+      "Issuer": "HENNESSY      CAP    INVTS  CORP      VIII",
+      "Class": "UNIT      02/02/2031",
+      "Cusip": "G44055112",
+      "Ticker": "HCICU",
       "PutCall": "",
       "SharesPrnAmount": 500000,
       "Value": 5000000,
@@ -50465,10 +50465,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ONEIM   ACQUISITION       CORP",
-      "Class": "ORD       SHS     CL   A",
-      "Cusip": "G6S74K106",
-      "Ticker": "OIM",
+      "Issuer": "MESHFLOW   ACQUISITION       CORP",
+      "Class": "UNIT      11/19/2030",
+      "Cusip": "G6032N127",
+      "Ticker": "MESHU",
       "PutCall": "",
       "SharesPrnAmount": 200000,
       "Value": 1992000,
@@ -50478,10 +50478,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "MESHFLOW   ACQUISITION       CORP",
-      "Class": "UNIT      11/19/2030",
-      "Cusip": "G6032N127",
-      "Ticker": "MESHU",
+      "Issuer": "ONEIM   ACQUISITION       CORP",
+      "Class": "ORD       SHS     CL   A",
+      "Cusip": "G6S74K106",
+      "Ticker": "OIM",
       "PutCall": "",
       "SharesPrnAmount": 200000,
       "Value": 1992000,
@@ -60683,19 +60683,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "AMERICAN  INTL   GROUP    INC",
-      "Class": "COM       NEW",
-      "Cusip": "026874784",
-      "Ticker": "AIG",
-      "PutCall": "Put",
-      "SharesPrnAmount": 8000,
-      "Value": 602000,
-      "SoleVoting": 0,
-      "SharedVoting": 0,
-      "NonVoting": 8000,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "PROSHARES   TR",
       "Class": "ULTRASHRT      S&P500",
       "Cusip": "74350P667",
@@ -60706,6 +60693,19 @@
       "SoleVoting": 8000,
       "SharedVoting": 0,
       "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "AMERICAN  INTL   GROUP    INC",
+      "Class": "COM       NEW",
+      "Cusip": "026874784",
+      "Ticker": "AIG",
+      "PutCall": "Put",
+      "SharesPrnAmount": 8000,
+      "Value": 602000,
+      "SoleVoting": 0,
+      "SharedVoting": 0,
+      "NonVoting": 8000,
       "Type": "Shares"
     },
     {
@@ -62387,9 +62387,9 @@
     },
     {
       "Issuer": "SPRING     VY   ACQUISITION   CORP   I",
-      "Class": "*W     EXP     01/22/203",
-      "Cusip": "G8377G113",
-      "Ticker": "SVIVW",
+      "Class": "*W     EXP     09/04/203",
+      "Cusip": "G8377R119",
+      "Ticker": "SVACW",
       "PutCall": "Call",
       "SharesPrnAmount": 470218,
       "Value": 473527,
@@ -62400,9 +62400,9 @@
     },
     {
       "Issuer": "SPRING     VY   ACQUISITION   CORP   I",
-      "Class": "*W     EXP     09/04/203",
-      "Cusip": "G8377R119",
-      "Ticker": "SVACW",
+      "Class": "*W     EXP     01/22/203",
+      "Cusip": "G8377G113",
+      "Ticker": "SVIVW",
       "PutCall": "Call",
       "SharesPrnAmount": 470218,
       "Value": 473527,
@@ -68106,19 +68106,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "EQV   VENTURES     AC   CORP.  II",
-      "Class": "*W     EXP       06/30/203",
-      "Cusip": "G3106Q128",
-      "Ticker": "EVACWS",
-      "PutCall": "Call",
-      "SharesPrnAmount": 533332,
-      "Value": 160000,
-      "SoleVoting": 0,
-      "SharedVoting": 0,
-      "NonVoting": 533332,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "DRUGS   MADE     IN  AMER  ACQ   II    CO",
       "Class": "RIGHT         09/16/2030",
       "Cusip": "G2851K112",
@@ -68129,6 +68116,19 @@
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "EQV   VENTURES     AC   CORP.  II",
+      "Class": "*W     EXP       06/30/203",
+      "Cusip": "G3106Q128",
+      "Ticker": "EVACWS",
+      "PutCall": "Call",
+      "SharesPrnAmount": 533332,
+      "Value": 160000,
+      "SoleVoting": 0,
+      "SharedVoting": 0,
+      "NonVoting": 533332,
       "Type": "Shares"
     },
     {
@@ -71448,9 +71448,9 @@
     },
     {
       "Issuer": "AA   MISSION      ACQUISITION      CORP",
-      "Class": "*W     EXP     07/23/203",
-      "Cusip": "G1000S125",
-      "Ticker": "YCYWS",
+      "Class": "*W     EXP     08/01/203",
+      "Cusip": "G1000R127",
+      "Ticker": "AAMWS",
       "PutCall": "Call",
       "SharesPrnAmount": 150000,
       "Value": 24150,
@@ -71461,9 +71461,9 @@
     },
     {
       "Issuer": "AA   MISSION      ACQUISITION      CORP",
-      "Class": "*W     EXP     08/01/203",
-      "Cusip": "G1000R127",
-      "Ticker": "AAMWS",
+      "Class": "*W     EXP     07/23/203",
+      "Cusip": "G1000S125",
+      "Ticker": "YCYWS",
       "PutCall": "Call",
       "SharesPrnAmount": 150000,
       "Value": 24150,
@@ -73098,5 +73098,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-07-18T02:42:22.772695"
+  "updated_at": "2026-07-25T02:50:30.475728"
 }

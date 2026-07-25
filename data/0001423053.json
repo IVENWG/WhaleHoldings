@@ -63660,19 +63660,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "INTERCORP FINL SVCS INC",
-      "Class": "SHS",
-      "Cusip": "P5626F128",
-      "Ticker": "IFS",
-      "PutCall": "",
-      "SharesPrnAmount": 72158,
-      "Value": 3622332,
-      "SoleVoting": 72158,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "NEW ERA ENERGY & DIGITAL INC",
       "Class": "COM",
       "Cusip": "64428N109",
@@ -63681,6 +63668,19 @@
       "SharesPrnAmount": 892200,
       "Value": 3622332,
       "SoleVoting": 892200,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "INTERCORP FINL SVCS INC",
+      "Class": "SHS",
+      "Cusip": "P5626F128",
+      "Ticker": "IFS",
+      "PutCall": "",
+      "SharesPrnAmount": 72158,
+      "Value": 3622332,
+      "SoleVoting": 72158,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -70316,19 +70316,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ISHARES TR",
-      "Class": "HDG MSCI EAFE",
-      "Cusip": "46434V803",
-      "Ticker": "HEFA",
-      "PutCall": "",
-      "SharesPrnAmount": 65873,
-      "Value": 2799273,
-      "SoleVoting": 65873,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "USA TODAY CO INC",
       "Class": "COM",
       "Cusip": "36472T109",
@@ -70337,6 +70324,19 @@
       "SharesPrnAmount": 397060,
       "Value": 2799273,
       "SoleVoting": 397060,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ISHARES TR",
+      "Class": "HDG MSCI EAFE",
+      "Cusip": "46434V803",
+      "Ticker": "HEFA",
+      "PutCall": "",
+      "SharesPrnAmount": 65873,
+      "Value": 2799273,
+      "SoleVoting": 65873,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -83459,19 +83459,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "COOPER-STANDARD HOLDINGS INC",
-      "Class": "COM",
-      "Cusip": "21676P103",
-      "Ticker": "CPS",
-      "PutCall": "Call",
-      "SharesPrnAmount": 61600,
-      "Value": 1716792,
-      "SoleVoting": 61600,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "LTC PPTYS INC",
       "Class": "COM",
       "Cusip": "502175102",
@@ -83480,6 +83467,19 @@
       "SharesPrnAmount": 46200,
       "Value": 1716792,
       "SoleVoting": 46200,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "COOPER-STANDARD HOLDINGS INC",
+      "Class": "COM",
+      "Cusip": "21676P103",
+      "Ticker": "CPS",
+      "PutCall": "Call",
+      "SharesPrnAmount": 61600,
+      "Value": 1716792,
+      "SoleVoting": 61600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -87948,7 +87948,7 @@
       "Class": "COM",
       "Cusip": "55405W104",
       "Ticker": "MYRG",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 5200,
       "Value": 1468064,
       "SoleVoting": 5200,
@@ -87961,7 +87961,7 @@
       "Class": "COM",
       "Cusip": "55405W104",
       "Ticker": "MYRG",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 5200,
       "Value": 1468064,
       "SoleVoting": 5200,
@@ -103154,19 +103154,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "THEMES ETF TR",
-      "Class": "LEVERAGE SHS 2X",
-      "Cusip": "88340C875",
-      "Ticker": "CRWG",
-      "PutCall": "Put",
-      "SharesPrnAmount": 374900,
-      "Value": 888513,
-      "SoleVoting": 374900,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "GARRETT MOTION INC",
       "Class": "COM",
       "Cusip": "366505105",
@@ -103175,6 +103162,19 @@
       "SharesPrnAmount": 48900,
       "Value": 888513,
       "SoleVoting": 48900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "THEMES ETF TR",
+      "Class": "LEVERAGE SHS 2X",
+      "Cusip": "88340C875",
+      "Ticker": "CRWG",
+      "PutCall": "Put",
+      "SharesPrnAmount": 374900,
+      "Value": 888513,
+      "SoleVoting": 374900,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -109797,19 +109797,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "UP FINTECH HLDG LTD",
-      "Class": "SPONSORED ADS",
-      "Cusip": "91531W106",
-      "Ticker": "TIGR",
-      "PutCall": "",
-      "SharesPrnAmount": 113844,
-      "Value": 717217,
-      "SoleVoting": 113844,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "INTEGRA RES CORP",
       "Class": "COM",
       "Cusip": "45826T509",
@@ -109818,6 +109805,19 @@
       "SharesPrnAmount": 262717,
       "Value": 717217,
       "SoleVoting": 262717,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "UP FINTECH HLDG LTD",
+      "Class": "SPONSORED ADS",
+      "Cusip": "91531W106",
+      "Ticker": "TIGR",
+      "PutCall": "",
+      "SharesPrnAmount": 113844,
+      "Value": 717217,
+      "SoleVoting": 113844,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -121978,19 +121978,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "DORIAN LPG LTD",
-      "Class": "SHS USD",
-      "Cusip": "Y2106R110",
-      "Ticker": "LPG",
-      "PutCall": "Put",
-      "SharesPrnAmount": 14200,
-      "Value": 485640,
-      "SoleVoting": 14200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CAMBRIA ETF TR",
       "Class": "SHSHLD YIELD ETF",
       "Cusip": "132061201",
@@ -121999,6 +121986,19 @@
       "SharesPrnAmount": 6440,
       "Value": 485640,
       "SoleVoting": 6440,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "DORIAN LPG LTD",
+      "Class": "SHS USD",
+      "Cusip": "Y2106R110",
+      "Ticker": "LPG",
+      "PutCall": "Put",
+      "SharesPrnAmount": 14200,
+      "Value": 485640,
+      "SoleVoting": 14200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -122134,19 +122134,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PERRIGO CO PLC",
-      "Class": "SHS",
-      "Cusip": "G97822103",
-      "Ticker": "PRGO",
-      "PutCall": "Put",
-      "SharesPrnAmount": 45000,
-      "Value": 483300,
-      "SoleVoting": 45000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "UPSTREAM BIO INC",
       "Class": "COM",
       "Cusip": "91678A107",
@@ -122155,6 +122142,19 @@
       "SharesPrnAmount": 53700,
       "Value": 483300,
       "SoleVoting": 53700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PERRIGO CO PLC",
+      "Class": "SHS",
+      "Cusip": "G97822103",
+      "Ticker": "PRGO",
+      "PutCall": "Put",
+      "SharesPrnAmount": 45000,
+      "Value": 483300,
+      "SoleVoting": 45000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -122398,7 +122398,7 @@
       "Class": "COM",
       "Cusip": "038336103",
       "Ticker": "ATR",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 3800,
       "Value": 478876,
       "SoleVoting": 3800,
@@ -122411,7 +122411,7 @@
       "Class": "COM",
       "Cusip": "038336103",
       "Ticker": "ATR",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 3800,
       "Value": 478876,
       "SoleVoting": 3800,
@@ -127321,19 +127321,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PERMIAN BASIN RTY TR",
-      "Class": "UNIT BEN INT",
-      "Cusip": "714236106",
-      "Ticker": "PBT",
-      "PutCall": "Call",
-      "SharesPrnAmount": 18800,
-      "Value": 404576,
-      "SoleVoting": 18800,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SPROTT ETF TRUST",
       "Class": "JR GOLD MINERS E",
       "Cusip": "85210B201",
@@ -127342,6 +127329,19 @@
       "SharesPrnAmount": 4700,
       "Value": 404576,
       "SoleVoting": 4700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PERMIAN BASIN RTY TR",
+      "Class": "UNIT BEN INT",
+      "Cusip": "714236106",
+      "Ticker": "PBT",
+      "PutCall": "Call",
+      "SharesPrnAmount": 18800,
+      "Value": 404576,
+      "SoleVoting": 18800,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -138254,19 +138254,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "VERASTEM INC",
-      "Class": "COM NEW",
-      "Cusip": "92337C203",
-      "Ticker": "VSTM",
-      "PutCall": "Call",
-      "SharesPrnAmount": 52700,
-      "Value": 279310,
-      "SoleVoting": 52700,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "QUIDELORTHO CORP",
       "Class": "COM",
       "Cusip": "219798105",
@@ -138275,6 +138262,19 @@
       "SharesPrnAmount": 17000,
       "Value": 279310,
       "SoleVoting": 17000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "VERASTEM INC",
+      "Class": "COM NEW",
+      "Cusip": "92337C203",
+      "Ticker": "VSTM",
+      "PutCall": "Call",
+      "SharesPrnAmount": 52700,
+      "Value": 279310,
+      "SoleVoting": 52700,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -143523,7 +143523,7 @@
       "Class": "VANECK VIETNAM",
       "Cusip": "92189F817",
       "Ticker": "VNM",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 13700,
       "Value": 237147,
       "SoleVoting": 13700,
@@ -143536,7 +143536,7 @@
       "Class": "VANECK VIETNAM",
       "Cusip": "92189F817",
       "Ticker": "VNM",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 13700,
       "Value": 237147,
       "SoleVoting": 13700,
@@ -144221,19 +144221,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ANIKA THERAPEUTICS INC",
-      "Class": "COM",
-      "Cusip": "035255108",
-      "Ticker": "ANIK",
-      "PutCall": "Call",
-      "SharesPrnAmount": 16000,
-      "Value": 232000,
-      "SoleVoting": 16000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "DENTSPLY SIRONA INC",
       "Class": "COM",
       "Cusip": "24906P109",
@@ -144242,6 +144229,19 @@
       "SharesPrnAmount": 20000,
       "Value": 232000,
       "SoleVoting": 20000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ANIKA THERAPEUTICS INC",
+      "Class": "COM",
+      "Cusip": "035255108",
+      "Ticker": "ANIK",
+      "PutCall": "Call",
+      "SharesPrnAmount": 16000,
+      "Value": 232000,
+      "SoleVoting": 16000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -146106,19 +146106,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "GLOBAL X FDS",
-      "Class": "US INFR DEV ETF",
-      "Cusip": "37954Y673",
-      "Ticker": "PAVE",
-      "PutCall": "Put",
-      "SharesPrnAmount": 4300,
-      "Value": 218483,
-      "SoleVoting": 4300,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "FIRST TR EXCHNG TRADED FD VI",
       "Class": "VEST US EQUITY M",
       "Cusip": "33740U562",
@@ -146127,6 +146114,19 @@
       "SharesPrnAmount": 6450,
       "Value": 218483,
       "SoleVoting": 6450,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "GLOBAL X FDS",
+      "Class": "US INFR DEV ETF",
+      "Cusip": "37954Y673",
+      "Ticker": "PAVE",
+      "PutCall": "Put",
+      "SharesPrnAmount": 4300,
+      "Value": 218483,
+      "SoleVoting": 4300,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -146418,19 +146418,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ARCUS BIOSCIENCES INC",
-      "Class": "COM",
-      "Cusip": "03969F109",
-      "Ticker": "RCUS",
-      "PutCall": "Put",
-      "SharesPrnAmount": 10000,
-      "Value": 216000,
-      "SoleVoting": 10000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "ONESTREAM INC",
       "Class": "CL A",
       "Cusip": "68278B107",
@@ -146439,6 +146426,19 @@
       "SharesPrnAmount": 9000,
       "Value": 216000,
       "SoleVoting": 9000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ARCUS BIOSCIENCES INC",
+      "Class": "COM",
+      "Cusip": "03969F109",
+      "Ticker": "RCUS",
+      "PutCall": "Put",
+      "SharesPrnAmount": 10000,
+      "Value": 216000,
+      "SoleVoting": 10000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -146977,19 +146977,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PROSPECT CAP CORP",
-      "Class": "COM",
-      "Cusip": "74348T102",
-      "Ticker": "PSEC",
-      "PutCall": "Call",
-      "SharesPrnAmount": 81000,
-      "Value": 211410,
-      "SoleVoting": 81000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SABRE CORP",
       "Class": "COM",
       "Cusip": "78573M104",
@@ -146998,6 +146985,19 @@
       "SharesPrnAmount": 145800,
       "Value": 211410,
       "SoleVoting": 145800,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PROSPECT CAP CORP",
+      "Class": "COM",
+      "Cusip": "74348T102",
+      "Ticker": "PSEC",
+      "PutCall": "Call",
+      "SharesPrnAmount": 81000,
+      "Value": 211410,
+      "SoleVoting": 81000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -160484,19 +160484,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CURIOSITYSTREAM INC",
-      "Class": "COM CL A",
-      "Cusip": "23130Q107",
-      "Ticker": "CURI",
-      "PutCall": "Call",
-      "SharesPrnAmount": 19600,
-      "Value": 58016,
-      "SoleVoting": 19600,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CPI AEROSTRUCTURES INC",
       "Class": "COM NEW",
       "Cusip": "125919308",
@@ -160505,6 +160492,19 @@
       "SharesPrnAmount": 14800,
       "Value": 58016,
       "SoleVoting": 14800,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "CURIOSITYSTREAM INC",
+      "Class": "COM CL A",
+      "Cusip": "23130Q107",
+      "Ticker": "CURI",
+      "PutCall": "Call",
+      "SharesPrnAmount": 19600,
+      "Value": 58016,
+      "SoleVoting": 19600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -162070,10 +162070,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CHINA AUTOMOTIVE SYS INC",
-      "Class": "SHS",
-      "Cusip": "G2125H101",
-      "Ticker": "CAAS",
+      "Issuer": "BLUE RIDGE BANKSHARES INC VA",
+      "Class": "COM",
+      "Cusip": "095825105",
+      "Ticker": "BRBS",
       "PutCall": "Put",
       "SharesPrnAmount": 10000,
       "Value": 42000,
@@ -162083,10 +162083,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "BLUE RIDGE BANKSHARES INC VA",
-      "Class": "COM",
-      "Cusip": "095825105",
-      "Ticker": "BRBS",
+      "Issuer": "CHINA AUTOMOTIVE SYS INC",
+      "Class": "SHS",
+      "Cusip": "G2125H101",
+      "Ticker": "CAAS",
       "PutCall": "Put",
       "SharesPrnAmount": 10000,
       "Value": 42000,
@@ -165905,19 +165905,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CALCIMEDICA INC",
-      "Class": "COM NEW",
-      "Cusip": "38942Q202",
-      "Ticker": "CALC",
-      "PutCall": "Call",
-      "SharesPrnAmount": 18200,
-      "Value": 9828,
-      "SoleVoting": 18200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "BARK INC",
       "Class": "COM",
       "Cusip": "68622E104",
@@ -165926,6 +165913,19 @@
       "SharesPrnAmount": 19400,
       "Value": 9828,
       "SoleVoting": 19400,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "CALCIMEDICA INC",
+      "Class": "COM NEW",
+      "Cusip": "38942Q202",
+      "Ticker": "CALC",
+      "PutCall": "Call",
+      "SharesPrnAmount": 18200,
+      "Value": 9828,
+      "SoleVoting": 18200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -167153,5 +167153,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-07-18T02:42:22.177705"
+  "updated_at": "2026-07-25T02:50:29.838028"
 }
