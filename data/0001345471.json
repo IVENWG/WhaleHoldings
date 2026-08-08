@@ -54,7 +54,7 @@
       "Issuer": "Ferguson Plc New",
       "Class": "SHS",
       "Cusip": "G3421J106",
-      "Ticker": "FERGXXXX",
+      "Ticker": "FERG",
       "PutCall": "",
       "SharesPrnAmount": 1086357,
       "Value": 253403634,
@@ -116,5 +116,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-01T03:14:01.380887"
+  "updated_at": "2026-08-08T01:48:32.569937"
 }

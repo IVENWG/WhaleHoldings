@@ -3109,7 +3109,7 @@
       "Issuer": "ECHOSTAR CORP",
       "Class": "CL A",
       "Cusip": "278768106",
-      "Ticker": "SATS",
+      "Ticker": "ECHO",
       "PutCall": "",
       "SharesPrnAmount": 262692,
       "Value": 30753352,
@@ -5020,7 +5020,7 @@
       "Issuer": "BANK NEW YORK MELLON CORP",
       "Class": "COM",
       "Cusip": "064058100",
-      "Ticker": "BK",
+      "Ticker": "BNY",
       "PutCall": "",
       "SharesPrnAmount": 134803,
       "Value": 15991680,
@@ -13298,5 +13298,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-01T03:14:08.610191"
+  "updated_at": "2026-08-08T01:48:43.063034"
 }

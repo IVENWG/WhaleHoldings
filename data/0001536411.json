@@ -821,7 +821,7 @@
       "Issuer": "Echostar Corp",
       "Class": "CL A",
       "Cusip": "278768106",
-      "Ticker": "SATS",
+      "Ticker": "ECHO",
       "PutCall": "",
       "SharesPrnAmount": 60765,
       "Value": 7114000,
@@ -922,5 +922,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-01T03:13:57.734641"
+  "updated_at": "2026-08-08T01:48:28.614004"
 }

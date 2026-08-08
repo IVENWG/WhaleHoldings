@@ -1939,7 +1939,7 @@
       "Issuer": "ECHOSTAR CORP",
       "Class": "CL A",
       "Cusip": "278768106",
-      "Ticker": "SATS",
+      "Ticker": "ECHO",
       "PutCall": "",
       "SharesPrnAmount": 7433953,
       "Value": 870292878,
@@ -2615,7 +2615,7 @@
       "Issuer": "BANK NEW YORK MELLON CORP",
       "Class": "COM",
       "Cusip": "064058100",
-      "Ticker": "BK",
+      "Ticker": "BNY",
       "PutCall": "",
       "SharesPrnAmount": 4441398,
       "Value": 526883045,
@@ -5254,7 +5254,7 @@
       "Issuer": "LENDINGCLUB ISSUANCE TR SER",
       "Class": "COM NEW",
       "Cusip": "52603A208",
-      "Ticker": "LC",
+      "Ticker": "HAPN",
       "PutCall": "",
       "SharesPrnAmount": 12757974,
       "Value": 182694188,
@@ -22102,7 +22102,7 @@
       "Issuer": "THOMSON REUTERS CORP",
       "Class": "COM",
       "Cusip": "884903808",
-      "Ticker": "TRIXXXX",
+      "Ticker": "TRI",
       "PutCall": "",
       "SharesPrnAmount": 9640,
       "Value": 867327,
@@ -24309,5 +24309,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-01T03:14:05.939822"
+  "updated_at": "2026-08-08T01:48:40.045658"
 }
