@@ -7,9 +7,9 @@
   "style": "克隆投资 / 集中投资 / 丹多框架",
   "style_zh": "克隆投资 / 集中投资 / 丹多框架",
   "style_en": "Cloning strategy / Concentrated investing / Dhandho framework",
-  "report_period": "2026-03-31",
-  "filing_date": "2026-05-14",
-  "total_value": 422885142.0,
+  "report_period": "2026-06-30",
+  "filing_date": "2026-08-13",
+  "total_value": 326749980.0,
   "holdings": [
     {
       "Issuer": "WARRIOR MET COAL INC",
@@ -17,9 +17,9 @@
       "Cusip": "93627C101",
       "Ticker": "HCC",
       "PutCall": "",
-      "SharesPrnAmount": 1810831,
-      "Value": 168678908,
-      "SoleVoting": 1810831,
+      "SharesPrnAmount": 1744050,
+      "Value": 141547098,
+      "SoleVoting": 1744050,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -30,9 +30,9 @@
       "Cusip": "H8817H100",
       "Ticker": "RIG",
       "PutCall": "",
-      "SharesPrnAmount": 20392672,
-      "Value": 135203415,
-      "SoleVoting": 20392672,
+      "SharesPrnAmount": 20398659,
+      "Value": 99749443,
+      "SoleVoting": 20398659,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -43,13 +43,26 @@
       "Cusip": "020764106",
       "Ticker": "AMR",
       "PutCall": "",
-      "SharesPrnAmount": 579738,
-      "Value": 119002819,
-      "SoleVoting": 579738,
+      "SharesPrnAmount": 517194,
+      "Value": 85305978,
+      "SoleVoting": 517194,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "KASPI KZ JSC",
+      "Class": "SPONSORED ADS",
+      "Cusip": "48581R205",
+      "Ticker": "KSPI",
+      "PutCall": "",
+      "SharesPrnAmount": 1702,
+      "Value": 147461,
+      "SoleVoting": 1702,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-08T01:48:22.307037"
+  "updated_at": "2026-08-15T01:21:15.534319"
 }

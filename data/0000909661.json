@@ -7,36 +7,23 @@
   "style": "",
   "style_zh": "",
   "style_en": "",
-  "report_period": "2025-12-31",
-  "filing_date": "2026-05-15",
-  "total_value": 883688090.0,
+  "report_period": "2026-03-31",
+  "filing_date": "2026-08-14",
+  "total_value": 1522908900.0,
   "holdings": [
     {
-      "Issuer": "EXACT SCIENCES CORP",
+      "Issuer": "ELECTRONIC ARTS INC",
       "Class": "COM",
-      "Cusip": "30063P105",
-      "Ticker": "EXAS",
+      "Cusip": "285512109",
+      "Ticker": "EA",
       "PutCall": "",
-      "SharesPrnAmount": 6405000,
-      "Value": 650491800,
-      "SoleVoting": 6405000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
-      "Issuer": "AVIDITY BIOSCIENCES INC",
-      "Class": "COM",
-      "Cusip": "05370A108",
-      "Ticker": "RNAM",
-      "PutCall": "",
-      "SharesPrnAmount": 3233000,
-      "Value": 233196290,
-      "SoleVoting": 3233000,
+      "SharesPrnAmount": 7470000,
+      "Value": 1522908900,
+      "SoleVoting": 7470000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-08T01:48:34.434944"
+  "updated_at": "2026-08-15T01:21:26.442099"
 }
