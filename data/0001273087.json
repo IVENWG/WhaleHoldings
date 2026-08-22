@@ -26198,7 +26198,7 @@
       "Class": "ST     STR  SP   RETAIL",
       "Cusip": "78464A714",
       "Ticker": "XRT",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 150000,
       "Value": 13161000,
       "SoleVoting": 0,
@@ -26211,7 +26211,7 @@
       "Class": "ST     STR  SP   RETAIL",
       "Cusip": "78464A714",
       "Ticker": "XRT",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 150000,
       "Value": 13161000,
       "SoleVoting": 0,
@@ -38882,10 +38882,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "METALS  ACQUISITION        CORP  II",
+      "Issuer": "OTG   ACQUISITION       CORP.   I",
       "Class": "ORD       CL   A",
-      "Cusip": "G60420109",
-      "Ticker": "MTAL",
+      "Cusip": "G6791A100",
+      "Ticker": "OTGA",
       "PutCall": "",
       "SharesPrnAmount": 500000,
       "Value": 5075000,
@@ -38895,10 +38895,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "OTG   ACQUISITION       CORP.   I",
+      "Issuer": "METALS  ACQUISITION        CORP  II",
       "Class": "ORD       CL   A",
-      "Cusip": "G6791A100",
-      "Ticker": "OTGA",
+      "Cusip": "G60420109",
+      "Ticker": "MTAL",
       "PutCall": "",
       "SharesPrnAmount": 500000,
       "Value": 5075000,
@@ -43124,7 +43124,7 @@
       "Class": "SPONSORED         ADS",
       "Cusip": "07725L102",
       "Ticker": "ONC",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 12500,
       "Value": 3562125,
       "SoleVoting": 0,
@@ -43137,7 +43137,7 @@
       "Class": "SPONSORED         ADS",
       "Cusip": "07725L102",
       "Ticker": "ONC",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 12500,
       "Value": 3562125,
       "SoleVoting": 0,
@@ -52285,10 +52285,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "MCKINLEY   ACQUISITION       CORP",
-      "Class": "SHS       CL   A",
-      "Cusip": "G6005T101",
-      "Ticker": "MKLY",
+      "Issuer": "SILVERBOX       CORP   V",
+      "Class": "UNIT      99/99/9999",
+      "Cusip": "G8148S123",
+      "Ticker": "SBXEU",
       "PutCall": "",
       "SharesPrnAmount": 150000,
       "Value": 1522500,
@@ -52298,10 +52298,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "SILVERBOX       CORP   V",
-      "Class": "UNIT      99/99/9999",
-      "Cusip": "G8148S123",
-      "Ticker": "SBXEU",
+      "Issuer": "MCKINLEY   ACQUISITION       CORP",
+      "Class": "SHS       CL   A",
+      "Cusip": "G6005T101",
+      "Ticker": "MKLY",
       "PutCall": "",
       "SharesPrnAmount": 150000,
       "Value": 1522500,
@@ -54248,10 +54248,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "TAILWIND     2.0   ACQUISITION    COR",
-      "Class": "ORD       SHS       CL   A",
-      "Cusip": "G8662J111",
-      "Ticker": "TDWD",
+      "Issuer": "BLUE   WTR   ACQUISITION       CORP   IV",
+      "Class": "UNIT      99/99/9999",
+      "Cusip": "G1368A120",
+      "Ticker": "BWIVU",
       "PutCall": "",
       "SharesPrnAmount": 125000,
       "Value": 1255000,
@@ -54261,10 +54261,10 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "BLUE   WTR   ACQUISITION       CORP   IV",
-      "Class": "UNIT      99/99/9999",
-      "Cusip": "G1368A120",
-      "Ticker": "BWIVU",
+      "Issuer": "TAILWIND     2.0   ACQUISITION    COR",
+      "Class": "ORD       SHS       CL   A",
+      "Cusip": "G8662J111",
+      "Ticker": "TDWD",
       "PutCall": "",
       "SharesPrnAmount": 125000,
       "Value": 1255000,
@@ -57486,9 +57486,9 @@
     },
     {
       "Issuer": "SPRING     VY   ACQUISITION      CORP    I",
-      "Class": "*W     EXP     01/22/203",
-      "Cusip": "G8377G113",
-      "Ticker": "SVIVW",
+      "Class": "*W     EXP     09/04/203",
+      "Cusip": "G8377R119",
+      "Ticker": "SVACW",
       "PutCall": "Call",
       "SharesPrnAmount": 526458,
       "Value": 854074,
@@ -57499,9 +57499,9 @@
     },
     {
       "Issuer": "SPRING     VY   ACQUISITION      CORP    I",
-      "Class": "*W     EXP     09/04/203",
-      "Cusip": "G8377R119",
-      "Ticker": "SVACW",
+      "Class": "*W     EXP     01/22/203",
+      "Cusip": "G8377G113",
+      "Ticker": "SVIVW",
       "PutCall": "Call",
       "SharesPrnAmount": 526458,
       "Value": 854074,
@@ -63989,7 +63989,7 @@
       "Class": "COMMON      STOCK",
       "Cusip": "74743L100",
       "Ticker": "Q",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 2500,
       "Value": 408275,
       "SoleVoting": 0,
@@ -64002,7 +64002,7 @@
       "Class": "COMMON      STOCK",
       "Cusip": "74743L100",
       "Ticker": "Q",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 2500,
       "Value": 408275,
       "SoleVoting": 0,
@@ -70173,19 +70173,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ARTIUS     II   ACQUISITION      INC",
-      "Class": "RIGHT       11/27/2029",
-      "Cusip": "G0509J123",
-      "Ticker": "AACBR",
-      "PutCall": "",
-      "SharesPrnAmount": 700000,
-      "Value": 147000,
-      "SoleVoting": 0,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "GENERAL   CATALYST     GBL   RESIL    M",
       "Class": "*W     EXP       04/13/203",
       "Cusip": "G3793T120",
@@ -70196,6 +70183,19 @@
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 150000,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ARTIUS     II   ACQUISITION      INC",
+      "Class": "RIGHT       11/27/2029",
+      "Cusip": "G0509J123",
+      "Ticker": "AACBR",
+      "PutCall": "",
+      "SharesPrnAmount": 700000,
+      "Value": 147000,
+      "SoleVoting": 0,
+      "SharedVoting": 0,
+      "NonVoting": 0,
       "Type": "Shares"
     },
     {
@@ -75243,19 +75243,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "THE   ONCOLOGY      INSTITUTE    INC",
-      "Class": "*W     EXP     99/99/999",
-      "Cusip": "68236X118",
-      "Ticker": "TOIIW",
-      "PutCall": "Call",
-      "SharesPrnAmount": 12500,
-      "Value": 510,
-      "SoleVoting": 0,
-      "SharedVoting": 0,
-      "NonVoting": 12500,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CYCURION    INC",
       "Class": "*W     EXP  02/13/203",
       "Cusip": "95758L115",
@@ -75266,6 +75253,19 @@
       "SoleVoting": 0,
       "SharedVoting": 0,
       "NonVoting": 30000,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "THE   ONCOLOGY      INSTITUTE    INC",
+      "Class": "*W     EXP     99/99/999",
+      "Cusip": "68236X118",
+      "Ticker": "TOIIW",
+      "PutCall": "Call",
+      "SharesPrnAmount": 12500,
+      "Value": 510,
+      "SoleVoting": 0,
+      "SharedVoting": 0,
+      "NonVoting": 12500,
       "Type": "Shares"
     },
     {
@@ -75360,5 +75360,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-15T01:21:19.887376"
+  "updated_at": "2026-08-22T01:20:43.826472"
 }

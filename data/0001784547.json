@@ -12492,19 +12492,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "JATT II ACQUISITION CORP",
-      "Class": "ORD SHS",
-      "Cusip": "G50765109",
-      "Ticker": "JATT",
-      "PutCall": "",
-      "SharesPrnAmount": 50000,
-      "Value": 568000,
-      "SoleVoting": 50000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "LENZ THERAPEUTICS INC",
       "Class": "COM",
       "Cusip": "52635N103",
@@ -12513,6 +12500,19 @@
       "SharesPrnAmount": 100000,
       "Value": 568000,
       "SoleVoting": 100000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "JATT II ACQUISITION CORP",
+      "Class": "ORD SHS",
+      "Cusip": "G50765109",
+      "Ticker": "JATT",
+      "PutCall": "",
+      "SharesPrnAmount": 50000,
+      "Value": 568000,
+      "SoleVoting": 50000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -13155,5 +13155,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-15T01:21:37.153305"
+  "updated_at": "2026-08-22T01:20:56.410500"
 }

@@ -83355,19 +83355,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ADAGENE INC",
-      "Class": "ADS",
-      "Cusip": "005329107",
-      "Ticker": "ADAG",
-      "PutCall": "",
-      "SharesPrnAmount": 506934,
-      "Value": 2129123,
-      "SoleVoting": 506934,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CECO ENVIRONMENTAL CORP",
       "Class": "COM",
       "Cusip": "125141101",
@@ -83376,6 +83363,19 @@
       "SharesPrnAmount": 23464,
       "Value": 2129123,
       "SoleVoting": 23464,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ADAGENE INC",
+      "Class": "ADS",
+      "Cusip": "005329107",
+      "Ticker": "ADAG",
+      "PutCall": "",
+      "SharesPrnAmount": 506934,
+      "Value": 2129123,
+      "SoleVoting": 506934,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -100853,19 +100853,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "A10 NETWORKS INC",
-      "Class": "COM",
-      "Cusip": "002121101",
-      "Ticker": "ATEN",
-      "PutCall": "Call",
-      "SharesPrnAmount": 32200,
-      "Value": 1202992,
-      "SoleVoting": 32200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "DESTINY TECH100 INC",
       "Class": "COM SHS",
       "Cusip": "25063F107",
@@ -100874,6 +100861,19 @@
       "SharesPrnAmount": 46700,
       "Value": 1202992,
       "SoleVoting": 46700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "A10 NETWORKS INC",
+      "Class": "COM",
+      "Cusip": "002121101",
+      "Ticker": "ATEN",
+      "PutCall": "Call",
+      "SharesPrnAmount": 32200,
+      "Value": 1202992,
+      "SoleVoting": 32200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -106612,19 +106612,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "VANGUARD INDEX FDS",
-      "Class": "LARGE CAP ETF",
-      "Cusip": "922908637",
-      "Ticker": "VV",
-      "PutCall": "Call",
-      "SharesPrnAmount": 2900,
-      "Value": 997339,
-      "SoleVoting": 2900,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "VELOCITY FINL INC",
       "Class": "COM",
       "Cusip": "92262D101",
@@ -106633,6 +106620,19 @@
       "SharesPrnAmount": 54027,
       "Value": 997339,
       "SoleVoting": 54027,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "VANGUARD INDEX FDS",
+      "Class": "LARGE CAP ETF",
+      "Cusip": "922908637",
+      "Ticker": "VV",
+      "PutCall": "Call",
+      "SharesPrnAmount": 2900,
+      "Value": 997339,
+      "SoleVoting": 2900,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -108991,19 +108991,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "OP BANCORP",
-      "Class": "COM",
-      "Cusip": "67109R109",
-      "Ticker": "OPBK",
-      "PutCall": "",
-      "SharesPrnAmount": 61952,
-      "Value": 928660,
-      "SoleVoting": 61952,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "FIDELITY ETHEREUM FD",
       "Class": "SHS",
       "Cusip": "31613E103",
@@ -109012,6 +108999,19 @@
       "SharesPrnAmount": 59000,
       "Value": 928660,
       "SoleVoting": 59000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "OP BANCORP",
+      "Class": "COM",
+      "Cusip": "67109R109",
+      "Ticker": "OPBK",
+      "PutCall": "",
+      "SharesPrnAmount": 61952,
+      "Value": 928660,
+      "SoleVoting": 61952,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -109095,19 +109095,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "WILLDAN GROUP INC",
-      "Class": "COM",
-      "Cusip": "96924N100",
-      "Ticker": "WLDN",
-      "PutCall": "Put",
-      "SharesPrnAmount": 11700,
-      "Value": 925470,
-      "SoleVoting": 11700,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "TRONOX HOLDINGS PLC",
       "Class": "SHS",
       "Cusip": "G9087Q102",
@@ -109116,6 +109103,19 @@
       "SharesPrnAmount": 146900,
       "Value": 925470,
       "SoleVoting": 146900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "WILLDAN GROUP INC",
+      "Class": "COM",
+      "Cusip": "96924N100",
+      "Ticker": "WLDN",
+      "PutCall": "Put",
+      "SharesPrnAmount": 11700,
+      "Value": 925470,
+      "SoleVoting": 11700,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -113411,19 +113411,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "KODIAK AI INC.",
-      "Class": "COM",
-      "Cusip": "500081104",
-      "Ticker": "KDK",
-      "PutCall": "Put",
-      "SharesPrnAmount": 159600,
-      "Value": 810768,
-      "SoleVoting": 159600,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "GLOBAL X FDS",
       "Class": "MSCI CHINA CNSMR",
       "Cusip": "37950E408",
@@ -113432,6 +113419,19 @@
       "SharesPrnAmount": 51282,
       "Value": 810768,
       "SoleVoting": 51282,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "KODIAK AI INC.",
+      "Class": "COM",
+      "Cusip": "500081104",
+      "Ticker": "KDK",
+      "PutCall": "Put",
+      "SharesPrnAmount": 159600,
+      "Value": 810768,
+      "SoleVoting": 159600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -130233,19 +130233,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "INVESCO EXCH TRD SLF IDX FD",
-      "Class": "BULLETSHS 2028",
-      "Cusip": "46138J338",
-      "Ticker": "BSTS",
-      "PutCall": "",
-      "SharesPrnAmount": 18679,
-      "Value": 468469,
-      "SoleVoting": 18679,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "TCW ETF TRUST",
       "Class": "DURABLE GROWTH",
       "Cusip": "29287L601",
@@ -130254,6 +130241,19 @@
       "SharesPrnAmount": 14536,
       "Value": 468469,
       "SoleVoting": 14536,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "INVESCO EXCH TRD SLF IDX FD",
+      "Class": "BULLETSHS 2028",
+      "Cusip": "46138J338",
+      "Ticker": "BSTS",
+      "PutCall": "",
+      "SharesPrnAmount": 18679,
+      "Value": 468469,
+      "SoleVoting": 18679,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -134640,19 +134640,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CITIZENS INC",
-      "Class": "CL A",
-      "Cusip": "174740100",
-      "Ticker": "CIA",
-      "PutCall": "Put",
-      "SharesPrnAmount": 71500,
-      "Value": 410410,
-      "SoleVoting": 71500,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "ONESPAN INC",
       "Class": "COM",
       "Cusip": "68287N100",
@@ -134661,6 +134648,19 @@
       "SharesPrnAmount": 28600,
       "Value": 410410,
       "SoleVoting": 28600,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "CITIZENS INC",
+      "Class": "CL A",
+      "Cusip": "174740100",
+      "Ticker": "CIA",
+      "PutCall": "Put",
+      "SharesPrnAmount": 71500,
+      "Value": 410410,
+      "SoleVoting": 71500,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -139320,19 +139320,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ANDERSONS INC",
-      "Class": "COM",
-      "Cusip": "034164103",
-      "Ticker": "ANDE",
-      "PutCall": "Put",
-      "SharesPrnAmount": 5200,
-      "Value": 355680,
-      "SoleVoting": 5200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "BROWN FORMAN CORP",
       "Class": "CL A",
       "Cusip": "115637100",
@@ -139341,6 +139328,19 @@
       "SharesPrnAmount": 13000,
       "Value": 355680,
       "SoleVoting": 13000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ANDERSONS INC",
+      "Class": "COM",
+      "Cusip": "034164103",
+      "Ticker": "ANDE",
+      "PutCall": "Put",
+      "SharesPrnAmount": 5200,
+      "Value": 355680,
+      "SoleVoting": 5200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -139827,19 +139827,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "DRAGANFLY INC.",
-      "Class": "COM",
-      "Cusip": "26142Q304",
-      "Ticker": "DPRO",
-      "PutCall": "",
-      "SharesPrnAmount": 64777,
-      "Value": 351091,
-      "SoleVoting": 64777,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "BNY MELLON ETF TRUST II",
       "Class": "ACTI CORE BD ETF",
       "Cusip": "05613H506",
@@ -139848,6 +139835,19 @@
       "SharesPrnAmount": 14675,
       "Value": 351091,
       "SoleVoting": 14675,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "DRAGANFLY INC.",
+      "Class": "COM",
+      "Cusip": "26142Q304",
+      "Ticker": "DPRO",
+      "PutCall": "",
+      "SharesPrnAmount": 64777,
+      "Value": 351091,
+      "SoleVoting": 64777,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -143402,19 +143402,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PRA GROUP INC",
-      "Class": "COM",
-      "Cusip": "69354N106",
-      "Ticker": "PRAA",
-      "PutCall": "Call",
-      "SharesPrnAmount": 16400,
-      "Value": 311436,
-      "SoleVoting": 16400,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "GRUPO AEROMEXICO SAB DE CV",
       "Class": "SPONSORED ADS",
       "Cusip": "40054J109",
@@ -143423,6 +143410,19 @@
       "SharesPrnAmount": 17302,
       "Value": 311436,
       "SoleVoting": 17302,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PRA GROUP INC",
+      "Class": "COM",
+      "Cusip": "69354N106",
+      "Ticker": "PRAA",
+      "PutCall": "Call",
+      "SharesPrnAmount": 16400,
+      "Value": 311436,
+      "SoleVoting": 16400,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -144481,19 +144481,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "KELLY SVCS INC",
-      "Class": "CL A",
-      "Cusip": "488152208",
-      "Ticker": "KELYA",
-      "PutCall": "Put",
-      "SharesPrnAmount": 24600,
-      "Value": 302088,
-      "SoleVoting": 24600,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SKY HARBOUR GROUP CORPORATIO",
       "Class": "COM CL A",
       "Cusip": "83085C107",
@@ -144502,6 +144489,19 @@
       "SharesPrnAmount": 30700,
       "Value": 302088,
       "SoleVoting": 30700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "KELLY SVCS INC",
+      "Class": "CL A",
+      "Cusip": "488152208",
+      "Ticker": "KELYA",
+      "PutCall": "Put",
+      "SharesPrnAmount": 24600,
+      "Value": 302088,
+      "SoleVoting": 24600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -151254,19 +151254,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PALOMAR HLDGS INC",
-      "Class": "COM",
-      "Cusip": "69753M105",
-      "Ticker": "PLMR",
-      "PutCall": "Put",
-      "SharesPrnAmount": 1900,
-      "Value": 240141,
-      "SoleVoting": 1900,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "TIDAL TRUST II",
       "Class": "YIEL MAGN 7 ETFS",
       "Cusip": "88636J642",
@@ -151275,6 +151262,19 @@
       "SharesPrnAmount": 20900,
       "Value": 240141,
       "SoleVoting": 20900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PALOMAR HLDGS INC",
+      "Class": "COM",
+      "Cusip": "69753M105",
+      "Ticker": "PLMR",
+      "PutCall": "Put",
+      "SharesPrnAmount": 1900,
+      "Value": 240141,
+      "SoleVoting": 1900,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -153568,19 +153568,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "FLEXSHARES TR",
-      "Class": "DEV MRK EX LOW",
-      "Cusip": "33939L647",
-      "Ticker": "QLVD",
-      "PutCall": "",
-      "SharesPrnAmount": 6864,
-      "Value": 223287,
-      "SoleVoting": 6864,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SERITAGE GROWTH PPTYS",
       "Class": "CL A",
       "Cusip": "81752R100",
@@ -153589,6 +153576,19 @@
       "SharesPrnAmount": 84900,
       "Value": 223287,
       "SoleVoting": 84900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "FLEXSHARES TR",
+      "Class": "DEV MRK EX LOW",
+      "Cusip": "33939L647",
+      "Ticker": "QLVD",
+      "PutCall": "",
+      "SharesPrnAmount": 6864,
+      "Value": 223287,
+      "SoleVoting": 6864,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -154569,19 +154569,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "LISTED FDS TR",
-      "Class": "ALPHADROID DEFN",
-      "Cusip": "53656H751",
-      "Ticker": "EZRO",
-      "PutCall": "",
-      "SharesPrnAmount": 8470,
-      "Value": 216768,
-      "SoleVoting": 8470,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "HEALTHEQUITY INC",
       "Class": "COM",
       "Cusip": "42226A107",
@@ -154590,6 +154577,19 @@
       "SharesPrnAmount": 2400,
       "Value": 216768,
       "SoleVoting": 2400,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "LISTED FDS TR",
+      "Class": "ALPHADROID DEFN",
+      "Cusip": "53656H751",
+      "Ticker": "EZRO",
+      "PutCall": "",
+      "SharesPrnAmount": 8470,
+      "Value": 216768,
+      "SoleVoting": 8470,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -155258,19 +155258,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "SEQUANS COMMUNICATIONS S A",
-      "Class": "SPONSORED ADS",
-      "Cusip": "817323405",
-      "Ticker": "SQNS",
-      "PutCall": "Put",
-      "SharesPrnAmount": 62300,
-      "Value": 211820,
-      "SoleVoting": 62300,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "COLUMBUS MCKINNON CORP N Y",
       "Class": "COM",
       "Cusip": "199333105",
@@ -155279,6 +155266,19 @@
       "SharesPrnAmount": 14000,
       "Value": 211820,
       "SoleVoting": 14000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "SEQUANS COMMUNICATIONS S A",
+      "Class": "SPONSORED ADS",
+      "Cusip": "817323405",
+      "Ticker": "SQNS",
+      "PutCall": "Put",
+      "SharesPrnAmount": 62300,
+      "Value": 211820,
+      "SoleVoting": 62300,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -168739,19 +168739,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ADDENTAX GROUP CORP",
-      "Class": "COM NEW",
-      "Cusip": "00653L400",
-      "Ticker": "ATXG",
-      "PutCall": "",
-      "SharesPrnAmount": 21777,
-      "Value": 65984,
-      "SoleVoting": 21777,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SMART POWERR CORP",
       "Class": "COM",
       "Cusip": "168913507",
@@ -168760,6 +168747,19 @@
       "SharesPrnAmount": 32031,
       "Value": 65984,
       "SoleVoting": 32031,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ADDENTAX GROUP CORP",
+      "Class": "COM NEW",
+      "Cusip": "00653L400",
+      "Ticker": "ATXG",
+      "PutCall": "",
+      "SharesPrnAmount": 21777,
+      "Value": 65984,
+      "SoleVoting": 21777,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -171976,19 +171976,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "WALDENCAST PLC",
-      "Class": "CLASS A ORD SHS",
-      "Cusip": "G9503X103",
-      "Ticker": "WALD",
-      "PutCall": "",
-      "SharesPrnAmount": 22425,
-      "Value": 39468,
-      "SoleVoting": 22425,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "LUFAX HOLDING LTD",
       "Class": "SPONSORED ADR",
       "Cusip": "54975P201",
@@ -171997,6 +171984,19 @@
       "SharesPrnAmount": 29900,
       "Value": 39468,
       "SoleVoting": 29900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "WALDENCAST PLC",
+      "Class": "CLASS A ORD SHS",
+      "Cusip": "G9503X103",
+      "Ticker": "WALD",
+      "PutCall": "",
+      "SharesPrnAmount": 22425,
+      "Value": 39468,
+      "SoleVoting": 22425,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -176487,5 +176487,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-15T01:21:19.147646"
+  "updated_at": "2026-08-22T01:20:43.057148"
 }

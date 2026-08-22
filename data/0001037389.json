@@ -34163,19 +34163,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "BROOKFIELD WEALTH SOL LTD",
-      "Class": "CL A EXCHANGEAB",
-      "Cusip": "G17434104",
-      "Ticker": "BNT",
-      "PutCall": "",
-      "SharesPrnAmount": 10800,
-      "Value": 460728,
-      "SoleVoting": 10800,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CLARIVATE PLC",
       "Class": "ORD SHS",
       "Cusip": "G21810109",
@@ -34184,6 +34171,19 @@
       "SharesPrnAmount": 213300,
       "Value": 460728,
       "SoleVoting": 213300,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "BROOKFIELD WEALTH SOL LTD",
+      "Class": "CL A EXCHANGEAB",
+      "Cusip": "G17434104",
+      "Ticker": "BNT",
+      "PutCall": "",
+      "SharesPrnAmount": 10800,
+      "Value": 460728,
+      "SoleVoting": 10800,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -40832,5 +40832,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-08-15T01:21:17.425354"
+  "updated_at": "2026-08-22T01:20:41.467068"
 }
