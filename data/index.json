@@ -11,7 +11,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 299253556246.0,
-    "last_update": "2026-09-12T03:43:59.674072"
+    "last_update": "2026-09-19T03:45:14.431892"
   },
   {
     "name": "Baupost Group (Seth Klarman)",
@@ -25,7 +25,7 @@
     "filing_date": "2026-08-13",
     "report_period": "2026-06-30",
     "total_value": 5415853000.0,
-    "last_update": "2026-09-12T03:43:59.747711"
+    "last_update": "2026-09-19T03:45:14.578466"
   },
   {
     "name": "Himalaya Capital (Li Lu)",
@@ -39,7 +39,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 3702921098.0,
-    "last_update": "2026-09-12T03:43:59.787857"
+    "last_update": "2026-09-19T03:45:14.621397"
   },
   {
     "name": "Pabrai Investment Funds (Mohnish Pabrai)",
@@ -53,7 +53,7 @@
     "filing_date": "2026-08-13",
     "report_period": "2026-06-30",
     "total_value": 326749980.0,
-    "last_update": "2026-09-12T03:43:59.832934"
+    "last_update": "2026-09-19T03:45:14.682416"
   },
   {
     "name": "H&H International Investment (Duan Yongping)",
@@ -67,7 +67,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 19100584155.0,
-    "last_update": "2026-09-12T03:44:00.401077"
+    "last_update": "2026-09-19T03:45:15.219740"
   },
   {
     "name": "Bill & Melinda Gates Foundation",
@@ -81,21 +81,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 34424791932.0,
-    "last_update": "2026-09-12T03:44:00.771499"
-  },
-  {
-    "name": "Greenlight Capital (David Einhorn)",
-    "cik": "0001489933",
-    "description": "大卫·艾因霍恩（David Einhorn）创立的 Greenlight Capital 以严谨的基本面研究和公开做空闻名。其投资风格兼具价值投资和事件驱动，擅长寻找市场预期与企业真实盈利能力之间的错配，并通过多空组合控制风险。",
-    "description_zh": "大卫·艾因霍恩（David Einhorn）创立的 Greenlight Capital 以严谨的基本面研究和公开做空闻名。其投资风格兼具价值投资和事件驱动，擅长寻找市场预期与企业真实盈利能力之间的错配，并通过多空组合控制风险。",
-    "description_en": "Greenlight Capital, founded by David Einhorn, is known for rigorous fundamental research and public short selling. Its style blends value investing with event-driven strategies, seeking gaps between market expectations and a company’s true earnings power while controlling risk through long/short portfolios.",
-    "style": "价值投资 / 股票多空 / 基本面研究",
-    "style_zh": "价值投资 / 股票多空 / 基本面研究",
-    "style_en": "Value investing / Long-short equity / Fundamental research",
-    "filing_date": "2026-08-14",
-    "report_period": "2026-06-30",
-    "total_value": 3908853490.0,
-    "last_update": "2026-09-12T03:44:00.915530"
+    "last_update": "2026-09-19T03:45:15.524390"
   },
   {
     "name": "Bridgewater Associates (Ray Dalio)",
@@ -109,7 +95,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 24376086530.0,
-    "last_update": "2026-09-12T03:44:01.043372"
+    "last_update": "2026-09-19T03:45:36.106219"
   },
   {
     "name": "Renaissance Technologies (Jim Simons)",
@@ -123,7 +109,7 @@
     "filing_date": "2026-08-13",
     "report_period": "2026-06-30",
     "total_value": 72617871974.0,
-    "last_update": "2026-09-12T03:44:01.771613"
+    "last_update": "2026-09-19T03:45:36.481753"
   },
   {
     "name": "Citadel Advisors (Ken Griffin)",
@@ -137,7 +123,7 @@
     "filing_date": "2026-09-02",
     "report_period": "2026-06-30",
     "total_value": 875011794337.0,
-    "last_update": "2026-09-12T03:44:03.360769"
+    "last_update": "2026-09-19T03:45:37.708883"
   },
   {
     "name": "Millennium Management (Israel Englander)",
@@ -151,7 +137,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 276293649404.0,
-    "last_update": "2026-09-12T03:44:04.250834"
+    "last_update": "2026-09-19T03:45:38.199332"
   },
   {
     "name": "D.E. Shaw & Co. (David Shaw)",
@@ -165,7 +151,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 210202510998.0,
-    "last_update": "2026-09-12T03:44:04.906344"
+    "last_update": "2026-09-19T03:45:38.668269"
   },
   {
     "name": "Two Sigma Advisers (Overdeck / Siegel)",
@@ -179,7 +165,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 0.0,
-    "last_update": "2026-09-12T03:44:05.138624"
+    "last_update": "2026-09-19T03:45:38.899907"
   },
   {
     "name": "Soros Fund Management (George Soros)",
@@ -193,7 +179,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 8143628824.0,
-    "last_update": "2026-09-12T03:44:05.197842"
+    "last_update": "2026-09-19T03:45:39.053043"
   },
   {
     "name": "Duquesne Family Office (Stanley Druckenmiller)",
@@ -207,7 +193,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 5210860000.0,
-    "last_update": "2026-09-12T03:44:05.302903"
+    "last_update": "2026-09-19T03:45:39.101963"
   },
   {
     "name": "Point72 Asset Management (Steve Cohen)",
@@ -221,7 +207,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 90675333456.0,
-    "last_update": "2026-09-12T03:44:05.939717"
+    "last_update": "2026-09-19T03:45:39.767321"
   },
   {
     "name": "Appaloosa Management (David Tepper)",
@@ -235,7 +221,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 7725383349.0,
-    "last_update": "2026-09-12T03:44:06.191565"
+    "last_update": "2026-09-19T03:45:39.885465"
   },
   {
     "name": "ARK Invest (Cathie Wood)",
@@ -249,7 +235,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 15402788184.0,
-    "last_update": "2026-09-12T03:44:06.281061"
+    "last_update": "2026-09-19T03:45:40.046812"
   },
   {
     "name": "Tiger Global Management (Chase Coleman)",
@@ -263,7 +249,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 23981506027.0,
-    "last_update": "2026-09-12T03:44:06.389367"
+    "last_update": "2026-09-19T03:45:40.171956"
   },
   {
     "name": "Coatue Management (Philippe Laffont)",
@@ -277,7 +263,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 48629053706.0,
-    "last_update": "2026-09-12T03:44:06.575271"
+    "last_update": "2026-09-19T03:45:40.355869"
   },
   {
     "name": "Viking Global Investors (Andreas Halvorsen)",
@@ -291,7 +277,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 35079228595.0,
-    "last_update": "2026-09-12T03:44:07.025906"
+    "last_update": "2026-09-19T03:45:40.856692"
   },
   {
     "name": "Lone Pine Capital (Stephen Mandel)",
@@ -305,7 +291,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 16357760275.0,
-    "last_update": "2026-09-12T03:44:07.339557"
+    "last_update": "2026-09-19T03:45:41.047509"
   },
   {
     "name": "Altimeter Capital Management (Brad Gerstner)",
@@ -319,7 +305,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 9829676383.0,
-    "last_update": "2026-09-12T03:44:07.438402"
+    "last_update": "2026-09-19T03:45:41.181975"
   },
   {
     "name": "Whale Rock Capital Management",
@@ -333,7 +319,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 12456319060.0,
-    "last_update": "2026-09-12T03:44:07.530256"
+    "last_update": "2026-09-19T03:45:41.329680"
   },
   {
     "name": "SoftBank Group (Masayoshi Son)",
@@ -347,7 +333,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 18174540337.0,
-    "last_update": "2026-09-12T03:44:07.749879"
+    "last_update": "2026-09-19T03:45:41.566728"
   },
   {
     "name": "Pershing Square (Bill Ackman)",
@@ -361,7 +347,7 @@
     "filing_date": "2026-05-15",
     "report_period": "2026-03-31",
     "total_value": 13714299861.0,
-    "last_update": "2026-09-12T03:44:08.292287"
+    "last_update": "2026-09-19T03:45:42.032374"
   },
   {
     "name": "Icahn Capital (Carl Icahn)",
@@ -375,7 +361,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 8264090525.0,
-    "last_update": "2026-09-12T03:44:08.669602"
+    "last_update": "2026-09-19T03:45:42.489372"
   },
   {
     "name": "Trian Fund Management (Nelson Peltz)",
@@ -389,7 +375,7 @@
     "filing_date": "2026-08-12",
     "report_period": "2026-06-30",
     "total_value": 4230905202.0,
-    "last_update": "2026-09-12T03:44:08.824456"
+    "last_update": "2026-09-19T03:45:42.631521"
   },
   {
     "name": "Third Point (Dan Loeb)",
@@ -403,7 +389,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 4679571988.0,
-    "last_update": "2026-09-12T03:44:09.345037"
+    "last_update": "2026-09-19T03:45:43.170500"
   },
   {
     "name": "ValueAct Capital (Mason Morfit)",
@@ -417,7 +403,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 5634931372.0,
-    "last_update": "2026-09-12T03:44:09.567075"
+    "last_update": "2026-09-19T03:45:43.305412"
   },
   {
     "name": "Elliott Investment Mgmt (Paul Singer)",
@@ -431,7 +417,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 22669814953.0,
-    "last_update": "2026-09-12T03:44:09.738265"
+    "last_update": "2026-09-19T03:45:43.538134"
   },
   {
     "name": "Scion Asset Management (Michael Burry)",
@@ -445,7 +431,7 @@
     "filing_date": "2025-11-03",
     "report_period": "2025-09-30",
     "total_value": 1381198076.0,
-    "last_update": "2026-09-12T03:44:09.821024"
+    "last_update": "2026-09-19T03:45:43.688245"
   },
   {
     "name": "Maverick Capital (Lee Ainslie)",
@@ -459,7 +445,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 11320923736.0,
-    "last_update": "2026-09-12T03:44:10.189307"
+    "last_update": "2026-09-19T03:45:44.034776"
   },
   {
     "name": "Farallon Capital (Andrew Spokes)",
@@ -473,7 +459,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-03-31",
     "total_value": 1522908900.0,
-    "last_update": "2026-09-12T03:44:10.565852"
+    "last_update": "2026-09-19T03:45:44.313932"
   },
   {
     "name": "Fisher Asset Management (Ken Fisher)",
@@ -487,7 +473,7 @@
     "filing_date": "2026-08-04",
     "report_period": "2026-06-30",
     "total_value": 335827609549.0,
-    "last_update": "2026-09-12T03:44:10.692356"
+    "last_update": "2026-09-19T03:45:45.009108"
   },
   {
     "name": "GQG Partners (Rajiv Jain)",
@@ -501,7 +487,7 @@
     "filing_date": "2026-08-12",
     "report_period": "2026-06-30",
     "total_value": 53757403317.0,
-    "last_update": "2026-09-12T03:44:10.863321"
+    "last_update": "2026-09-19T03:45:45.345363"
   },
   {
     "name": "Leon Cooperman (Omega Advisors)",
@@ -515,21 +501,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 3547427123.0,
-    "last_update": "2026-09-12T03:44:11.026582"
-  },
-  {
-    "name": "Paulson & Co. (John Paulson)",
-    "cik": "0001035674",
-    "description": "",
-    "description_zh": "",
-    "description_en": "",
-    "style": "",
-    "style_zh": "",
-    "style_en": "",
-    "filing_date": "2026-08-14",
-    "report_period": "2026-06-30",
-    "total_value": 2575691752.0,
-    "last_update": "2026-09-12T03:44:11.454340"
+    "last_update": "2026-09-19T03:45:45.454587"
   },
   {
     "name": "Temasek Holdings (Singapore)",
@@ -543,35 +515,7 @@
     "filing_date": "2026-08-07",
     "report_period": "2026-06-30",
     "total_value": 37253810301.0,
-    "last_update": "2026-09-12T03:44:11.878176"
-  },
-  {
-    "name": "Wellington Management Group",
-    "cik": "0000902219",
-    "description": "",
-    "description_zh": "",
-    "description_en": "",
-    "style": "",
-    "style_zh": "",
-    "style_en": "",
-    "filing_date": "2026-08-14",
-    "report_period": "2026-06-30",
-    "total_value": 580172687616.0,
-    "last_update": "2026-09-12T03:44:14.163776"
-  },
-  {
-    "name": "Sands Capital Management",
-    "cik": "0001020066",
-    "description": "",
-    "description_zh": "",
-    "description_en": "",
-    "style": "",
-    "style_zh": "",
-    "style_en": "",
-    "filing_date": "2026-08-13",
-    "report_period": "2026-06-30",
-    "total_value": 26928187141.0,
-    "last_update": "2026-09-12T03:44:14.327636"
+    "last_update": "2026-09-19T03:46:06.013535"
   },
   {
     "name": "Silver Lake Group",
@@ -585,7 +529,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 4579551414.0,
-    "last_update": "2026-09-12T03:44:14.501589"
+    "last_update": "2026-09-19T03:46:48.400742"
   },
   {
     "name": "Glenview Capital (Larry Robbins)",
@@ -599,7 +543,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 5491647047.0,
-    "last_update": "2026-09-12T03:44:14.546091"
+    "last_update": "2026-09-19T03:46:48.691804"
   },
   {
     "name": "TCI Fund Management (Chris Hohn)",
@@ -613,7 +557,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 52769884406.0,
-    "last_update": "2026-09-12T03:44:14.674493"
+    "last_update": "2026-09-19T03:46:48.758624"
   },
   {
     "name": "Marshall Wace LLP",
@@ -627,7 +571,7 @@
     "filing_date": "2026-08-13",
     "report_period": "2026-06-30",
     "total_value": 126697578778.0,
-    "last_update": "2026-09-12T03:44:15.722940"
+    "last_update": "2026-09-19T03:46:49.333024"
   },
   {
     "name": "Egerton Capital (UK) LLP",
@@ -641,21 +585,7 @@
     "filing_date": "2026-07-21",
     "report_period": "2026-06-30",
     "total_value": 10351358177.0,
-    "last_update": "2026-09-12T03:44:15.844077"
-  },
-  {
-    "name": "Eminence Capital",
-    "cik": "0001107310",
-    "description": "",
-    "description_zh": "",
-    "description_en": "",
-    "style": "",
-    "style_zh": "",
-    "style_en": "",
-    "filing_date": "2026-07-06",
-    "report_period": "2026-06-30",
-    "total_value": 0.0,
-    "last_update": "2026-09-12T03:44:16.069893"
+    "last_update": "2026-09-19T03:46:49.435862"
   },
   {
     "name": "683 Capital Management",
@@ -669,21 +599,7 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 2036355354.0,
-    "last_update": "2026-09-12T03:44:16.274202"
-  },
-  {
-    "name": "Zimmer Partners",
-    "cik": "0001565854",
-    "description": "",
-    "description_zh": "",
-    "description_en": "",
-    "style": "",
-    "style_zh": "",
-    "style_en": "",
-    "filing_date": "2026-08-14",
-    "report_period": "2026-06-30",
-    "total_value": 4342914697.0,
-    "last_update": "2026-09-12T03:44:16.608233"
+    "last_update": "2026-09-19T03:47:10.423515"
   },
   {
     "name": "Woodline Partners",
@@ -697,6 +613,6 @@
     "filing_date": "2026-08-14",
     "report_period": "2026-06-30",
     "total_value": 32353047814.0,
-    "last_update": "2026-09-12T03:44:16.887294"
+    "last_update": "2026-09-19T03:47:37.919696"
   }
 ]
