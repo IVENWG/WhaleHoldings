@@ -83303,19 +83303,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ADAGENE INC",
-      "Class": "ADS",
-      "Cusip": "005329107",
-      "Ticker": "ADAG",
-      "PutCall": "",
-      "SharesPrnAmount": 506934,
-      "Value": 2129123,
-      "SoleVoting": 506934,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CECO ENVIRONMENTAL CORP",
       "Class": "COM",
       "Cusip": "125141101",
@@ -83324,6 +83311,19 @@
       "SharesPrnAmount": 23464,
       "Value": 2129123,
       "SoleVoting": 23464,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ADAGENE INC",
+      "Class": "ADS",
+      "Cusip": "005329107",
+      "Ticker": "ADAG",
+      "PutCall": "",
+      "SharesPrnAmount": 506934,
+      "Value": 2129123,
+      "SoleVoting": 506934,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -109056,19 +109056,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "TRONOX HOLDINGS PLC",
-      "Class": "SHS",
-      "Cusip": "G9087Q102",
-      "Ticker": "TROX",
-      "PutCall": "Call",
-      "SharesPrnAmount": 146900,
-      "Value": 925470,
-      "SoleVoting": 146900,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "WILLDAN GROUP INC",
       "Class": "COM",
       "Cusip": "96924N100",
@@ -109077,6 +109064,19 @@
       "SharesPrnAmount": 11700,
       "Value": 925470,
       "SoleVoting": 11700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "TRONOX HOLDINGS PLC",
+      "Class": "SHS",
+      "Cusip": "G9087Q102",
+      "Ticker": "TROX",
+      "PutCall": "Call",
+      "SharesPrnAmount": 146900,
+      "Value": 925470,
+      "SoleVoting": 146900,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -113372,19 +113372,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "GLOBAL X FDS",
-      "Class": "MSCI CHINA CNSMR",
-      "Cusip": "37950E408",
-      "Ticker": "CHIQ",
-      "PutCall": "",
-      "SharesPrnAmount": 51282,
-      "Value": 810768,
-      "SoleVoting": 51282,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "KODIAK AI INC.",
       "Class": "COM",
       "Cusip": "500081104",
@@ -113393,6 +113380,19 @@
       "SharesPrnAmount": 159600,
       "Value": 810768,
       "SoleVoting": 159600,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "GLOBAL X FDS",
+      "Class": "MSCI CHINA CNSMR",
+      "Cusip": "37950E408",
+      "Ticker": "CHIQ",
+      "PutCall": "",
+      "SharesPrnAmount": 51282,
+      "Value": 810768,
+      "SoleVoting": 51282,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -119122,7 +119122,7 @@
       "Class": "JAPN HEDGE EQT",
       "Cusip": "97717W851",
       "Ticker": "DXJ",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 3900,
       "Value": 676728,
       "SoleVoting": 3900,
@@ -119135,7 +119135,7 @@
       "Class": "JAPN HEDGE EQT",
       "Cusip": "97717W851",
       "Ticker": "DXJ",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 3900,
       "Value": 676728,
       "SoleVoting": 3900,
@@ -130194,19 +130194,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "INVESCO EXCH TRD SLF IDX FD",
-      "Class": "BULLETSHS 2028",
-      "Cusip": "46138J338",
-      "Ticker": "BSTS",
-      "PutCall": "",
-      "SharesPrnAmount": 18679,
-      "Value": 468469,
-      "SoleVoting": 18679,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "TCW ETF TRUST",
       "Class": "DURABLE GROWTH",
       "Cusip": "29287L601",
@@ -130215,6 +130202,19 @@
       "SharesPrnAmount": 14536,
       "Value": 468469,
       "SoleVoting": 14536,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "INVESCO EXCH TRD SLF IDX FD",
+      "Class": "BULLETSHS 2028",
+      "Cusip": "46138J338",
+      "Ticker": "BSTS",
+      "PutCall": "",
+      "SharesPrnAmount": 18679,
+      "Value": 468469,
+      "SoleVoting": 18679,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -131351,19 +131351,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CEMEX SA EURO MTN BE 144A",
-      "Class": "SPON ADR NEW",
-      "Cusip": "151290889",
-      "Ticker": "CX",
-      "PutCall": "Put",
-      "SharesPrnAmount": 37700,
-      "Value": 452400,
-      "SoleVoting": 37700,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "FIRST TR EXCHNG TRADED FD VI",
       "Class": "FT VEST INTER EQ",
       "Cusip": "33740F573",
@@ -131372,6 +131359,19 @@
       "SharesPrnAmount": 15787,
       "Value": 452400,
       "SoleVoting": 15787,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "CEMEX SA EURO MTN BE 144A",
+      "Class": "SPON ADR NEW",
+      "Cusip": "151290889",
+      "Ticker": "CX",
+      "PutCall": "Put",
+      "SharesPrnAmount": 37700,
+      "Value": 452400,
+      "SoleVoting": 37700,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -134601,19 +134601,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "CITIZENS INC",
-      "Class": "CL A",
-      "Cusip": "174740100",
-      "Ticker": "CIA",
-      "PutCall": "Put",
-      "SharesPrnAmount": 71500,
-      "Value": 410410,
-      "SoleVoting": 71500,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "ONESPAN INC",
       "Class": "COM",
       "Cusip": "68287N100",
@@ -134622,6 +134609,19 @@
       "SharesPrnAmount": 28600,
       "Value": 410410,
       "SoleVoting": 28600,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "CITIZENS INC",
+      "Class": "CL A",
+      "Cusip": "174740100",
+      "Ticker": "CIA",
+      "PutCall": "Put",
+      "SharesPrnAmount": 71500,
+      "Value": 410410,
+      "SoleVoting": 71500,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -135355,19 +135355,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "SINCLAIR INC",
-      "Class": "CL A",
-      "Cusip": "829242106",
-      "Ticker": "SBGI",
-      "PutCall": "Put",
-      "SharesPrnAmount": 28200,
-      "Value": 401850,
-      "SoleVoting": 28200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CAREDX INC",
       "Class": "COM",
       "Cusip": "14167L103",
@@ -135376,6 +135363,19 @@
       "SharesPrnAmount": 14100,
       "Value": 401850,
       "SoleVoting": 14100,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "SINCLAIR INC",
+      "Class": "CL A",
+      "Cusip": "829242106",
+      "Ticker": "SBGI",
+      "PutCall": "Put",
+      "SharesPrnAmount": 28200,
+      "Value": 401850,
+      "SoleVoting": 28200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -137071,19 +137071,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "VANECK ETF TRUST",
-      "Class": "BDC INCOME ETF",
-      "Cusip": "92189F411",
-      "Ticker": "BIZD",
-      "PutCall": "Put",
-      "SharesPrnAmount": 30200,
-      "Value": 382332,
-      "SoleVoting": 30200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "ETF OPPORTUNITIES TRUST",
       "Class": "TAPPALPHA S&P",
       "Cusip": "26923N553",
@@ -137092,6 +137079,19 @@
       "SharesPrnAmount": 15100,
       "Value": 382332,
       "SoleVoting": 15100,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "VANECK ETF TRUST",
+      "Class": "BDC INCOME ETF",
+      "Cusip": "92189F411",
+      "Ticker": "BIZD",
+      "PutCall": "Put",
+      "SharesPrnAmount": 30200,
+      "Value": 382332,
+      "SoleVoting": 30200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -144442,19 +144442,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "KELLY SVCS INC",
-      "Class": "CL A",
-      "Cusip": "488152208",
-      "Ticker": "KELYA",
-      "PutCall": "Put",
-      "SharesPrnAmount": 24600,
-      "Value": 302088,
-      "SoleVoting": 24600,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SKY HARBOUR GROUP CORPORATIO",
       "Class": "COM CL A",
       "Cusip": "83085C107",
@@ -144463,6 +144450,19 @@
       "SharesPrnAmount": 30700,
       "Value": 302088,
       "SoleVoting": 30700,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "KELLY SVCS INC",
+      "Class": "CL A",
+      "Cusip": "488152208",
+      "Ticker": "KELYA",
+      "PutCall": "Put",
+      "SharesPrnAmount": 24600,
+      "Value": 302088,
+      "SoleVoting": 24600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -151215,19 +151215,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "PALOMAR HLDGS INC",
-      "Class": "COM",
-      "Cusip": "69753M105",
-      "Ticker": "PLMR",
-      "PutCall": "Put",
-      "SharesPrnAmount": 1900,
-      "Value": 240141,
-      "SoleVoting": 1900,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "TIDAL TRUST II",
       "Class": "YIEL MAGN 7 ETFS",
       "Cusip": "88636J642",
@@ -151236,6 +151223,19 @@
       "SharesPrnAmount": 20900,
       "Value": 240141,
       "SoleVoting": 20900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "PALOMAR HLDGS INC",
+      "Class": "COM",
+      "Cusip": "69753M105",
+      "Ticker": "PLMR",
+      "PutCall": "Put",
+      "SharesPrnAmount": 1900,
+      "Value": 240141,
+      "SoleVoting": 1900,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -153243,19 +153243,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "REX AMERICAN RES CORP",
-      "Class": "COM",
-      "Cusip": "761624105",
-      "Ticker": "REX",
-      "PutCall": "Put",
-      "SharesPrnAmount": 5000,
-      "Value": 225750,
-      "SoleVoting": 5000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "CAESARSTONE LTD",
       "Class": "ORD SHS",
       "Cusip": "M20598104",
@@ -153264,6 +153251,19 @@
       "SharesPrnAmount": 107500,
       "Value": 225750,
       "SoleVoting": 107500,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "REX AMERICAN RES CORP",
+      "Class": "COM",
+      "Cusip": "761624105",
+      "Ticker": "REX",
+      "PutCall": "Put",
+      "SharesPrnAmount": 5000,
+      "Value": 225750,
+      "SoleVoting": 5000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -155219,19 +155219,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "COLUMBUS MCKINNON CORP N Y",
-      "Class": "COM",
-      "Cusip": "199333105",
-      "Ticker": "CMCO",
-      "PutCall": "Put",
-      "SharesPrnAmount": 14000,
-      "Value": 211820,
-      "SoleVoting": 14000,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SEQUANS COMMUNICATIONS S A",
       "Class": "SPONSORED ADS",
       "Cusip": "817323405",
@@ -155240,6 +155227,19 @@
       "SharesPrnAmount": 62300,
       "Value": 211820,
       "SoleVoting": 62300,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "COLUMBUS MCKINNON CORP N Y",
+      "Class": "COM",
+      "Cusip": "199333105",
+      "Ticker": "CMCO",
+      "PutCall": "Put",
+      "SharesPrnAmount": 14000,
+      "Value": 211820,
+      "SoleVoting": 14000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -168700,19 +168700,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "ADDENTAX GROUP CORP",
-      "Class": "COM NEW",
-      "Cusip": "00653L400",
-      "Ticker": "ATXG",
-      "PutCall": "",
-      "SharesPrnAmount": 21777,
-      "Value": 65984,
-      "SoleVoting": 21777,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "SMART POWERR CORP",
       "Class": "COM",
       "Cusip": "168913507",
@@ -168721,6 +168708,19 @@
       "SharesPrnAmount": 32031,
       "Value": 65984,
       "SoleVoting": 32031,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "ADDENTAX GROUP CORP",
+      "Class": "COM NEW",
+      "Cusip": "00653L400",
+      "Ticker": "ATXG",
+      "PutCall": "",
+      "SharesPrnAmount": 21777,
+      "Value": 65984,
+      "SoleVoting": 21777,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -170208,19 +170208,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "IHEARTMEDIA INC",
-      "Class": "COM CL A",
-      "Cusip": "45174J509",
-      "Ticker": "IHRT",
-      "PutCall": "Put",
-      "SharesPrnAmount": 12200,
-      "Value": 52338,
-      "SoleVoting": 12200,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "PLAYBOY INC",
       "Class": "COM",
       "Cusip": "72814P109",
@@ -170229,6 +170216,19 @@
       "SharesPrnAmount": 42900,
       "Value": 52338,
       "SoleVoting": 42900,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "IHEARTMEDIA INC",
+      "Class": "COM CL A",
+      "Cusip": "45174J509",
+      "Ticker": "IHRT",
+      "PutCall": "Put",
+      "SharesPrnAmount": 12200,
+      "Value": 52338,
+      "SoleVoting": 12200,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -176448,5 +176448,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-09-19T03:45:37.555080"
+  "updated_at": "2026-09-26T04:07:11.350345"
 }
