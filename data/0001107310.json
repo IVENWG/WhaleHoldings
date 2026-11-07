@@ -7,8 +7,8 @@
   "style": "",
   "style_zh": "",
   "style_en": "",
-  "report_period": "2026-06-30",
-  "filing_date": "2026-07-06",
+  "report_period": "2026-09-30",
+  "filing_date": "2026-11-06",
   "total_value": 0.0,
   "holdings": [
     {
@@ -25,5 +25,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-10-31T04:40:17.944458"
+  "updated_at": "2026-11-07T05:10:38.134681"
 }
