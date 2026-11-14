@@ -7,9 +7,9 @@
   "style": "克隆投资 / 集中投资 / 丹多框架",
   "style_zh": "克隆投资 / 集中投资 / 丹多框架",
   "style_en": "Cloning strategy / Concentrated investing / Dhandho framework",
-  "report_period": "2026-06-30",
-  "filing_date": "2026-08-13",
-  "total_value": 326749980.0,
+  "report_period": "2026-09-30",
+  "filing_date": "2026-11-13",
+  "total_value": 362064212.0,
   "holdings": [
     {
       "Issuer": "WARRIOR MET COAL INC",
@@ -17,9 +17,9 @@
       "Cusip": "93627C101",
       "Ticker": "HCC",
       "PutCall": "",
-      "SharesPrnAmount": 1744050,
-      "Value": 141547098,
-      "SoleVoting": 1744050,
+      "SharesPrnAmount": 1867295,
+      "Value": 164452671,
+      "SoleVoting": 1867295,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -30,9 +30,9 @@
       "Cusip": "H8817H100",
       "Ticker": "RIG",
       "PutCall": "",
-      "SharesPrnAmount": 20398659,
-      "Value": 99749443,
-      "SoleVoting": 20398659,
+      "SharesPrnAmount": 28475305,
+      "Value": 149210598,
+      "SoleVoting": 28475305,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -43,9 +43,9 @@
       "Cusip": "020764106",
       "Ticker": "AMR",
       "PutCall": "",
-      "SharesPrnAmount": 517194,
-      "Value": 85305978,
-      "SoleVoting": 517194,
+      "SharesPrnAmount": 170744,
+      "Value": 28722556,
+      "SoleVoting": 170744,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -56,13 +56,13 @@
       "Cusip": "48581R205",
       "Ticker": "KSPI",
       "PutCall": "",
-      "SharesPrnAmount": 1702,
-      "Value": 147461,
-      "SoleVoting": 1702,
+      "SharesPrnAmount": 209211,
+      "Value": 19678387,
+      "SoleVoting": 209211,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-11-07T05:10:12.875771"
+  "updated_at": "2026-11-14T05:30:38.354076"
 }
