@@ -7,10 +7,23 @@
   "style": "价值投资 / 高度集中 / 深度研究",
   "style_zh": "价值投资 / 高度集中 / 深度研究",
   "style_en": "Value investing / Concentrated portfolio / Deep research",
-  "report_period": "2026-06-30",
-  "filing_date": "2026-08-14",
-  "total_value": 3702921098.0,
+  "report_period": "2026-09-30",
+  "filing_date": "2026-11-16",
+  "total_value": 3781431260.0,
   "holdings": [
+    {
+      "Issuer": "PDD HOLDINGS INC",
+      "Class": "SPON ADS",
+      "Cusip": "722304102",
+      "Ticker": "PDD",
+      "PutCall": "",
+      "SharesPrnAmount": 11761119,
+      "Value": 916661615,
+      "SoleVoting": 11761119,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
     {
       "Issuer": "ALPHABET INC",
       "Class": "CAP STK CL A",
@@ -18,7 +31,7 @@
       "Ticker": "GOOGL",
       "PutCall": "",
       "SharesPrnAmount": 2543300,
-      "Value": 908899121,
+      "Value": 875098664,
       "SoleVoting": 2543300,
       "SharedVoting": 0,
       "NonVoting": 0,
@@ -31,21 +44,8 @@
       "Ticker": "GOOG",
       "PutCall": "",
       "SharesPrnAmount": 2451300,
-      "Value": 866117829,
+      "Value": 835255962,
       "SoleVoting": 2451300,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
-      "Issuer": "PDD HOLDINGS INC",
-      "Class": "SPON ADS",
-      "Cusip": "722304102",
-      "Ticker": "PDD",
-      "PutCall": "",
-      "SharesPrnAmount": 10761119,
-      "Value": 820858157,
-      "SoleVoting": 10761119,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -57,7 +57,7 @@
       "Ticker": "BRKB",
       "PutCall": "",
       "SharesPrnAmount": 1108318,
-      "Value": 554591244,
+      "Value": 551886948,
       "SoleVoting": 1108318,
       "SharedVoting": 0,
       "NonVoting": 0,
@@ -70,8 +70,21 @@
       "Ticker": "EWBC",
       "PutCall": "",
       "SharesPrnAmount": 2776351,
-      "Value": 358399151,
+      "Value": 344073179,
       "SoleVoting": 2776351,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "TENCENT MUSIC ENTERTAINM",
+      "Class": "SPON ADS",
+      "Cusip": "88034P109",
+      "Ticker": "TME",
+      "PutCall": "",
+      "SharesPrnAmount": 14824464,
+      "Value": 117558000,
+      "SoleVoting": 14824464,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -83,21 +96,8 @@
       "Ticker": "CROX",
       "PutCall": "",
       "SharesPrnAmount": 887093,
-      "Value": 107018900,
+      "Value": 104064880,
       "SoleVoting": 887093,
-      "SharedVoting": 0,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
-      "Issuer": "TENCENT MUSIC ENTERTAINM",
-      "Class": "SPON ADS",
-      "Cusip": "88034P109",
-      "Ticker": "TME",
-      "PutCall": "",
-      "SharesPrnAmount": 6590836,
-      "Value": 55033481,
-      "SoleVoting": 6590836,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
@@ -109,12 +109,12 @@
       "Ticker": "AAPL",
       "PutCall": "",
       "SharesPrnAmount": 110600,
-      "Value": 32003216,
+      "Value": 36832012,
       "SoleVoting": 110600,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-11-14T05:30:38.284952"
+  "updated_at": "2026-11-21T06:08:14.377634"
 }

@@ -5112,7 +5112,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "254687106",
       "Ticker": "DIS",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 411200,
       "Value": 43134880,
       "SoleVoting": 0,
@@ -5125,7 +5125,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "254687106",
       "Ticker": "DIS",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 411200,
       "Value": 43134880,
       "SoleVoting": 0,
@@ -15135,7 +15135,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "78464A888",
       "Ticker": "XHB",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 71200,
       "Value": 6837336,
       "SoleVoting": 0,
@@ -15148,7 +15148,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "78464A888",
       "Ticker": "XHB",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 71200,
       "Value": 6837336,
       "SoleVoting": 0,
@@ -38531,19 +38531,6 @@
       "Type": "Shares"
     },
     {
-      "Issuer": "COGNITION THERAP",
-      "Class": "COMMON STOCK",
-      "Cusip": "19243B102",
-      "Ticker": "CGTX",
-      "PutCall": "",
-      "SharesPrnAmount": 71065,
-      "Value": 68222,
-      "SoleVoting": 0,
-      "SharedVoting": 71065,
-      "NonVoting": 0,
-      "Type": "Shares"
-    },
-    {
       "Issuer": "ISHARES MSCI JPN",
       "Class": "EQUITY OPTION",
       "Cusip": "46434G822",
@@ -38553,6 +38540,19 @@
       "Value": 68222,
       "SoleVoting": 0,
       "SharedVoting": 700,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "COGNITION THERAP",
+      "Class": "COMMON STOCK",
+      "Cusip": "19243B102",
+      "Ticker": "CGTX",
+      "PutCall": "",
+      "SharesPrnAmount": 71065,
+      "Value": 68222,
+      "SoleVoting": 0,
+      "SharedVoting": 71065,
       "NonVoting": 0,
       "Type": "Shares"
     },
@@ -38935,10 +38935,10 @@
     },
     {
       "Issuer": "PDD HOLDINGS INC",
-      "Class": "EQUITY OPTION",
+      "Class": "ADR",
       "Cusip": "722304102",
       "Ticker": "PDD",
-      "PutCall": "Call",
+      "PutCall": "",
       "SharesPrnAmount": 600,
       "Value": 46764,
       "SoleVoting": 0,
@@ -38948,10 +38948,10 @@
     },
     {
       "Issuer": "PDD HOLDINGS INC",
-      "Class": "ADR",
+      "Class": "EQUITY OPTION",
       "Cusip": "722304102",
       "Ticker": "PDD",
-      "PutCall": "",
+      "PutCall": "Call",
       "SharesPrnAmount": 600,
       "Value": 46764,
       "SoleVoting": 0,
@@ -39913,7 +39913,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "69318G106",
       "Ticker": "PBF",
-      "PutCall": "Put",
+      "PutCall": "Call",
       "SharesPrnAmount": 100,
       "Value": 7696,
       "SoleVoting": 0,
@@ -39926,7 +39926,7 @@
       "Class": "EQUITY OPTION",
       "Cusip": "69318G106",
       "Ticker": "PBF",
-      "PutCall": "Call",
+      "PutCall": "Put",
       "SharesPrnAmount": 100,
       "Value": 7696,
       "SoleVoting": 0,
@@ -40078,5 +40078,5 @@
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-11-14T05:30:54.967188"
+  "updated_at": "2026-11-21T06:08:29.587914"
 }

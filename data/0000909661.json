@@ -7,23 +7,36 @@
   "style": "",
   "style_zh": "",
   "style_en": "",
-  "report_period": "2026-03-31",
-  "filing_date": "2026-08-14",
-  "total_value": 1522908900.0,
+  "report_period": "2025-12-31",
+  "filing_date": "2026-11-16",
+  "total_value": 1048948790.0,
   "holdings": [
     {
-      "Issuer": "ELECTRONIC ARTS INC",
+      "Issuer": "KENVUE INC",
       "Class": "COM",
-      "Cusip": "285512109",
-      "Ticker": "EA",
+      "Cusip": "49177J102",
+      "Ticker": "KVUE",
       "PutCall": "",
-      "SharesPrnAmount": 7470000,
-      "Value": 1522908900,
-      "SoleVoting": 7470000,
+      "SharesPrnAmount": 41475000,
+      "Value": 715443750,
+      "SoleVoting": 41475000,
+      "SharedVoting": 0,
+      "NonVoting": 0,
+      "Type": "Shares"
+    },
+    {
+      "Issuer": "WARNER BROS DISCOVERY INC",
+      "Class": "COM SER A",
+      "Cusip": "934423104",
+      "Ticker": "WBD",
+      "PutCall": "",
+      "SharesPrnAmount": 11572000,
+      "Value": 333505040,
+      "SoleVoting": 11572000,
       "SharedVoting": 0,
       "NonVoting": 0,
       "Type": "Shares"
     }
   ],
-  "updated_at": "2026-11-14T05:30:49.059801"
+  "updated_at": "2026-11-21T06:08:24.684912"
 }
